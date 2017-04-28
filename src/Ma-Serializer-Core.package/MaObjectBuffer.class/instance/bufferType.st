@@ -1,0 +1,4 @@
+private
+bufferType
+
+	self subclassResponsibility

@@ -1,0 +1,4 @@
+accessing
+bufferSize
+
+	^byteArray size

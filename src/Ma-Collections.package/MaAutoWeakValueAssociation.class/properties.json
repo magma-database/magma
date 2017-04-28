@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaWeakAssociation",
+	"category" : "Ma-Collections-Dictionarys-Auto",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"key"
+	],
+	"name" : "MaAutoWeakValueAssociation",
+	"type" : "weak"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "cmm 8/4/2011 20:31",
+	"super" : "MaObject",
+	"category" : "Ma object serialization-Buffers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"BufferClasses",
+		"BufferPositionMaps"
+	],
+	"instvars" : [
+		"byteArray",
+		"startPos"
+	],
+	"name" : "MaObjectBuffer",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+accessing
+runningTime
+	^ stopwatch duration

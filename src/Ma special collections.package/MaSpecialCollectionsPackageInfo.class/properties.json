@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PackageInfo",
+	"category" : "Ma special collections-Info",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaSpecialCollectionsPackageInfo",
+	"type" : "normal"
+}

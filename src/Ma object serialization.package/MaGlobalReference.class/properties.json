@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma object serialization-support",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"globalName"
+	],
+	"name" : "MaGlobalReference",
+	"type" : "normal"
+}

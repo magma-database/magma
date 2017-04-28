@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "Igor.Stasenko 5/12/2010 19:07",
+	"super" : "MaDictionary",
+	"category" : "Ma special collections-Dictionarys-Auto",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"IsSupported"
+	],
+	"instvars" : [
+		"list",
+		"preInitializedAssoc"
+	],
+	"name" : "MaAutoWeakDictionary",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+*ma-core
+isMaUserError
+
+	^false

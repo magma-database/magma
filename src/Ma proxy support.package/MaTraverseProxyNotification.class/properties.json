@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaNotification",
+	"category" : "Ma proxy support-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"proxy"
+	],
+	"name" : "MaTraverseProxyNotification",
+	"type" : "normal"
+}

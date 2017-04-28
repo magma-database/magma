@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 10/7/2009 21:03",
+	"super" : "MaObject",
+	"category" : "Ma base additions-abstractions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"attributes"
+	],
+	"name" : "MaAttributableObject",
+	"type" : "normal"
+}

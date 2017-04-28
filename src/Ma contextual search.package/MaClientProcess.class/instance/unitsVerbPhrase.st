@@ -1,0 +1,3 @@
+accessing
+unitsVerbPhrase
+	^ progressor unitsVerbPhrase

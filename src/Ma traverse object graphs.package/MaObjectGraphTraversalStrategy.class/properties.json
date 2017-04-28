@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Ma traverse object graphs-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"valueWhenBlock",
+		"traverseWhenBlock"
+	],
+	"name" : "MaObjectGraphTraversalStrategy",
+	"type" : "normal"
+}

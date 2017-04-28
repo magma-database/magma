@@ -1,0 +1,1 @@
+I represent a serialized graph of objects.  Normally entire graphs are serialized but a #toCreateProxies: block may be specified for materialization so that the graph will be terminated with proxy objects.

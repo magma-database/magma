@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma object serialization-support",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"objects",
+		"oids",
+		"nextOid"
+	],
+	"name" : "MaOidManager",
+	"type" : "normal"
+}

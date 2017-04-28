@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "MaFixedWidthReport-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"headingText",
+		"headingUnderlineCharacter",
+		"width",
+		"dataAccessBlock",
+		"justification",
+		"leftMarginSize",
+		"useEllipsisOnTruncate",
+		"repeat",
+		"previousValue"
+	],
+	"name" : "MaFixedWidthReportColumn",
+	"type" : "normal"
+}

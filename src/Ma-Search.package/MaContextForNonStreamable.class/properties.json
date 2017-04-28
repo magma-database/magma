@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "cmm 6/28/2013 17:23",
+	"super" : "MaSearchContext",
+	"category" : "Ma-Search-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"queue",
+		"queueingProcess",
+		"doneQueueing"
+	],
+	"name" : "MaContextForNonStreamable",
+	"type" : "normal"
+}

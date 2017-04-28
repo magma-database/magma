@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaWarning",
+	"category" : "Ma-Serializer-Core-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaObjectSerializationWarning",
+	"type" : "normal"
+}

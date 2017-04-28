@@ -1,0 +1,7 @@
+icons
+rewindIcon2
+	^ self 
+		iconNamed: #rewindIcon2
+		ifAbsentPutFromString: 'iVBORw0KGgoAAAANSUhEUgAAAAwAAAALCAYAAABLcGxfAAAAO0lEQVR4XmPABtauXfufaHGQ
+IDYJrOIwQXQJrOLIgsgSWMXRBWESWMWxCeLDpNtAlh/ICiWy4oGYmAYAyOrZsZ2RKbgAAAAA
+SUVORK5CYII='

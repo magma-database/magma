@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 5/1/2005 21:12",
+	"super" : "MaByteObjectBuffer",
+	"category" : "Ma-Serializer-Core-Buffers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaStorageObjectBuffer",
+	"type" : "normal"
+}

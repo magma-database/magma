@@ -1,0 +1,3 @@
+accessing
+classDefinitionsById
+	^ classIdManager classDefinitionsById

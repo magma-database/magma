@@ -1,0 +1,3 @@
+building
+alignCenter
+	justification := #center

@@ -1,0 +1,3 @@
+*ma-core
+asFileDirectory
+	^ self

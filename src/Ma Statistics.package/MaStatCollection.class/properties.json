@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma Statistics-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaStatCollection",
+	"type" : "normal"
+}

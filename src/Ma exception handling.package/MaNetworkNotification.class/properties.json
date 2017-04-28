@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaNotification",
+	"category" : "Ma exception handling-exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaNetworkNotification",
+	"type" : "normal"
+}

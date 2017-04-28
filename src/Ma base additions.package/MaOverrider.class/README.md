@@ -1,0 +1,1 @@
+I provide a list of objects a chance to handle a message and answer a non-nil before allowing the overridee a chance.  Primarily, I am intended to provide chain-of-responsibility for preferences.  A global preferences object is shared by most, but need to be selectively overridden.

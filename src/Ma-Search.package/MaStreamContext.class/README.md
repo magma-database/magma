@@ -1,0 +1,1 @@
+All of the context searching works by sending #next to the context to obtain the next object for evaluation.

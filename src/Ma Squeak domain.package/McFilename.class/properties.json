@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma Squeak domain-Utilities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"packageName",
+		"author",
+		"extension",
+		"versionNumber"
+	],
+	"name" : "McFilename",
+	"type" : "normal"
+}

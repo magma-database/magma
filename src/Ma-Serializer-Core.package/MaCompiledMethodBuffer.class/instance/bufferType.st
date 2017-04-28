@@ -1,0 +1,3 @@
+private
+bufferType
+	^ 6

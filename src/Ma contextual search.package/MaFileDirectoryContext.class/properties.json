@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaContextForNonStreamable",
+	"category" : "Ma contextual search-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fileDirectory"
+	],
+	"name" : "MaFileDirectoryContext",
+	"type" : "normal"
+}

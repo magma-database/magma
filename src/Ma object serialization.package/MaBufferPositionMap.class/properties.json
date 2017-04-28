@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 8/26/2008 02:36",
+	"super" : "MaObject",
+	"category" : "Ma object serialization-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaBufferPositionMap",
+	"type" : "normal"
+}

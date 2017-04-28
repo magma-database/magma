@@ -1,0 +1,3 @@
+initializing
+knowsSearchSize
+	^ true

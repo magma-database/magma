@@ -1,0 +1,3 @@
+*ma-serializer-core
+maSelectPreMadeObjectBufferFrom: aMaObjectSerializer 
+	^ aMaObjectSerializer preMadeCompiledMethodBuffer

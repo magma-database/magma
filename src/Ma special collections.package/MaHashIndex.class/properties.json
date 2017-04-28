@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "MaMagnitudeIndex",
+	"category" : "Ma special collections-Numbers collections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"hashRecordSize",
+		"record",
+		"recordFactory",
+		"guard"
+	],
+	"name" : "MaHashIndex",
+	"type" : "normal"
+}

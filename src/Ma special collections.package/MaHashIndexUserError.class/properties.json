@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaUserError",
+	"category" : "Ma special collections-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaHashIndexUserError",
+	"type" : "normal"
+}

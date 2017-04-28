@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PackageInfo",
+	"category" : "Ma contextual search-Info",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaContextualSearchPackageInfo",
+	"type" : "normal"
+}

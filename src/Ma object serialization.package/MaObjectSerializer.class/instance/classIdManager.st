@@ -1,0 +1,4 @@
+accessing
+classIdManager
+
+	^classIdManager

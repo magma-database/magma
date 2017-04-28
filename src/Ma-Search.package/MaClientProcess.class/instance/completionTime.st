@@ -1,0 +1,3 @@
+accessing
+completionTime
+	^ progressor completionTime

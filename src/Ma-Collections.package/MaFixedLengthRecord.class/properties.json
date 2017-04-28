@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma-Collections-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"byteArray"
+	],
+	"name" : "MaFixedLengthRecord",
+	"type" : "normal"
+}

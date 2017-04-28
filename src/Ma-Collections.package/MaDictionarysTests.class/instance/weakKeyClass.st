@@ -1,0 +1,3 @@
+weak keys
+weakKeyClass
+	^ MaWeakKeyDictionary.

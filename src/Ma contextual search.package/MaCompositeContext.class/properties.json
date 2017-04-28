@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 3/6/2008 22:38",
+	"super" : "MaAbstractContext",
+	"category" : "Ma contextual search-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"subcontexts",
+		"didRefresh"
+	],
+	"name" : "MaCompositeContext",
+	"type" : "normal"
+}

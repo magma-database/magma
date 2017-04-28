@@ -1,0 +1,4 @@
+access
+classVersion
+
+	^ 1

@@ -1,0 +1,3 @@
+testing
+hasHeading
+	^ headingText notNil

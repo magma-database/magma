@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 1/13/2005 14:25",
+	"super" : "ProtoObject",
+	"category" : "Ma proxy support",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaMinimalObject",
+	"type" : "normal"
+}

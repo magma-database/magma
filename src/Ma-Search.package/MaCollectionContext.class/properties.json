@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaStreamContext",
+	"category" : "Ma-Search-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaCollectionContext",
+	"type" : "normal"
+}

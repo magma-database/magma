@@ -1,0 +1,1 @@
+I am a buffer for an object that requires first-class, custom 'storage-object' for serialization.  I contain a MaSerializedGraphBuffer which can be used to materialize the first-class storage object.

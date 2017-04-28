@@ -1,0 +1,3 @@
+testing
+knowsTaskSize
+	^ progressor knowsTaskSize

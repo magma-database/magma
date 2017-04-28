@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma-Core-Abstractions",
+	"classinstvars" : [
+		"current"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaSingleton",
+	"type" : "normal"
+}

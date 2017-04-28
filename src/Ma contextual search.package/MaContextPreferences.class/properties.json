@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma contextual search-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Global"
+	],
+	"instvars" : [
+		"maximumScanTime",
+		"maximumScanResults"
+	],
+	"name" : "MaContextPreferences",
+	"type" : "normal"
+}

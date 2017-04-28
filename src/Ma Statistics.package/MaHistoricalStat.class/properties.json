@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "cmm 5/6/2008 13:00",
+	"super" : "MaStat",
+	"category" : "Ma Statistics-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"startTime",
+		"endTime"
+	],
+	"name" : "MaHistoricalStat",
+	"type" : "normal"
+}

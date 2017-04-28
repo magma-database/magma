@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PackageInfo",
+	"category" : "Ma proxy support-Info",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaProxySupportPackageInfo",
+	"type" : "normal"
+}

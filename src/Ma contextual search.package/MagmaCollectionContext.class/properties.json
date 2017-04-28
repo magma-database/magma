@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MaSearchContext",
+	"category" : "Ma contextual search-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"reader",
+		"position"
+	],
+	"name" : "MagmaCollectionContext",
+	"type" : "normal"
+}

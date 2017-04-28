@@ -1,0 +1,4 @@
+copying
+copyWithSameBuffer
+
+	^ self copy

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PackageInfo",
+	"category" : "Ma base additions-Info",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaBaseAdditionsPackageInfo",
+	"type" : "normal"
+}

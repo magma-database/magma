@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 10/25/2005 22:43",
+	"super" : "Object",
+	"category" : "Ma-Core-Abstractions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaObject",
+	"type" : "normal"
+}

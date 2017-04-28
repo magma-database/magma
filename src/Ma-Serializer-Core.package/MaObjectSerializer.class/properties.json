@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "cmm 8/3/2011 17:46",
+	"super" : "MaObject",
+	"category" : "Ma-Serializer-Core-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"oidManager",
+		"classIdManager",
+		"preMadeObjectBuffers",
+		"graphBuffer",
+		"createProxyBlock",
+		"traversalStrategy",
+		"amBusy",
+		"preferences",
+		"bpMapIndex"
+	],
+	"name" : "MaObjectSerializer",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PackageInfo",
+	"category" : "Ma-Ascii-Report-Info",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaFixedWidthReportPackageInfo",
+	"type" : "normal"
+}

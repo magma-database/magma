@@ -1,0 +1,3 @@
+building
+space
+	self append: ' '

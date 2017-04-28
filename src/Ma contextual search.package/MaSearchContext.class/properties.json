@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "MaAbstractContext",
+	"category" : "Ma contextual search-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"accessSelector",
+		"results",
+		"preferences",
+		"scanProcess",
+		"timer"
+	],
+	"name" : "MaSearchContext",
+	"type" : "normal"
+}

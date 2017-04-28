@@ -1,0 +1,4 @@
+subclass responsibility
+headerSize
+
+	self subclassResponsibility

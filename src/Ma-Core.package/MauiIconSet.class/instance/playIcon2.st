@@ -1,0 +1,6 @@
+icons
+playIcon2
+	^ self 
+		iconNamed: #playIcon2
+		ifAbsentPutFromString: 'iVBORw0KGgoAAAANSUhEUgAAAAYAAAALCAYAAABcUvyWAAAAMElEQVR4XmNYu3btfwZsYC1Q
+Yi02SZgEhiSyBIokugRcEpsEWJJoHcS7Cqs/sHkcABCXbNkBJE4kAAAAAElFTkSuQmCC'

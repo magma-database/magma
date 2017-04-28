@@ -1,0 +1,4 @@
+accessing
+classDefinitionsById
+
+	^classDefinitionsById

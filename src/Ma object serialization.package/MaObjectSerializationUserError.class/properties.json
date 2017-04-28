@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaUserError",
+	"category" : "Ma object serialization-exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaObjectSerializationUserError",
+	"type" : "normal"
+}

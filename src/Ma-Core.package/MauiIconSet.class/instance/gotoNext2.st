@@ -1,0 +1,7 @@
+icons
+gotoNext2
+	^ self 
+		iconNamed: #gotoNext2
+		ifAbsentPutFromString: 'iVBORw0KGgoAAAANSUhEUgAAAAgAAAALCAYAAABCm8wlAAAAOElEQVR4XmPYv3//fwYsYO/e
+vf9BmGE/UMF+LIowFKArwqoAWRFOBTBFeBWAMPkmkO8LvOGALyQB3LO7Fa8EeKgAAAAASUVO
+RK5CYII='

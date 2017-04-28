@@ -1,0 +1,4 @@
+private
+sizeOfRecordNumber
+
+	^4

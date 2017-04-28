@@ -1,0 +1,4 @@
+override
+nextRecordNumber
+
+	self subclassResponsibility 

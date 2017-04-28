@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "Igor.Stasenko 5/12/2010 21:02",
+	"super" : "Object",
+	"category" : "Ma-Collections-Dictionarys-Auto",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"finList",
+		"finNext",
+		"next"
+	],
+	"name" : "MaWeakAssociation",
+	"type" : "weak"
+}

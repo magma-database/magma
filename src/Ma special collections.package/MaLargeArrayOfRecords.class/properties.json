@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 3/18/2007 23:38",
+	"super" : "MaObject",
+	"category" : "Ma special collections-Numbers collections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"broker"
+	],
+	"name" : "MaLargeArrayOfRecords",
+	"type" : "normal"
+}

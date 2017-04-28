@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MaObject",
+	"category" : "Ma base additions-domains",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream"
+	],
+	"name" : "MaTextMessage",
+	"type" : "normal"
+}

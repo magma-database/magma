@@ -1,0 +1,3 @@
+building
+alignRight
+	justification := #right

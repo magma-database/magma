@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "",
+	"super" : "MaClassReference",
+	"category" : "Ma-Serializer-Core-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"instVarNames",
+		"version",
+		"superclassDefinition",
+		"category",
+		"type",
+		"comment",
+		"commentStamp",
+		"classVarNames",
+		"poolDictionaryNames",
+		"classInstVarNames",
+		"aliases"
+	],
+	"name" : "MaClassDefinition",
+	"type" : "normal"
+}

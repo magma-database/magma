@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 5/25/2010 12:37",
+	"super" : "MaObject",
+	"category" : "Ma-Core-Utilities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"QuitOnError"
+	],
+	"instvars" : [ ],
+	"name" : "MaCommandLineProcessor",
+	"type" : "normal"
+}

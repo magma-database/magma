@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MaSingleton",
+	"category" : "Ma-Serializer-Tests-SUnit tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"allNonCollectionSamples",
+		"interval"
+	],
+	"name" : "MaFixtureFactory",
+	"type" : "normal"
+}

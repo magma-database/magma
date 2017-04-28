@@ -1,0 +1,3 @@
+*ma-core
+isBoolean
+	^ true

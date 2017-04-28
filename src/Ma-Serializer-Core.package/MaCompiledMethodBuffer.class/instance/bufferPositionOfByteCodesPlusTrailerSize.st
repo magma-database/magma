@@ -1,0 +1,3 @@
+private
+bufferPositionOfByteCodesPlusTrailerSize
+	^ self bpMap bufferPositionOfByteCodesPlusTrailerSize

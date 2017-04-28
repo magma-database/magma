@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 8/10/2010 21:07",
+	"super" : "MaObjectBuffer",
+	"category" : "Ma object serialization-Buffers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaFixedObjectBuffer",
+	"type" : "normal"
+}

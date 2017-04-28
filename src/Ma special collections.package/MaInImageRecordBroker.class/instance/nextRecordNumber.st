@@ -1,0 +1,4 @@
+initialize
+nextRecordNumber
+
+	^ records size

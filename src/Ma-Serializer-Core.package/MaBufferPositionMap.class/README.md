@@ -1,0 +1,1 @@
+This is an abstraction for the attributes available on a MaObjectBuffer.  Subclasses may override and extend.

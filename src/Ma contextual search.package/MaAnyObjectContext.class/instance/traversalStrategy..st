@@ -1,0 +1,4 @@
+accessing
+traversalStrategy: aMaObjectGraphTraversalStrategy
+
+	traversalStrategy := aMaObjectGraphTraversalStrategy

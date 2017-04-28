@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "cmm 11/20/2007 17:46",
+	"super" : "MaObject",
+	"category" : "Ma contextual search-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"process",
+		"shouldStop",
+		"waiterOnStop",
+		"progressor",
+		"shouldPause",
+		"waiterOnResume"
+	],
+	"name" : "MaClientProcess",
+	"type" : "normal"
+}

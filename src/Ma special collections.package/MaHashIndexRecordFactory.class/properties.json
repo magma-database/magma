@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma special collections-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"index",
+		"recordNumbersPath",
+		"entryIndexPath",
+		"byteArrayIndexPath",
+		"recordPath",
+		"preMadeNewRecord"
+	],
+	"name" : "MaHashIndexRecordFactory",
+	"type" : "normal"
+}

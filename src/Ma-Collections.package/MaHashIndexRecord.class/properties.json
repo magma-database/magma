@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "cmm 4/28/2005 21:25",
+	"super" : "MaFixedLengthRecord",
+	"category" : "Ma-Collections-private",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MaHashIndexRecordConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"recordNumber",
+		"lowKey",
+		"highKey",
+		"keySize",
+		"valueSize",
+		"numberOfSlots",
+		"entrySize",
+		"entryWeight",
+		"canHoldDuplicateKeys"
+	],
+	"name" : "MaHashIndexRecord",
+	"type" : "normal"
+}

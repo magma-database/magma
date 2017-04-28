@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 6/4/2005 00:48",
+	"super" : "MaObject",
+	"category" : "Ma special collections-Numbers collections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"intervals",
+		"proximityThreshold"
+	],
+	"name" : "MaIntervalCollection",
+	"type" : "normal"
+}

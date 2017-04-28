@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaAssociation",
+	"category" : "Ma-Collections-Dictionarys",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaIdentityKeyAssociation",
+	"type" : "normal"
+}

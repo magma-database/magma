@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MaStatCollection",
+	"category" : "Ma object serialization-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timeToSerializeHistory",
+		"timeToMaterializeHistory",
+		"houseCleaningTimeHistory"
+	],
+	"name" : "MaSerializationStat",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaRecordBroker",
+	"category" : "Ma special collections-Records",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"file"
+	],
+	"name" : "MaFileRecordBroker",
+	"type" : "normal"
+}

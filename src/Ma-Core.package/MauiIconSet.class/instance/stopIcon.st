@@ -1,0 +1,6 @@
+icons
+stopIcon
+	^ self 
+		iconNamed: #stopIcon
+		ifAbsentPutFromString: 'iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAKElEQVR4XmMQEBD4L0AEZoAx
+ODg4iFeITzGGQlyK6aCQer4mOhwJYQD64HT1PTP9SwAAAABJRU5ErkJggg=='

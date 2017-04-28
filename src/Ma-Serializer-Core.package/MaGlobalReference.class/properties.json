@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma-Serializer-Core-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"globalName"
+	],
+	"name" : "MaGlobalReference",
+	"type" : "normal"
+}

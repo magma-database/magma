@@ -1,0 +1,1 @@
+I represent large Array of ByteArray "records".  I am capable of being truly large when my 'broker' is a MaFileRecordBroker, and I am mostly used with such a broker, even though my default is an MaInImageRecordBroker.

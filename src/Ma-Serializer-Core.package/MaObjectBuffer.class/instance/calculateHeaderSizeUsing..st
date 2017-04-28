@@ -1,0 +1,3 @@
+private
+calculateHeaderSizeUsing: aMaBufferPositionMap
+	^ aMaBufferPositionMap headerSize

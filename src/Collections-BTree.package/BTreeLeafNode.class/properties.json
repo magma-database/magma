@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BTreeNode",
+	"category" : "Collections-BTree",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BTreeLeafNode",
+	"type" : "variable"
+}

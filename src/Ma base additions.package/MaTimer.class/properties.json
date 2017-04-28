@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "cmm 5/2/2008 11:59",
+	"super" : "MaObject",
+	"category" : "Ma base additions-domains",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"process",
+		"monitor",
+		"expired",
+		"delay"
+	],
+	"name" : "MaTimer",
+	"type" : "normal"
+}

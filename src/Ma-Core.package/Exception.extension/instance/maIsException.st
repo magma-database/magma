@@ -1,0 +1,4 @@
+*ma-core
+maIsException
+
+	^true

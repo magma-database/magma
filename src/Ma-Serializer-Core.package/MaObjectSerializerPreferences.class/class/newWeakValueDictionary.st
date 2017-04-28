@@ -1,0 +1,3 @@
+special collections
+newWeakValueDictionary
+	^ self weakValueDictionaryClass new

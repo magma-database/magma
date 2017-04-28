@@ -1,0 +1,4 @@
+atomics
+firstCharacterOid
+
+	^ 4

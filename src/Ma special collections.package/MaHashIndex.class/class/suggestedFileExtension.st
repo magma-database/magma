@@ -1,0 +1,4 @@
+creation
+suggestedFileExtension
+
+	^'hdx'

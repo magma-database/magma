@@ -1,0 +1,3 @@
+private
+resetDifferences
+	differences := nil

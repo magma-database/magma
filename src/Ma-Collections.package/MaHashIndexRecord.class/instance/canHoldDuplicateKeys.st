@@ -1,0 +1,4 @@
+testing
+canHoldDuplicateKeys
+
+	^canHoldDuplicateKeys

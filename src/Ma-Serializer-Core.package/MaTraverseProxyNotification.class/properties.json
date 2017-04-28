@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MaNotification",
+	"category" : "Ma-Serializer-Core-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"proxy",
+		"path"
+	],
+	"name" : "MaTraverseProxyNotification",
+	"type" : "normal"
+}

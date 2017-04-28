@@ -1,0 +1,3 @@
+private
+childrenClass
+	^ IdentityDictionary

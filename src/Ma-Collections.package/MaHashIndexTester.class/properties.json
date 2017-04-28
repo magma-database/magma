@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "MaTestCase",
+	"category" : "Ma-Collections-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sortedKeys",
+		"predictedSize",
+		"index",
+		"values",
+		"nextValue"
+	],
+	"name" : "MaHashIndexTester",
+	"type" : "normal"
+}

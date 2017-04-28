@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaError",
+	"category" : "Ma exception handling-exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaCorruptionError",
+	"type" : "normal"
+}

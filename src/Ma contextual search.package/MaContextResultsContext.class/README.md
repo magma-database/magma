@@ -1,0 +1,1 @@
+I represent the results of the scan performed by some MaContext.  I provide categories for the results by a "relevance factor."  1 is the most relevant, higher numbers are less relevant.  The relevance factor is also, quite simply, the index into my resultsByRelevance.

@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma object serialization-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"WeakIdentityKeyDictionaryClass",
+		"WeakValueDictionaryClass"
+	],
+	"instvars" : [
+		"preSerializers",
+		"postSerializers",
+		"postMaterializers"
+	],
+	"name" : "MaObjectSerializerPreferences",
+	"type" : "normal"
+}

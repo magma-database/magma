@@ -1,0 +1,3 @@
+copying
+postIndependentCopy
+	self trimByteArray

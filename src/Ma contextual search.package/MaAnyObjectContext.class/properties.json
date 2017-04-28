@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 12/8/2004 23:01",
+	"super" : "MaContextForNonStreamable",
+	"category" : "Ma contextual search-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"object",
+		"traversalStrategy"
+	],
+	"name" : "MaAnyObjectContext",
+	"type" : "normal"
+}

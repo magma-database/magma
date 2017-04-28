@@ -1,0 +1,3 @@
+private
+bufferPositionOfMethodHeader
+	^ self bpMap bufferPositionOfMethodHeader

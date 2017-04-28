@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaDictionarysTests",
+	"category" : "Ma-Collections-Dictionarys-Auto-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaWeakIdentityKeyDictionaryTest",
+	"type" : "normal"
+}

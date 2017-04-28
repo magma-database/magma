@@ -1,0 +1,3 @@
+accessing
+maWantsPostMaterialization
+	^ self realObjectIfMutatingProxy maWantsPostMaterialization

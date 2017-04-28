@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaStringRequest",
+	"category" : "Ma-Core-Requests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaFileRequest",
+	"type" : "normal"
+}

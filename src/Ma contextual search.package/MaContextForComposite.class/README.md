@@ -1,0 +1,1 @@
+I am a context used to search a Composite domain structure (as in, the Composite design pattern).  To use, you specify the selector that accesses the "children" of each composite.

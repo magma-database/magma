@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BTree",
+	"category" : "Ma special collections-Collections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WeakValueBTree",
+	"type" : "normal"
+}

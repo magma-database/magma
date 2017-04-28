@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Association",
+	"category" : "Ma special collections-Dictionarys",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"next"
+	],
+	"name" : "MaAssociation",
+	"type" : "normal"
+}

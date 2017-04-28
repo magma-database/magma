@@ -1,0 +1,26 @@
+{
+	"commentStamp" : "cmm 12/2/2014 17:01",
+	"super" : "SharedPool",
+	"category" : "Ma-Serializer-Core-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"FirstCharacterOid",
+		"FirstFloatOid",
+		"FirstNewObjectOid",
+		"FirstSmallIntegerOid",
+		"FirstUserObjectOid",
+		"LastCharacterOid",
+		"LastFloatOid",
+		"LastNewObjectOid",
+		"LastSmallIntegerOid",
+		"LastUserObjectOid",
+		"OidForFalse",
+		"OidForNil",
+		"OidForTrue",
+		"OidForZero"
+	],
+	"instvars" : [ ],
+	"name" : "MaSerializerConstants",
+	"type" : "normal"
+}

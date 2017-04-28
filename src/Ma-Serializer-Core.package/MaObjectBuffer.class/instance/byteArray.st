@@ -1,0 +1,4 @@
+private
+byteArray
+
+	^byteArray

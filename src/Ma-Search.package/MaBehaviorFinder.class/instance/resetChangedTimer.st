@@ -1,0 +1,3 @@
+initializing
+resetChangedTimer
+	changedTimer := nil

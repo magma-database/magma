@@ -1,0 +1,4 @@
+*BrpExtensions
+asCollection
+
+	^ self asArray

@@ -1,0 +1,1 @@
+I allow multiple read-streams to be treated as one big stream.  Start by creating me with a Collection of ReadStreams and then you can say next, next, next and I will enumerate them all, in sequence.

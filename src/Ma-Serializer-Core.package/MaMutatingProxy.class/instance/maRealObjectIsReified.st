@@ -1,0 +1,3 @@
+testing
+maRealObjectIsReified
+	self subclassResponsibility

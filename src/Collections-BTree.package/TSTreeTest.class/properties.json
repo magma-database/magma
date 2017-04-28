@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Collections-BTree",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tree",
+		"empty"
+	],
+	"name" : "TSTreeTest",
+	"type" : "normal"
+}

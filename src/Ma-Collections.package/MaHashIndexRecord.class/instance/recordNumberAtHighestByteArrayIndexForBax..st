@@ -1,0 +1,4 @@
+accessing
+recordNumberAtHighestByteArrayIndexForBax: anInteger
+
+	^self recordNumberAtByteArrayIndex: (self highestByteArrayIndexForAnyKeyAt: anInteger)

@@ -1,0 +1,3 @@
+private
+bufferPositionOfClassVersion
+	^ self bpMap bufferPositionOfClassVersion

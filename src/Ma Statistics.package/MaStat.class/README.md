@@ -1,0 +1,1 @@
+The name, "MaStat" is purposefully abbreviated because its capability, itself, is abbreviated.  It is not intended to ever develop into a "statistics framework", only to serve basic statistical purposes.

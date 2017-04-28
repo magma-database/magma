@@ -1,0 +1,4 @@
+scanning
+resetResults
+
+	self subclassResponsibility

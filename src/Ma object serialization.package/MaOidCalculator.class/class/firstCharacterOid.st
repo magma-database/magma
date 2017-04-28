@@ -1,0 +1,4 @@
+special
+firstCharacterOid
+
+	^ 4

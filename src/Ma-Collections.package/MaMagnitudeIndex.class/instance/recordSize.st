@@ -1,0 +1,4 @@
+accessing
+recordSize
+
+	self subclassResponsibility

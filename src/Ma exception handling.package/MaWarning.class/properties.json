@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Warning",
+	"category" : "Ma exception handling-exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaWarning",
+	"type" : "normal"
+}

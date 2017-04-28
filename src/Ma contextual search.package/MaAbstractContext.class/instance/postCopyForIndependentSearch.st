@@ -1,0 +1,3 @@
+copying
+postCopyForIndependentSearch
+	self initializeKeywords

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "MaFixedWidthReport-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"columns",
+		"spacing"
+	],
+	"name" : "MaFixedWidthRowSpecification",
+	"type" : "normal"
+}

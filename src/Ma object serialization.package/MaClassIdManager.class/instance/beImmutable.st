@@ -1,0 +1,3 @@
+building
+beImmutable
+	mutable := false

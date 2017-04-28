@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Dictionary",
+	"category" : "Ma-Collections-Dictionarys",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Primes"
+	],
+	"instvars" : [ ],
+	"name" : "MaDictionary",
+	"type" : "normal"
+}

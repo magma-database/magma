@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaSoftwareError",
+	"category" : "Ma special collections-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaSpecialCollectionsSoftwareError",
+	"type" : "normal"
+}

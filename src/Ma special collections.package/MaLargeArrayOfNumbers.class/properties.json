@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 3/18/2007 22:59",
+	"super" : "MaLargeArrayOfRecords",
+	"category" : "Ma special collections-Numbers collections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaLargeArrayOfNumbers",
+	"type" : "normal"
+}

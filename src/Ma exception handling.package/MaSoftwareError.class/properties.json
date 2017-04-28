@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 5/4/2005 10:25",
+	"super" : "MaError",
+	"category" : "Ma exception handling-exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaSoftwareError",
+	"type" : "normal"
+}

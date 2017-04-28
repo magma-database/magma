@@ -1,0 +1,3 @@
+creation
+createObjectUsing: aMaObjectSerializer
+	self subclassResponsibility

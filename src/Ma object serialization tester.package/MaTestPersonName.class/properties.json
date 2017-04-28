@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma object serialization tester-Test domains",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"first",
+		"middle",
+		"last"
+	],
+	"name" : "MaTestPersonName",
+	"type" : "normal"
+}

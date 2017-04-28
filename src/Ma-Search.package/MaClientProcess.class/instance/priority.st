@@ -1,0 +1,3 @@
+private
+priority
+	^ process priority 

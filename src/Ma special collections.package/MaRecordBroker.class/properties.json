@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 5/18/2005 09:46",
+	"super" : "MaObject",
+	"category" : "Ma special collections-Records",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"headerSize",
+		"recordSize"
+	],
+	"name" : "MaRecordBroker",
+	"type" : "normal"
+}

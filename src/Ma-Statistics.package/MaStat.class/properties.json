@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "cmm 5/6/2008 12:31",
+	"super" : "MaAttributableObject",
+	"category" : "Ma-Statistics-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"count",
+		"sum",
+		"min",
+		"max",
+		"last"
+	],
+	"name" : "MaStat",
+	"type" : "normal"
+}

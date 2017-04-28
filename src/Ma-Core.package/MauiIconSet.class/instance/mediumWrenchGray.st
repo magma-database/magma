@@ -1,0 +1,7 @@
+icons
+mediumWrenchGray
+	^ self 
+		iconNamed: #mediumWrenchGray
+		ifAbsentPutFromString: 'iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAZklEQVR4XmMYVmD//v3/SRGn
+uuX4HEBTR8AsIOQAmjli5DsA2QJ0S/DJ0cwB+PDId8CAOmDALKdLCUh3i0e+5QNmOT4HjHzL
+R36iG/nxPvIT3ci3fOjHOy4H0L1/N6AOoEtHYjABAFG8jXdua1yAAAAAAElFTkSuQmCC'

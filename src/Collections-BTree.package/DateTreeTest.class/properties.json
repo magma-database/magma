@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Collections-BTree",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"now",
+		"sixHours",
+		"tomorrow",
+		"nextWeek",
+		"twoWeeks",
+		"threeWeeks",
+		"timespans"
+	],
+	"name" : "DateTreeTest",
+	"type" : "normal"
+}
