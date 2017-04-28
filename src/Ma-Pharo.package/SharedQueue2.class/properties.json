@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SharedQueue",
+	"category" : "Ma-Pharo",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SharedQueue2",
+	"type" : "normal"
+}
