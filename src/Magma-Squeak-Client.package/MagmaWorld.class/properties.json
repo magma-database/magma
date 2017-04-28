@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 12/28/2015 21:26",
+	"super" : "MaSingleton",
+	"category" : "Magma-Squeak-Client-Application",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"domainVersion"
+	],
+	"name" : "MagmaWorld",
+	"type" : "normal"
+}

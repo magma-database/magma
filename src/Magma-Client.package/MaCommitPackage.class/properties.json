@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 3/8/2005 09:41",
+	"super" : "MaObject",
+	"category" : "Magma-Client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"objects",
+		"allLargeCollectionChanges"
+	],
+	"name" : "MaCommitPackage",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+I am used when Magma discovers it is missing an object and must get it from the user.  For example, when the user invokes a forwarding-proxy to another repository, connection credentials for that repository must be supplied.  Magma does not keep these for you, but it requires them.

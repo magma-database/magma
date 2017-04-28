@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaRepositoryRequest",
+	"category" : "Magma-Client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"additionalBuffers"
+	],
+	"name" : "MaAbortTransactionRequest",
+	"type" : "normal"
+}

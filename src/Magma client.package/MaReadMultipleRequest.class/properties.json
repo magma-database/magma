@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaAbstractReadRequest",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"oids"
+	],
+	"name" : "MaReadMultipleRequest",
+	"type" : "normal"
+}

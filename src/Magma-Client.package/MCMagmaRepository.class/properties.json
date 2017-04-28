@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MCRepository",
+	"category" : "Magma-Client-Code management",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"session",
+		"location"
+	],
+	"name" : "MCMagmaRepository",
+	"type" : "normal"
+}

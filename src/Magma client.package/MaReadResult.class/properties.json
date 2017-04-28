@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaServerResult",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"byteArray"
+	],
+	"name" : "MaReadResult",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaEvent",
+	"category" : "Magma-Client-Events",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"object",
+		"buffer",
+		"restoreData"
+	],
+	"name" : "MagmaRefreshEvent",
+	"type" : "normal"
+}

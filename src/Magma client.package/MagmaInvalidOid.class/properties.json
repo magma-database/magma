@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 3/1/2005 17:34",
+	"super" : "MagmaUserError",
+	"category" : "Magma client-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaInvalidOid",
+	"type" : "normal"
+}

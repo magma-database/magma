@@ -1,0 +1,3 @@
+testing
+maIsLargeCollection
+	^ self realObjectIfMutatingProxy maIsLargeCollection

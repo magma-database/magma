@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Magma client-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"RunningTestCases"
+	],
+	"instvars" : [
+		"magmaId",
+		"attributes",
+		"classDefinitions",
+		"maximumNumberOfChallengers",
+		"codeBase",
+		"links"
+	],
+	"name" : "MagmaRepositoryDefinition",
+	"type" : "normal"
+}

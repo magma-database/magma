@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TheWorldMainDockingBar",
+	"category" : "Magma-Squeak-Client-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaWorldMainDockingBar",
+	"type" : "normal"
+}

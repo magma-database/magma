@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaSoftwareError",
+	"category" : "Magma-Client-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"referencingBuffer",
+		"oidOfMissingBuffer"
+	],
+	"name" : "MagmaInvalidReference",
+	"type" : "normal"
+}

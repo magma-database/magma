@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "cmm 11/21/2011 23:41",
+	"super" : "Object",
+	"category" : "WriteBarrier-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Cache"
+	],
+	"instvars" : [
+		"selector",
+		"class",
+		"fields",
+		"stream"
+	],
+	"name" : "WBMethodBuilder",
+	"type" : "normal"
+}

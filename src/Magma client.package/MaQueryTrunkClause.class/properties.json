@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 6/5/2007 10:46",
+	"super" : "MaClause",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lastKnownSize"
+	],
+	"name" : "MaQueryTrunkClause",
+	"type" : "normal"
+}

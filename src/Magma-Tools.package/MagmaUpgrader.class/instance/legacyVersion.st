@@ -1,0 +1,3 @@
+private
+legacyVersion
+	self subclassResponsibility 

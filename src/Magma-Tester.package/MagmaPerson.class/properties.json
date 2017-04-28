@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaContact",
+	"category" : "Magma-Tester-Test domains",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"birthday",
+		"spouse"
+	],
+	"name" : "MagmaPerson",
+	"type" : "normal"
+}

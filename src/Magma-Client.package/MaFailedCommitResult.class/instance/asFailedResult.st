@@ -1,0 +1,4 @@
+converting
+asFailedResult
+
+	^self

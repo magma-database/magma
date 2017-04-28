@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 7/5/2008 14:42",
+	"super" : "MagmaLocation",
+	"category" : "Magma client-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"location"
+	],
+	"name" : "MagmaRemoteLocation",
+	"type" : "normal"
+}

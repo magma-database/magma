@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaCorruptionError",
+	"category" : "Magma client-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaCorruptionError",
+	"type" : "normal"
+}

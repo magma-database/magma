@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 12/9/2012 11:52",
+	"super" : "MagmaNotification",
+	"category" : "Magma-Client-Notifications",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"oldLink",
+		"newLink"
+	],
+	"name" : "MagmaLinkChange",
+	"type" : "normal"
+}

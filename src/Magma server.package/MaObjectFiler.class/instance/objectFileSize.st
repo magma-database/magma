@@ -1,0 +1,4 @@
+accessing
+objectFileSize
+
+	^file size

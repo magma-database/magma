@@ -1,0 +1,3 @@
+serialization
+maTransientVariables
+	^ #('reader')

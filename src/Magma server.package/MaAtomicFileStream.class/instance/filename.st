@@ -1,0 +1,4 @@
+filestream api
+filename
+
+	^ filename

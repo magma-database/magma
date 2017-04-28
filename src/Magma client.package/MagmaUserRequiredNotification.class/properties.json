@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaUserRequirementNotification",
+	"category" : "Magma client-Notifications",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"session"
+	],
+	"name" : "MagmaUserRequiredNotification",
+	"type" : "normal"
+}

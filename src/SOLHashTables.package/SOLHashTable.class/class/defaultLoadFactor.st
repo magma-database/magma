@@ -1,0 +1,3 @@
+private
+defaultLoadFactor
+	^ 6

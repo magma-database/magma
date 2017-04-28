@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "cmm 7/24/2007 12:08",
+	"super" : "MaTransactionLogEntry",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"commitPackage",
+		"committed",
+		"didCommitSpecialOid"
+	],
+	"name" : "MaCommitLogEntry",
+	"type" : "normal"
+}

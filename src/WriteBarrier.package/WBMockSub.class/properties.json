@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WBMock",
+	"category" : "WriteBarrier-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WBMockSub",
+	"type" : "normal"
+}

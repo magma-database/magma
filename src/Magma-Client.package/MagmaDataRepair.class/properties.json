@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "cmm 4/23/2014 16:42",
+	"super" : "MaAttributableObject",
+	"category" : "Magma-Client-Data Repair",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"location",
+		"session",
+		"startBlock",
+		"enumerateBlock",
+		"checkBlock",
+		"doBlock",
+		"repairBlock",
+		"mode",
+		"count",
+		"lastCommit",
+		"strongReferences"
+	],
+	"name" : "MagmaDataRepair",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 7/15/2009 15:43",
+	"super" : "MaRecoveryRecord",
+	"category" : "Magma-Client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaCommitLogRecord",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "brp 12/21/2005 15:07",
+	"super" : "MagmaCollectionIndex",
+	"category" : "Magma client-MagmaCollections",
+	"classinstvars" : [ ],
+	"pools" : [
+		"ChronologyConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"epoch",
+		"duration",
+		"precision"
+	],
+	"name" : "MaDateAndTimeIndex",
+	"type" : "normal"
+}

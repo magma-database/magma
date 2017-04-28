@@ -1,0 +1,4 @@
+initializing
+cleanUpWriteBarrier
+	self resetCommitPackage.
+	WeakArray removeWeakDependent: builders

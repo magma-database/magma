@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaUserError",
+	"category" : "Magma client-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaEquivalentObjectNotInCollection",
+	"type" : "normal"
+}

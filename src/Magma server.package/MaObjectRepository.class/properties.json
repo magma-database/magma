@@ -1,0 +1,28 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Magma server-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"SimulateOutage"
+	],
+	"instvars" : [
+		"transactionLog",
+		"sessions",
+		"filer",
+		"repositoryController",
+		"largeCollectionManagers",
+		"systemReadStrategy",
+		"nextOid",
+		"recoveryManager",
+		"commitGuard",
+		"applyProcess",
+		"wantsToClose",
+		"filePool",
+		"flushGuard",
+		"restoreMode"
+	],
+	"name" : "MaObjectRepository",
+	"type" : "normal"
+}

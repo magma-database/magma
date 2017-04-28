@@ -1,0 +1,4 @@
+private
+initializeSystemReadStrategy
+
+	repository initializeSystemReadStrategyUsing: self serverSerializer classIdManager

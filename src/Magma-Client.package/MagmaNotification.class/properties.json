@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaClientServerNotification",
+	"category" : "Magma-Client-Notifications",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaNotification",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+private
+populateConflictingObjectsFromOidsUsing: aMaObjectSerializer
+	"MagmaNoTransactionError will only have a MaRefreshViewResult."

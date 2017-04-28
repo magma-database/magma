@@ -1,0 +1,4 @@
+private
+resetServerAddress
+
+	MagmaServerAddress := nil

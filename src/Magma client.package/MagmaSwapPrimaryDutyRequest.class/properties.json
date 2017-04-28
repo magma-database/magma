@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaRepositoryRequest",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"newPrimary",
+		"commitNumber",
+		"branchCode"
+	],
+	"name" : "MagmaSwapPrimaryDutyRequest",
+	"type" : "normal"
+}

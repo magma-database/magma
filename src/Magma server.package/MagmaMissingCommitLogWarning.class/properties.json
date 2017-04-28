@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaWarning",
+	"category" : "Magma server-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaMissingCommitLogWarning",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+private
+isLoaded
+
+	^ segment notNil

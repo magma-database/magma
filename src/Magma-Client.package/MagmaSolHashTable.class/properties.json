@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 4/11/2011 10:33",
+	"super" : "SOLHashTable",
+	"category" : "Magma-Client-MagmaArray",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaSolHashTable",
+	"type" : "normal"
+}

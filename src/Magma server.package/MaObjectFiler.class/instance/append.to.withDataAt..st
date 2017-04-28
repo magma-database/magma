@@ -1,0 +1,18 @@
+private
+append: aMaObjectBuffer to: aMaSerializedGraphBuffer withDataAt: filePositionInteger
+
+	| startPos |
+
+	startPos := aMaSerializedGraphBuffer bufferSize.
+	self
+		ensureByteArrayIn: aMaObjectBuffer
+		and: aMaSerializedGraphBuffer
+		canAccomodate: self trackSize + aMaObjectBuffer bufferPositionOfBytesToStore
+		bytesFrom: startPos + 1.
+	aMaSerializedGraphBuffer increaseBufferSizeBy:
+		(self
+			read: self trackSize
+			bytesInto: aMaObjectBuffer
+			and: aMaSerializedGraphBuffer
+			startingAt: startPos
+			filePosition: filePositionInteger)

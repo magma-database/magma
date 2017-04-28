@@ -1,0 +1,4 @@
+testing
+hasRemoved
+
+	^ false

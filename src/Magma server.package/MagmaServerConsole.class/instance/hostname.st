@@ -1,0 +1,3 @@
+accessing
+hostname
+	^ NetNameResolver localHostName 

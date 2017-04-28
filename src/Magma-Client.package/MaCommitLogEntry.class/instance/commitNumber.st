@@ -1,0 +1,3 @@
+accessing
+commitNumber
+	^ result commitNumber

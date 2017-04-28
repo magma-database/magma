@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "WriteBarrier",
+	"category" : "WriteBarrier-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dirty"
+	],
+	"name" : "DirtySetWriteBarrier",
+	"type" : "normal"
+}

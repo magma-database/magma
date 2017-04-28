@@ -1,0 +1,4 @@
+accessing
+stopTime
+
+	^ result stopTime

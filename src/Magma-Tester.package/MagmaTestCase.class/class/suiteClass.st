@@ -1,0 +1,3 @@
+create suite
+suiteClass
+	^ MagmaTestSuite

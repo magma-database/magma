@@ -1,0 +1,3 @@
+*magma client
+wantsMagmaEvents
+	^ true

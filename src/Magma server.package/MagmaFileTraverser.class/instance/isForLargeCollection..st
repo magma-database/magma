@@ -1,0 +1,3 @@
+testing
+isForLargeCollection: aMaFixedObjectBuffer
+	^ repositoryController isClassIdForLargeCollection: aMaFixedObjectBuffer classId

@@ -1,0 +1,3 @@
+testing
+maRealObjectIsReified
+	^ realObject ~~ nil

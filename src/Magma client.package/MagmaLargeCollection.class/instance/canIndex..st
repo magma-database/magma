@@ -1,0 +1,4 @@
+testing
+canIndex: anObject
+
+	^ false

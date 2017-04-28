@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "cmm 8/21/2008 13:26",
+	"super" : "WriteBarrier",
+	"category" : "Magma-Client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"readSet",
+		"session",
+		"largeCollectionChanges",
+		"commitPackage",
+		"potentialKeysChange",
+		"ignoreModifiedSignals",
+		"commitNumber",
+		"dictionaryArrays"
+	],
+	"name" : "MaTransaction",
+	"type" : "normal"
+}

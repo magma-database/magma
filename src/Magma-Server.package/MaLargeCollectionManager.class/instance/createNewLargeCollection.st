@@ -1,0 +1,3 @@
+override
+createNewLargeCollection
+	self subclassResponsibility

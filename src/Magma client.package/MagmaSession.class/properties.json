@@ -1,0 +1,34 @@
+{
+	"commentStamp" : "cmm 2/25/2005 16:01",
+	"super" : "MaObject",
+	"category" : "Magma client-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ConnectedSessions"
+	],
+	"instvars" : [
+		"id",
+		"user",
+		"serializer",
+		"transaction",
+		"readStrategy",
+		"definition",
+		"preferences",
+		"anchor",
+		"transactionLevel",
+		"strongReferences",
+		"cache",
+		"guard",
+		"statistics",
+		"primaryLink",
+		"secondaryLink",
+		"allowFailover",
+		"oidCount",
+		"lastClean",
+		"requiredProgress",
+		"proxies"
+	],
+	"name" : "MagmaSession",
+	"type" : "normal"
+}

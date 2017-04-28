@@ -1,0 +1,1 @@
+My ranges represent the shortest path through the query.

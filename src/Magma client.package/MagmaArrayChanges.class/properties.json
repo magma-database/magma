@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaLargeCollectionChanges",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"maxIndex"
+	],
+	"name" : "MagmaArrayChanges",
+	"type" : "normal"
+}

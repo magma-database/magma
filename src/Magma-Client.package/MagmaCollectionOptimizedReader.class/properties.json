@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaCollectionReader",
+	"category" : "Magma-Client-MagmaCollections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaCollectionOptimizedReader",
+	"type" : "normal"
+}

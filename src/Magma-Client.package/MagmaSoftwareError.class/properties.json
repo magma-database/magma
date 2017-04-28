@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaSoftwareError",
+	"category" : "Magma-Client-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaSoftwareError",
+	"type" : "normal"
+}

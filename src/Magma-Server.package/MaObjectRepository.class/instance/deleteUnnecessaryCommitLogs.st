@@ -1,0 +1,3 @@
+backup / restore
+deleteUnnecessaryCommitLogs
+	recoveryManager deleteUnnecessaryCommitLogFiles 

@@ -1,0 +1,3 @@
+access
+classVersion
+	^ buffer classVersion

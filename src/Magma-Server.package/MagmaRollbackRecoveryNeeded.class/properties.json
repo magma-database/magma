@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaWarning",
+	"category" : "Magma-Server-Recovery",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaRollbackRecoveryNeeded",
+	"type" : "normal"
+}

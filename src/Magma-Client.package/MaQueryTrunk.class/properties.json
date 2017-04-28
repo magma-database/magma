@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MaObject",
+	"category" : "Magma-Client-private (MagmaCollections)",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"clauses"
+	],
+	"name" : "MaQueryTrunk",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaNotification",
+	"category" : "Magma-Client-Notifications",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaServerLowOnMemoryNotification",
+	"type" : "normal"
+}

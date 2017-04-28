@@ -1,0 +1,4 @@
+*magma-client
+isMagmaServerResult
+
+	^ false

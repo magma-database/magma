@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 8/12/2008 21:23",
+	"super" : "MagmaEnvironmentError",
+	"category" : "Magma-Client-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaUnavailableCommitRecord",
+	"type" : "normal"
+}

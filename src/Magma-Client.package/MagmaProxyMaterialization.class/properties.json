@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 1/13/2005 23:05",
+	"super" : "MagmaNotification",
+	"category" : "Magma-Client-Notifications",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"materializedObject"
+	],
+	"name" : "MagmaProxyMaterialization",
+	"type" : "normal"
+}

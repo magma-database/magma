@@ -1,0 +1,4 @@
+accessing
+startTime
+
+	^ result startTime

@@ -1,0 +1,3 @@
+*magma-server
+console
+	^ console

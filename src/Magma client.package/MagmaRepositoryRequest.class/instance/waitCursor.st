@@ -1,0 +1,3 @@
+accessing
+waitCursor
+	^ MagmaPreferences waitCursor

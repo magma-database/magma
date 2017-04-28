@@ -1,0 +1,3 @@
+*magma-server
+userId
+	^ userId

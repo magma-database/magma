@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 1/15/2012 18:30",
+	"super" : "MagmaEnvironmentError",
+	"category" : "Magma-Server-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaPotentiallyOpenError",
+	"type" : "normal"
+}

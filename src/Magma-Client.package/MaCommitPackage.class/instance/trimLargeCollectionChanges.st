@@ -1,0 +1,3 @@
+private
+trimLargeCollectionChanges
+	self allLargeCollectionChanges: nil

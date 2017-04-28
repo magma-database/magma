@@ -1,0 +1,3 @@
+*magma-client
+isImmutableInMagma
+	^ true

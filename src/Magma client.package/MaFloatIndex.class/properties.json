@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 12/25/2004 23:51",
+	"super" : "MagmaCollectionIndex",
+	"category" : "Magma client-MagmaCollections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaFloatIndex",
+	"type" : "normal"
+}

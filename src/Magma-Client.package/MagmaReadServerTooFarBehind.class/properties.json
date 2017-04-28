@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 3/8/2009 15:06",
+	"super" : "MagmaEnvironmentError",
+	"category" : "Magma-Client-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaReadServerTooFarBehind",
+	"type" : "normal"
+}

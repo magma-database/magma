@@ -1,0 +1,4 @@
+accessing
+currentReadStrategy
+
+	^currentReadStrategy

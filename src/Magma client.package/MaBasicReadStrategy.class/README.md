@@ -1,0 +1,1 @@
+This class operates on the client and server.

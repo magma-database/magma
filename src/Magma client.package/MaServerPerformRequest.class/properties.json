@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaRepositoryRequest",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"selector",
+		"arguments"
+	],
+	"name" : "MaServerPerformRequest",
+	"type" : "normal"
+}

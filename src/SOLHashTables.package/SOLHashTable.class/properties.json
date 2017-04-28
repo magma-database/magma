@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "tbr 4/4/2010 17:13",
+	"super" : "Object",
+	"category" : "SOLHashTables",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Elbbyn"
+	],
+	"instvars" : [
+		"approxLoadFactor",
+		"numElements",
+		"keyMask",
+		"segBits",
+		"segPtrs",
+		"segMask",
+		"buckets",
+		"keyBits",
+		"frame"
+	],
+	"name" : "SOLHashTable",
+	"type" : "normal"
+}

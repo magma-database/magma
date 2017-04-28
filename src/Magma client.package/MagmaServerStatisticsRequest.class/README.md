@@ -1,0 +1,1 @@
+Requests the console statistics from the server.

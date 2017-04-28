@@ -1,0 +1,4 @@
+creation
+repositoryController: aMagmaRepositoryController
+
+	^self new repositoryController: aMagmaRepositoryController

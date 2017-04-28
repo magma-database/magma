@@ -1,0 +1,3 @@
+serialization
+maUsesStandardStorage
+	^ false

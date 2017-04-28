@@ -1,0 +1,4 @@
+test backup/restore
+noteVerifyPersistentResultSetComplete
+	self addVerifyRestorePrerequisite: #verifyPersistentResultSet.
+	^ self calculateTimeToVerifyRestore 

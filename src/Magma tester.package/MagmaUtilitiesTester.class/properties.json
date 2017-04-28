@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaNetworkTestCase",
+	"category" : "Magma tester-SUnit tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaUtilitiesTester",
+	"type" : "normal"
+}

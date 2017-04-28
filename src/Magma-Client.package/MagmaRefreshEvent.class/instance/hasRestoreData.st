@@ -1,0 +1,4 @@
+accessing
+hasRestoreData
+
+	^ restoreData notNil

@@ -1,0 +1,3 @@
+private
+bufferPositionOfBranchCode
+	^ 16

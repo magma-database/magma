@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 4/14/2011 14:07",
+	"super" : "MaObject",
+	"category" : "Magma client-MagmaArray",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"table"
+	],
+	"name" : "MagmaDictionary",
+	"type" : "normal"
+}

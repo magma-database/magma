@@ -1,0 +1,3 @@
+accessing
+numberOfEntries
+	^ entries size

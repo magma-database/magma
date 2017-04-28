@@ -1,0 +1,3 @@
+overriding
+packageName
+	^ 'Magma server'

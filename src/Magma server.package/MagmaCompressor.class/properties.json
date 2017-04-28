@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "cmm 8/29/2002 22:35",
+	"super" : "MaObject",
+	"category" : "Magma server-Utilities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"inputController",
+		"referencedCollections",
+		"referencedClasses",
+		"sourceLocation",
+		"outputFiler"
+	],
+	"name" : "MagmaCompressor",
+	"type" : "normal"
+}

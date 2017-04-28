@@ -1,0 +1,3 @@
+testing
+isMonitoring: aMagmaLargeCollectionChanges
+	^ largeCollectionChanges includes: aMagmaLargeCollectionChanges

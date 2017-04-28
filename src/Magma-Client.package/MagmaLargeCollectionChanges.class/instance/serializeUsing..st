@@ -1,0 +1,4 @@
+serializing
+serializeUsing: aMaObjectSerializer
+
+	self serializeAddedUsing: aMaObjectSerializer

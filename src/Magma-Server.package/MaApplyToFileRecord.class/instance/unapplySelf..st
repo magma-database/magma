@@ -1,0 +1,3 @@
+accessing
+unapplySelf: aStandardFileStream 
+	self subclassResponsibility

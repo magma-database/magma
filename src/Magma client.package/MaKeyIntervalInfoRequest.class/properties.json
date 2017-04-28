@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MaLargeCollectionSizeRequest",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"attribute",
+		"lowKey",
+		"highKey"
+	],
+	"name" : "MaKeyIntervalInfoRequest",
+	"type" : "normal"
+}

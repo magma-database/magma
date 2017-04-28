@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "cmm 7/24/2007 12:41",
+	"super" : "MaRefreshViewResult",
+	"category" : "Magma-Client-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"permanentOids",
+		"changedObjectBuffers",
+		"newObjectBuffers"
+	],
+	"name" : "MaCommitResult",
+	"type" : "normal"
+}

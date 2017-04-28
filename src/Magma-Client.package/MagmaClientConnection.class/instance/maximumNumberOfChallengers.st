@@ -1,0 +1,4 @@
+accessing
+maximumNumberOfChallengers
+
+	^maximumNumberOfChallengers

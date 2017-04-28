@@ -1,0 +1,1 @@
+Signaled when a client tries to commit when they do not have a transaction.

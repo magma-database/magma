@@ -1,0 +1,4 @@
+*magma server
+implementationClass
+
+	^ MaHashIndex

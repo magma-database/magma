@@ -1,0 +1,1 @@
+This is a private notification to assist with HA processing.  When an HA event occurs, temp vars up on the stack can still be pointing to the server that went down, this notification informs them to update a particular 'oldLink' to a 'newLink' to the new server.

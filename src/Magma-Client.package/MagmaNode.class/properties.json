@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 10/30/2008 17:30",
+	"super" : "MaObject",
+	"category" : "Magma-Client-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"locations",
+		"sessions"
+	],
+	"name" : "MagmaNode",
+	"type" : "normal"
+}

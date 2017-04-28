@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaTestObject",
+	"category" : "Magma tester-Test domains",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"address",
+		"unused"
+	],
+	"name" : "MagmaContact",
+	"type" : "normal"
+}

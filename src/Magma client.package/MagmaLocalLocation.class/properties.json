@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaLocation",
+	"category" : "Magma client-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"path"
+	],
+	"name" : "MagmaLocalLocation",
+	"type" : "normal"
+}

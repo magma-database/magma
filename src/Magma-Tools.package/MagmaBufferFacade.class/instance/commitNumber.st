@@ -1,0 +1,3 @@
+access
+commitNumber
+	^ buffer commitNumber

@@ -1,0 +1,4 @@
+*magma client
+maAllowsWriteBarrier
+
+	^ false

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaEnvironmentError",
+	"category" : "Magma client-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"expectedCommitNumber"
+	],
+	"name" : "MagmaWrongCommitNumber",
+	"type" : "normal"
+}

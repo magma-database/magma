@@ -1,0 +1,3 @@
+testing
+compareSafely: anObject 
+	^ false

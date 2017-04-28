@@ -1,0 +1,1 @@
+This class is as index on a 16 Byte UUID.

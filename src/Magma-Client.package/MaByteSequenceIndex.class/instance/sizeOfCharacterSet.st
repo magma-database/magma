@@ -1,0 +1,4 @@
+accessing
+sizeOfCharacterSet
+
+	^ 256

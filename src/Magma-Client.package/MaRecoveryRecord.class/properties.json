@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "cmm 7/15/2009 15:45",
+	"super" : "MaObject",
+	"category" : "Magma-Client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ReusableSha"
+	],
+	"instvars" : [
+		"byteArray"
+	],
+	"name" : "MaRecoveryRecord",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+preMadeRecords
+preMadeFileGrowthRecord
+	^ preMadeRecords at: MaFileGrowthRecord assignedRecordType

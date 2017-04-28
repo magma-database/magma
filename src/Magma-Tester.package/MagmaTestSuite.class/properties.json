@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MaNetworkTestSuite",
+	"category" : "Magma-Tester-SUnit tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"initiateBackupPrereqsCompleted",
+		"verifyRestorePreqreqsCompleted"
+	],
+	"name" : "MagmaTestSuite",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+private
+materializeCommitLogEntry: aMaCommitLogRecord 
+	^ self commitLogSerializer resetOidManager materializeGraph: aMaCommitLogRecord record

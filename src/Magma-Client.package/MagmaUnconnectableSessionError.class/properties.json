@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaEnvironmentError",
+	"category" : "Magma-Client-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaUnconnectableSessionError",
+	"type" : "normal"
+}

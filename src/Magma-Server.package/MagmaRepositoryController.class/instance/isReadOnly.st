@@ -1,0 +1,4 @@
+preferences
+isReadOnly
+
+	^ preferences isReadOnly

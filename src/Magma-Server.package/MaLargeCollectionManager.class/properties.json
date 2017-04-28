@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "cmm 3/16/2005 12:48",
+	"super" : "MaObject",
+	"category" : "Magma-Server-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"collection",
+		"memberIndex",
+		"repository"
+	],
+	"name" : "MaLargeCollectionManager",
+	"type" : "normal"
+}

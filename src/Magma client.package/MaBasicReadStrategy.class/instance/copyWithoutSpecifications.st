@@ -1,0 +1,4 @@
+copying
+copyWithoutSpecifications
+
+	^ self copy

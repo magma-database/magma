@@ -1,0 +1,3 @@
+test sequence-number generator
+stopGeneratingSequenceNumbers
+	shouldStopGeneratingSequenceNumbers := true

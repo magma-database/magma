@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 4/11/2011 17:07",
+	"super" : "MagmaLargeCollection",
+	"category" : "Magma-Client-MagmaArray",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"table",
+		"index"
+	],
+	"name" : "MagmaHashTable",
+	"type" : "normal"
+}

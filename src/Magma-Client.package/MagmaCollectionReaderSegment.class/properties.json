@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "cmm 2/15/2008 09:52",
+	"super" : "MagmaLargeCollectionSegment",
+	"category" : "Magma-Client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"endIndex",
+		"trunkStart",
+		"trunkEnd",
+		"trunk",
+		"lowestKey",
+		"highestKey",
+		"mergedCount"
+	],
+	"name" : "MagmaCollectionReaderSegment",
+	"type" : "normal"
+}

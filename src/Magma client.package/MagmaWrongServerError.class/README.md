@@ -1,0 +1,1 @@
+A MagmaWrongServerError is signaled when a client asks a request fails it nodeCheck.  It occurs when a warm-backup is asked to commit.  If the server determines the primary is still up and running, and that the client should have asked that server to perform the commit, it will signal this error back to the client.

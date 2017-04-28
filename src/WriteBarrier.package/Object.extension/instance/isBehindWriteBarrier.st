@@ -1,0 +1,3 @@
+*writebarrier
+isBehindWriteBarrier
+	^ false 

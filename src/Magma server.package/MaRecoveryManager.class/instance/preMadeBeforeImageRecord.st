@@ -1,0 +1,3 @@
+preMadeRecords
+preMadeBeforeImageRecord
+	^ preMadeRecords at: MaBeforeImageRecord assignedRecordType

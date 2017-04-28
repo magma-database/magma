@@ -1,0 +1,3 @@
+private
+fieldsWrittenToBySelector: selectorSymbol
+	^ self targetClass fieldsWrittenToBySelector: selectorSymbol

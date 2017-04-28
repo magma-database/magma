@@ -1,0 +1,4 @@
+building
+noteDidCommitSpecialOid
+
+	didCommitSpecialOid := true

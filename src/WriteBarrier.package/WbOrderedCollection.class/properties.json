@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "OrderedCollection",
+	"category" : "WriteBarrier-Collections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WbOrderedCollection",
+	"type" : "normal"
+}

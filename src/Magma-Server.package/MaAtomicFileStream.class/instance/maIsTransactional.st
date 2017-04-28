@@ -1,0 +1,3 @@
+testing
+maIsTransactional
+	^ true

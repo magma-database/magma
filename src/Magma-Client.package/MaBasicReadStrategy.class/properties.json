@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MaObject",
+	"category" : "Magma-Client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"minimumDepth",
+		"isNew"
+	],
+	"name" : "MaBasicReadStrategy",
+	"type" : "normal"
+}

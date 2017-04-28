@@ -1,0 +1,4 @@
+override
+process: aMaCollectionChanges recordResultsIn: aMaCommitResult
+
+	self subclassResponsibility

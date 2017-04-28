@@ -1,0 +1,4 @@
+recovery
+unapplyFilePositionsFileUsing: aMaApplyRecord
+
+	filePositionIndex unapplyUsing: aMaApplyRecord

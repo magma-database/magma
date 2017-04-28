@@ -1,0 +1,4 @@
+serializing
+serializeAddedUsing: aMaObjectSerializer
+
+	self subclassResponsibility

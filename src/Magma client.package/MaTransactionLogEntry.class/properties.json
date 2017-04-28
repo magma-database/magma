@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "cmm 7/24/2007 12:04",
+	"super" : "MaObject",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"result",
+		"challengingEntries",
+		"serverNotifications"
+	],
+	"name" : "MaTransactionLogEntry",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaTerm",
+	"category" : "Magma-Client-private (MagmaCollections)",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"reader"
+	],
+	"name" : "MagmaTerm",
+	"type" : "normal"
+}

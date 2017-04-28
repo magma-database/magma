@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "cmm 1/17/2014 13:24",
+	"super" : "MaObject",
+	"category" : "Magma-Client-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sessionId",
+		"userId",
+		"maximumNumberOfChallengers",
+		"currentReadStrategy",
+		"maClientConnection",
+		"isSystem",
+		"challengingBytes"
+	],
+	"name" : "MagmaClientConnection",
+	"type" : "normal"
+}

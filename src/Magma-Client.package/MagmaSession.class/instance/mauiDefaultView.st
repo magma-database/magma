@@ -1,0 +1,3 @@
+maui support
+mauiDefaultView
+	^ 'Main'

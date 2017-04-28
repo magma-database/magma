@@ -1,0 +1,3 @@
+accessing
+lastKnownSize
+	^ self size

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 8/3/2011 20:30",
+	"super" : "MaObject",
+	"category" : "Magma-Client-Counting",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"shared",
+		"delta"
+	],
+	"name" : "MagmaCounter",
+	"type" : "normal"
+}

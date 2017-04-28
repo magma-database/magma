@@ -1,0 +1,4 @@
+test forward recovery
+killImage
+	self assertNoMagmaCollectionIndexClass.
+	SmalltalkImage current quitPrimitive

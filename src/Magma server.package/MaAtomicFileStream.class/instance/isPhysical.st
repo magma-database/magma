@@ -1,0 +1,3 @@
+testing
+isPhysical
+	^ fileStreams notEmpty

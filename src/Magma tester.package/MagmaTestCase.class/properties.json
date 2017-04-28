@@ -1,0 +1,33 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MaNetworkTestCase",
+	"category" : "Magma tester-SUnit tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"InitiateBackupPrereqsCompleted",
+		"MagmaServerAddress",
+		"TestWithWriteBarrier",
+		"VerifyRestorePreqreqsCompleted"
+	],
+	"instvars" : [
+		"magmaConsole",
+		"peerConsole",
+		"clientSession",
+		"localRoot",
+		"original34990",
+		"forwardRecoverySignaled",
+		"potentiallyOpenSignaled",
+		"timeToVerifyRestore",
+		"shouldStopGeneratingSequenceNumbers",
+		"sequenceNumbers",
+		"dormantObject",
+		"objectToAdvance",
+		"forwardRecoveryRequirement",
+		"shouldStopFlooding",
+		"refreshTestFixture",
+		"counterFixture"
+	],
+	"name" : "MagmaTestCase",
+	"type" : "normal"
+}

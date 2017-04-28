@@ -1,0 +1,1 @@
+A MagmaDeleteWarning is signaled when a repository is about to be deleted.

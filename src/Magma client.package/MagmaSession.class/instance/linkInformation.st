@@ -1,0 +1,3 @@
+connections
+linkInformation
+	^ primaryLink linkInformation

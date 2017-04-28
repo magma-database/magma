@@ -1,0 +1,4 @@
+testing
+isNewCollection
+
+	^ changes isNewCollection

@@ -1,0 +1,3 @@
+test MagmaDictionary
+testMagmaDictionary
+	self testMagmaDictionaryClass: #MagmaDictionary

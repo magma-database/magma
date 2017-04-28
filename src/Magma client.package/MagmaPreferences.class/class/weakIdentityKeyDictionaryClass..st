@@ -1,0 +1,3 @@
+special collections
+weakIdentityKeyDictionaryClass: aClass 
+	MaObjectSerializerPreferences weakIdentityKeyDictionaryClass: aClass

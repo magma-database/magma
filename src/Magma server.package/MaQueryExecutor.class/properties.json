@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Magma server-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"expression",
+		"collectionManager",
+		"trunk",
+		"trunkPosition"
+	],
+	"name" : "MaQueryExecutor",
+	"type" : "normal"
+}

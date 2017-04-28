@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 9/10/2009 21:26",
+	"super" : "MagmaLargeCollection",
+	"category" : "Magma client-MagmaArray",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"segment",
+		"pageSize"
+	],
+	"name" : "MagmaArray",
+	"type" : "normal"
+}

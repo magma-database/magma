@@ -1,0 +1,3 @@
+sort
+stopSorting
+	collection stopLoading

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 1/26/2005 21:28",
+	"super" : "MaBasicReadStrategy",
+	"category" : "Magma client-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"depths",
+		"depthSpecifications"
+	],
+	"name" : "MaReadStrategy",
+	"type" : "normal"
+}

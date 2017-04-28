@@ -1,0 +1,3 @@
+accessing
+getNextOid
+	^ MaOidCalculator oidForFilePositionIndexPosition: filePositionIndex size

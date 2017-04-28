@@ -1,0 +1,3 @@
+printing
+maPrintAbbreviatedOn: aStream
+	sourceLocation maPrintAbbreviatedOn: aStream

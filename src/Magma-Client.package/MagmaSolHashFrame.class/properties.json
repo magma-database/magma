@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SOLHashFrame",
+	"category" : "Magma-Client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaSolHashFrame",
+	"type" : "normal"
+}

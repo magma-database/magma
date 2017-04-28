@@ -1,0 +1,3 @@
+accessing
+commitLogDirectory
+	^ location commitLogDirectory

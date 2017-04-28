@@ -1,0 +1,3 @@
+recovery
+unapplySelf: aMaTransactionalFileStream 
+	aMaTransactionalFileStream truncate: self originalSize

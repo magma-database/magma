@@ -1,0 +1,4 @@
+testing
+isCommitEntry
+
+	^true

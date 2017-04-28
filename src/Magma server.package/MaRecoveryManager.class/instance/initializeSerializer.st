@@ -1,0 +1,3 @@
+initialize
+initializeSerializer
+	serializer := MagmaSession newCommitLogSerializer

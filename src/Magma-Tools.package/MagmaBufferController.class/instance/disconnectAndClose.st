@@ -1,0 +1,3 @@
+initializing
+disconnectAndClose
+	session disconnectAndClose

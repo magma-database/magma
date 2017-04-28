@@ -1,0 +1,3 @@
+private
+verifyRunningLegacyVersion
+	MagmaSession magmaVersion = self legacyVersion

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaWarning",
+	"category" : "Magma-Tools-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaToolsWarning",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+private
+warn
+	self subclassResponsibility

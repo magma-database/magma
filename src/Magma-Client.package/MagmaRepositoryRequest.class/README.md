@@ -1,0 +1,1 @@
+Superclass for all Magma request objects.

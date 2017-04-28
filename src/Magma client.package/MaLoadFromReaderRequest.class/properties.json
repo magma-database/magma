@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaRepositoryRequest",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"commitPackage",
+		"expression",
+		"sourceCollectionOid",
+		"distinct"
+	],
+	"name" : "MaLoadFromReaderRequest",
+	"type" : "normal"
+}

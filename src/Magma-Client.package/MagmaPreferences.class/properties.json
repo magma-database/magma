@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "cmm 1/25/2003 17:49",
+	"super" : "MaAttributableObject",
+	"category" : "Magma-Client-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Debug",
+		"DebugProxies",
+		"ShowStatusViaCursor"
+	],
+	"instvars" : [ ],
+	"name" : "MagmaPreferences",
+	"type" : "normal"
+}

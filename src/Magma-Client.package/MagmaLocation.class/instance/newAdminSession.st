@@ -1,0 +1,3 @@
+session
+newAdminSession
+	^ self newSession

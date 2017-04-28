@@ -1,0 +1,4 @@
+benchmarks-read
+readTests
+
+	^ #(peakRefreshRate singleObjectRead oneThousandElementArrayRead oneThousandElementArrayOfObjectsRead oneMillionObjectPointersRead oneThousandLevelsDeepRead)

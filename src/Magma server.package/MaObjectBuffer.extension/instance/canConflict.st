@@ -1,0 +1,3 @@
+*magma server
+canConflict
+	^ true

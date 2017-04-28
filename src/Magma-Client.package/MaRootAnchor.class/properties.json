@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 12/22/2008 16:47",
+	"super" : "MaObject",
+	"category" : "Magma-Client-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"root",
+		"definition"
+	],
+	"name" : "MaRootAnchor",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "tbr 4/4/2010 14:50",
+	"super" : "Association",
+	"category" : "SOLHashTables-Private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"next"
+	],
+	"name" : "SOLHashNode",
+	"type" : "normal"
+}

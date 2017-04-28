@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaLargeCollection",
+	"category" : "Magma-Client-MagmaCollections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"session",
+		"changes"
+	],
+	"name" : "MagmaCoreLargeCollection",
+	"type" : "normal"
+}

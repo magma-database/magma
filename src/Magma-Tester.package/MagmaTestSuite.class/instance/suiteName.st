@@ -1,0 +1,3 @@
+overriding
+suiteName
+	^ 'magma'

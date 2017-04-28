@@ -1,0 +1,3 @@
+accessing
+info
+	^ maClientConnection info

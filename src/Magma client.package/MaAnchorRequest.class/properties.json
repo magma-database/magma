@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 1/25/2003 17:59",
+	"super" : "MaAbstractReadRequest",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaAnchorRequest",
+	"type" : "normal"
+}

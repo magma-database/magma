@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MaObject",
+	"category" : "Magma-Server-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"entries",
+		"specialOids"
+	],
+	"name" : "MaTransactionLog",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+*magma tester
+simulateOutage
+	^ SimulateOutage

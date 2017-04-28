@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "cmm 7/29/2007 17:46",
+	"super" : "MaObject",
+	"category" : "Magma-Server-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ControllersGuard",
+		"OpenControllers"
+	],
+	"instvars" : [
+		"repository",
+		"session",
+		"serverSerializer",
+		"requestInterruptGuard",
+		"localLocation",
+		"preferences",
+		"serverStatistics",
+		"backupProcess"
+	],
+	"name" : "MagmaRepositoryController",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+*magma-client
+maWantsPostMaterialization 
+	^ true

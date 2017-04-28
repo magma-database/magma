@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 10/24/2008 17:38",
+	"super" : "MagmaEnvironmentError",
+	"category" : "Magma-Client-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaDifferentBranch",
+	"type" : "normal"
+}

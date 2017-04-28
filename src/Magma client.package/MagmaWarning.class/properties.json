@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaWarning",
+	"category" : "Magma client-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaWarning",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Magma server-File",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"file",
+		"filePos",
+		"byteArray"
+	],
+	"name" : "MaAtomicFileWriter",
+	"type" : "normal"
+}

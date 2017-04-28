@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Magma client-MagmaArray",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"array",
+		"tally",
+		"maxBuckets",
+		"collisions"
+	],
+	"name" : "MagmaPreallocatedDictionary",
+	"type" : "normal"
+}

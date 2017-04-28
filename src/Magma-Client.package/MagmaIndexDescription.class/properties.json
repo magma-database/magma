@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Magma-Client-private (MagmaCollections)",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"attribute",
+		"keySize",
+		"recordSize"
+	],
+	"name" : "MagmaIndexDescription",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+peer
+stopPeer
+
+	peerConsole shutdown

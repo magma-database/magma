@@ -1,0 +1,3 @@
+*writebarrier
+holder
+	^ #holder -> self

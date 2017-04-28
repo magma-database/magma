@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 7/15/2008 17:22",
+	"super" : "MagmaRepositoryRequest",
+	"category" : "Magma-Client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"save",
+		"exit"
+	],
+	"name" : "MaSaveAndExitImageRequest",
+	"type" : "normal"
+}

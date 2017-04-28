@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 6/28/2004 15:04",
+	"super" : "MaClassIdManager",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"largeCollectionIds"
+	],
+	"name" : "MagmaClassIdManager",
+	"type" : "normal"
+}

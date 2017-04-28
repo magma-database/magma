@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MaStat",
+	"category" : "Magma-Client-Counting",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"deltaCount",
+		"deltaSum"
+	],
+	"name" : "MagmaStat",
+	"type" : "normal"
+}

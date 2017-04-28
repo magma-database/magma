@@ -1,0 +1,3 @@
+access
+classId
+	^ buffer classId

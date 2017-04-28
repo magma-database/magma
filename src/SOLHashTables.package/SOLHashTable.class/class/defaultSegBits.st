@@ -1,0 +1,3 @@
+private
+defaultSegBits
+	^ 8

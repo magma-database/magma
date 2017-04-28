@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaNotification",
+	"category" : "Magma client-Notifications",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"add",
+		"remove",
+		"setPrimary"
+	],
+	"name" : "MagmaNodeUpdate",
+	"type" : "normal"
+}

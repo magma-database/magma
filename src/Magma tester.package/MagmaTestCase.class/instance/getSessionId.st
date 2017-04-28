@@ -1,0 +1,3 @@
+private
+getSessionId
+	^ clientSession id

@@ -1,0 +1,1 @@
+A WbArray is just an Array whose class can be uncompacted for WriteBarrier use.

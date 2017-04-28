@@ -1,0 +1,1 @@
+A MagmaPotentiallyOpenError is a resumable error.  It does not inherit from Warning because it is too critical to allow a program which wants to resume any Warning automatically, forcing the user to handle MagmaPotentiallyOpenError explicitly.

@@ -1,0 +1,3 @@
+testing
+wantsNewPrimary
+	^ setPrimary notNil

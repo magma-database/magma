@@ -1,0 +1,4 @@
+*magma-server
+isCommitEntry
+
+	^true

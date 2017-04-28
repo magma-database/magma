@@ -1,0 +1,3 @@
+private
+bufferPositionOfTimestamp
+	^ 11

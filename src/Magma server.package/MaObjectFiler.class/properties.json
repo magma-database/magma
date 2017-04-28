@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "cmm 5/25/2005 14:24",
+	"super" : "MaObject",
+	"category" : "Magma server-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"directory",
+		"file",
+		"preMadeObjectBuffer",
+		"filePositionIndex",
+		"usedByteArrays",
+		"primitiveAttributeAddressesMap"
+	],
+	"name" : "MaObjectFiler",
+	"type" : "normal"
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "cmm 1/25/2003 17:56",
+	"super" : "MaClientServerRequest",
+	"category" : "Magma-Client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sessionId",
+		"console",
+		"repositoryController",
+		"failedLocation"
+	],
+	"name" : "MagmaRepositoryRequest",
+	"type" : "normal"
+}

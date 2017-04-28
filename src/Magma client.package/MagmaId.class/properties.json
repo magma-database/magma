@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Magma client-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"uuid",
+		"name",
+		"description",
+		"contact",
+		"node"
+	],
+	"name" : "MagmaId",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+testing
+validateUsing: aMagmaCollectionReader
+	self subclassResponsibility 

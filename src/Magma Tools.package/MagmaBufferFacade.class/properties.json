@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Magma Tools-Buffer Editor",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"buffer",
+		"commitRecord",
+		"controller",
+		"annotation"
+	],
+	"name" : "MagmaBufferFacade",
+	"type" : "normal"
+}

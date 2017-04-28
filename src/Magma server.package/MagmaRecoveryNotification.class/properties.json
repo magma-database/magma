@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaNotification",
+	"category" : "Magma server-Recovery",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaRecoveryNotification",
+	"type" : "normal"
+}

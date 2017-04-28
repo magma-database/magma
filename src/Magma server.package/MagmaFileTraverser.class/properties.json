@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "cmm 8/5/2002 21:45",
+	"super" : "MaObject",
+	"category" : "Magma server-Utilities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"repositoryController",
+		"oidsVisited",
+		"graphBuffer",
+		"directory"
+	],
+	"name" : "MagmaFileTraverser",
+	"type" : "normal"
+}

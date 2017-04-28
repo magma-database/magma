@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "MaLargeCollectionSegmentRequest",
+	"category" : "Magma-Client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"segment",
+		"expression",
+		"loadObjects",
+		"exceptions"
+	],
+	"name" : "MaRefreshSegmentRequest",
+	"type" : "normal"
+}

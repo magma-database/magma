@@ -1,0 +1,3 @@
+write-barrier
+canEnableWriteBarrier
+	^ true

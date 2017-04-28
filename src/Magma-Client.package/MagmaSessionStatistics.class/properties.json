@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "MaClientStat",
+	"category" : "Magma-Client-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"clientSideConnectionTimeHistory",
+		"refreshAllTimeHistory",
+		"clientSideMcPageReadsTimeHistory",
+		"clientSideProxyMaterializationTimeHistory",
+		"clientSideCommitTimeHistory",
+		"refreshViewHistory",
+		"objectsReadPerSecond",
+		"objectBytesReadPerSecond"
+	],
+	"name" : "MagmaSessionStatistics",
+	"type" : "normal"
+}

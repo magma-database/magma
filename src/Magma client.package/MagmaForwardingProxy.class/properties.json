@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "cmm 7/6/2009 20:28",
+	"super" : "MaMinimalObject",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"magmaId",
+		"oid",
+		"session",
+		"cachedObject"
+	],
+	"name" : "MagmaForwardingProxy",
+	"type" : "normal"
+}

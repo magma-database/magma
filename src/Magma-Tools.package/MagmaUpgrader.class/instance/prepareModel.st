@@ -1,0 +1,3 @@
+private
+prepareModel
+	self subclassResponsibility

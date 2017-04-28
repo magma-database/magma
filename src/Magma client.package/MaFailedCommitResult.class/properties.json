@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaCommitResult",
+	"category" : "Magma client-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"commitConflicts"
+	],
+	"name" : "MaFailedCommitResult",
+	"type" : "normal"
+}

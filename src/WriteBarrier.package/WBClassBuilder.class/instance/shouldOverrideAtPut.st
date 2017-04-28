@@ -1,0 +1,3 @@
+private
+shouldOverrideAtPut
+	^ class isVariable

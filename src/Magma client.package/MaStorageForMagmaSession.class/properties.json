@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 1/15/2007 18:43",
+	"super" : "MaObject",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaStorageForMagmaSession",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SOLHashSegment",
+	"category" : "Magma client-Private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaSolHashSegment",
+	"type" : "normal"
+}

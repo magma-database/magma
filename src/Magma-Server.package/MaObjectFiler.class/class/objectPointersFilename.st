@@ -1,0 +1,4 @@
+accessing
+objectPointersFilename
+
+	^ 'objects.idx'

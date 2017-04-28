@@ -1,0 +1,4 @@
+testing
+hasAddedIndexes
+
+	^ false

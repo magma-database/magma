@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "cmm 7/15/2008 14:44",
+	"super" : "MagmaServerResult",
+	"category" : "Magma-Client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"connection",
+		"toBeRefreshed",
+		"isSystem",
+		"commitNumber",
+		"oidCount"
+	],
+	"name" : "MaRefreshViewResult",
+	"type" : "normal"
+}

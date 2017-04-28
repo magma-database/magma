@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaRepositoryRequest",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"startingCommitNumber",
+		"endingCommitNumber"
+	],
+	"name" : "MaCommitLogRecordRequest",
+	"type" : "normal"
+}

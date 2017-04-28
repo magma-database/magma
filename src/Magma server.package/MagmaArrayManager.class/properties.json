@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaLargeCollectionManager",
+	"category" : "Magma server-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaArrayManager",
+	"type" : "normal"
+}

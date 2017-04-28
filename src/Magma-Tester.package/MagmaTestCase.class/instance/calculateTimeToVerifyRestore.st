@@ -1,0 +1,3 @@
+test backup/restore
+calculateTimeToVerifyRestore
+	^ self requiredPrereqsToVerifyRestore = self suite verifyRestorePreqreqsCompleted

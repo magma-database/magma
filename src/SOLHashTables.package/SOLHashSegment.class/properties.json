@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "tbr 4/4/2010 14:50",
+	"super" : "Object",
+	"category" : "SOLHashTables-Private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"depth",
+		"owner",
+		"pointers"
+	],
+	"name" : "SOLHashSegment",
+	"type" : "normal"
+}

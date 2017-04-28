@@ -1,0 +1,3 @@
+private
+addTermsTo: aCollection
+	self subclassResponsibility

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MagmaTerm",
+	"category" : "Magma-Client-private (MagmaCollections)",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"attribute",
+		"lowKey",
+		"highKey"
+	],
+	"name" : "MagmaClause",
+	"type" : "normal"
+}

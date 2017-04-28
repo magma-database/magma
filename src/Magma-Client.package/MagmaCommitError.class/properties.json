@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 3/21/2003 00:50",
+	"super" : "MaError",
+	"category" : "Magma-Client-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"result"
+	],
+	"name" : "MagmaCommitError",
+	"type" : "normal"
+}

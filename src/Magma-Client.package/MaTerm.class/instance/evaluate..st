@@ -1,0 +1,3 @@
+evaluate
+evaluate: aTeCellAddress
+	self subclassResponsibility

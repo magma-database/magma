@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 1/25/2003 17:55",
+	"super" : "MagmaRepositoryRequest",
+	"category" : "Magma-Client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"package",
+		"beginAnother"
+	],
+	"name" : "MaCommitRequest",
+	"type" : "normal"
+}

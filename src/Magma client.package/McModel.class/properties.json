@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "cmm 2/26/2011 12:59",
+	"super" : "Object",
+	"category" : "Magma client-Code management",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"packages",
+		"objects",
+		"missingVersions"
+	],
+	"name" : "McModel",
+	"type" : "normal"
+}

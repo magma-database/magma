@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Magma-Tools-Upgrade",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"location",
+		"definition",
+		"session"
+	],
+	"name" : "MagmaUpgrader",
+	"type" : "normal"
+}

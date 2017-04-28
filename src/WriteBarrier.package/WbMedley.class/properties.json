@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Medley",
+	"category" : "WriteBarrier-Collections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WbMedley",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+private
+headerSize
+	^ 5

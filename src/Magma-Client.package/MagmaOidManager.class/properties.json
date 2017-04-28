@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "cmm 6/21/2004 00:20",
+	"super" : "MaOidManager",
+	"category" : "Magma-Client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"newObjects",
+		"newOids",
+		"statistics"
+	],
+	"name" : "MagmaOidManager",
+	"type" : "normal"
+}

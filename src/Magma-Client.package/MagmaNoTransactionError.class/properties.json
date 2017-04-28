@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 11/15/2008 14:23",
+	"super" : "MagmaCommitError",
+	"category" : "Magma-Client-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaNoTransactionError",
+	"type" : "normal"
+}

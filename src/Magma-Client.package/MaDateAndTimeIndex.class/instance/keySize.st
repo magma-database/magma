@@ -1,0 +1,3 @@
+must override
+keySize
+	^ keySize

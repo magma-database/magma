@@ -1,0 +1,4 @@
+accessing
+sessionId
+
+	^session id

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaError",
+	"category" : "Magma-Client-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaOverflowError",
+	"type" : "normal"
+}

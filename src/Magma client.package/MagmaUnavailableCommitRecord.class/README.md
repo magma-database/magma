@@ -1,0 +1,1 @@
+A MagmaUnavailableCommitRecord indicates the specified commit record is not available on the server.

@@ -1,0 +1,3 @@
+overriding
+nodeCheck
+	self shouldBePrimary

@@ -1,0 +1,3 @@
+accessing
+maClientConnection: aMaClientConnection
+	maClientConnection := aMaClientConnection

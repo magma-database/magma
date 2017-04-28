@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaCommitLogRecordRequest",
+	"category" : "Magma-Client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"requestingLocation"
+	],
+	"name" : "MaWarmBackupUpdateRequest",
+	"type" : "normal"
+}

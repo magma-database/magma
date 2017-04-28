@@ -1,0 +1,3 @@
+performance
+readSetBufferByteCount
+	^ transaction readSetBufferByteCount

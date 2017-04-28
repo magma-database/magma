@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 7/16/2010 17:31",
+	"super" : "MagmaSet",
+	"category" : "Magma-Client-MagmaCollections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaOldDictionary",
+	"type" : "normal"
+}

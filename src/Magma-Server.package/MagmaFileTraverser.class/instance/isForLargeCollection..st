@@ -1,0 +1,3 @@
+private
+isForLargeCollection: aMaFixedObjectBuffer
+	^ repositoryController isClassIdForLargeCollection: aMaFixedObjectBuffer classId

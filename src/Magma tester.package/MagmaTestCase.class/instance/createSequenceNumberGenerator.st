@@ -1,0 +1,3 @@
+test sequence-number generator
+createSequenceNumberGenerator
+	clientSession serverPerform: #initializeSequenceNumberGenerator

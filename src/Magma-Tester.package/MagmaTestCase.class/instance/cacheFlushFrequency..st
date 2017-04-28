@@ -1,0 +1,3 @@
+test rollback recovery
+cacheFlushFrequency: numberOfSeconds 
+	magmaConsole controller cacheFlushFrequency: numberOfSeconds

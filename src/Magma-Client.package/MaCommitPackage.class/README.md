@@ -1,0 +1,1 @@
+This class represents all of the changes made from a single client for a single transaction.

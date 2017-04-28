@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Magma-Tools-Stress Tester",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"config",
+		"session",
+		"uuid",
+		"collection",
+		"counter"
+	],
+	"name" : "MagmaStressTest",
+	"type" : "normal"
+}

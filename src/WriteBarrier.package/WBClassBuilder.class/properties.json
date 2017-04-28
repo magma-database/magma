@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "WriteBarrier-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"class",
+		"barrier",
+		"fieldsCache"
+	],
+	"name" : "WBClassBuilder",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+testing
+maRequiresOwnBuffer
+	^ self maRealObjectIsReified

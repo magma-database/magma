@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 10/18/2012 09:29",
+	"super" : "Array",
+	"category" : "WriteBarrier-Collections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WbArray",
+	"type" : "variable"
+}

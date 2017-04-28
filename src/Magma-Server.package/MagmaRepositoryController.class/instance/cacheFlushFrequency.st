@@ -1,0 +1,4 @@
+preferences
+cacheFlushFrequency
+
+	^ preferences cacheFlushFrequency

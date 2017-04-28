@@ -1,0 +1,3 @@
+A MagmaDifferentBranch is used to indicate when a commit-record from one repository is attempted to be applied to a version of the same repository that has branched in a different direction at some point.  
+
+Normally this should not happen, but if you attempt to restore to a repository that was made by backing up another repository, but other commits have been applied to that repository since, there is no way Magma can reconcile the object models, so it signals this error to inconsistencies to the model.

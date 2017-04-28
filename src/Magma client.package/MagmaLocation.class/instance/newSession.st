@@ -1,0 +1,4 @@
+actions
+newSession
+
+	self subclassResponsibility

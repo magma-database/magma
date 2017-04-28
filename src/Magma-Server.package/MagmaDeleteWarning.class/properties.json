@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 7/16/2007 22:07",
+	"super" : "MagmaWarning",
+	"category" : "Magma-Server-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MagmaDeleteWarning",
+	"type" : "normal"
+}

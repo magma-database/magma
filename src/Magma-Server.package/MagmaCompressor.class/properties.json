@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "cmm 8/29/2002 22:35",
+	"super" : "MaObject",
+	"category" : "Magma-Server-Utilities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"inputController",
+		"referencedCollections",
+		"referencedClasses",
+		"sourceLocation",
+		"outputFiler",
+		"upgradeBlock",
+		"process"
+	],
+	"name" : "MagmaCompressor",
+	"type" : "normal"
+}

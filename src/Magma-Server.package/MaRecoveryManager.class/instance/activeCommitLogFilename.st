@@ -1,0 +1,3 @@
+file
+activeCommitLogFilename
+	^ 'commits.log'

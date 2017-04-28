@@ -1,0 +1,3 @@
+private
+hashSegmentClass
+	^ SOLHashSegment 

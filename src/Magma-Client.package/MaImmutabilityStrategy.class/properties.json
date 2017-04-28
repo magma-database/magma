@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Magma-Client-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"specs",
+		"immutables",
+		"classes"
+	],
+	"name" : "MaImmutabilityStrategy",
+	"type" : "normal"
+}

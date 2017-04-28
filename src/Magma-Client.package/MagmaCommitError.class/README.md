@@ -1,0 +1,1 @@
+I am signaled when another user has committed a change an object that you changed since you began your transaction.

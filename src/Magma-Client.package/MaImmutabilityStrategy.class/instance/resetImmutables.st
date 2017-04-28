@@ -1,0 +1,3 @@
+initialize-release
+resetImmutables
+	immutables := MaObjectSerializerPreferences newWeakIdentityKeyDictionary

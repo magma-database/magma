@@ -1,0 +1,3 @@
+transactions
+isMonitoringLargeCollection: aMagmaLargeCollection
+	^ transaction isMonitoring: aMagmaLargeCollection changes

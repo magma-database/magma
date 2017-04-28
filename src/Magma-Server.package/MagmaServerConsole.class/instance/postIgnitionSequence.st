@@ -1,0 +1,3 @@
+private
+postIgnitionSequence
+	self findCorrectNodeConfiguration

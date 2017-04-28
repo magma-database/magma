@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "cmm 3/5/2009 16:44",
+	"super" : "MaObject",
+	"category" : "Magma-Server-File",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"MaxPhysicalFileSize"
+	],
+	"instvars" : [
+		"filename",
+		"fileStreams",
+		"sizes",
+		"guard",
+		"uncommittedSize",
+		"position",
+		"writers",
+		"pool"
+	],
+	"name" : "MaAtomicFileStream",
+	"type" : "normal"
+}

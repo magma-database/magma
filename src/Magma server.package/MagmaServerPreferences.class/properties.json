@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Magma server-Preferences",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"DebugRecovery"
+	],
+	"instvars" : [
+		"attributes"
+	],
+	"name" : "MagmaServerPreferences",
+	"type" : "normal"
+}

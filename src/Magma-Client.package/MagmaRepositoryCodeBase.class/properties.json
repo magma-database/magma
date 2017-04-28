@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Magma-Client-Code management",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"changeSets",
+		"classes",
+		"mcModel"
+	],
+	"name" : "MagmaRepositoryCodeBase",
+	"type" : "normal"
+}

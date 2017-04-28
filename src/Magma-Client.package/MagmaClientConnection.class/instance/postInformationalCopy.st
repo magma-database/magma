@@ -1,0 +1,3 @@
+copying
+postInformationalCopy
+	maClientConnection := maClientConnection informationalCopy

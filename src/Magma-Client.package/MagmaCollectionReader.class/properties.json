@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "cmm 2/14/2008 09:04",
+	"super" : "MaObject",
+	"category" : "Magma-Client-MagmaCollections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"collection",
+		"expression",
+		"trunk",
+		"segment",
+		"pageSize",
+		"reversed"
+	],
+	"name" : "MagmaCollectionReader",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+overriding
+indexHashForIndexObject: anInteger
+
+	^ anInteger

@@ -1,0 +1,3 @@
+private
+bufferPositionOfRecordType
+	^ 4

@@ -1,0 +1,1 @@
+I am just like a MaSearchStringIndexDefinition except I index a collection of Strings (i.e., keywords) instead of a single String.  Your indexed attribute should answer a collection of Strings.

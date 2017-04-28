@@ -1,0 +1,4 @@
+override
+initializeChanges
+
+	self subclassResponsibility

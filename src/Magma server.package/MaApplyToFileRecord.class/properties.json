@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 7/15/2009 15:38",
+	"super" : "MaApplyRecord",
+	"category" : "Magma server-Recovery",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaApplyToFileRecord",
+	"type" : "normal"
+}

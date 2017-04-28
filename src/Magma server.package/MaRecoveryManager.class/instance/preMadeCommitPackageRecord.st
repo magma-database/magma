@@ -1,0 +1,3 @@
+preMadeRecords
+preMadeCommitPackageRecord 
+	^ preMadeRecords at: MaCommitLogRecord assignedRecordType

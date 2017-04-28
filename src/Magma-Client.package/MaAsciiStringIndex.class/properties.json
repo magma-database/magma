@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 8/20/2006 22:12",
+	"super" : "MaByteSequenceIndex",
+	"category" : "Magma-Client-MagmaCollections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaAsciiStringIndex",
+	"type" : "normal"
+}

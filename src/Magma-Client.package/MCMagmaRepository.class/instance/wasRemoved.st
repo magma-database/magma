@@ -1,0 +1,3 @@
+framework
+wasRemoved
+	session disconnectAndClose

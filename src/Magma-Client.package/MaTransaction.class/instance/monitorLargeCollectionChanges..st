@@ -1,0 +1,4 @@
+building
+monitorLargeCollectionChanges: aMaLargeCollectionChanges
+
+	largeCollectionChanges add: aMaLargeCollectionChanges

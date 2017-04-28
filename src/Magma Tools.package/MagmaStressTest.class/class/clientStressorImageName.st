@@ -1,0 +1,3 @@
+run
+clientStressorImageName
+	^ '_stressTestClient'

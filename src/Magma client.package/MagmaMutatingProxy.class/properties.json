@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MaMutatingProxy",
+	"category" : "Magma client-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"session",
+		"oid",
+		"realObject"
+	],
+	"name" : "MagmaMutatingProxy",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+testing
+supportsConfigurations
+	^ true
