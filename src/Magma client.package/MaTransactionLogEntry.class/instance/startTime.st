@@ -1,4 +1,0 @@
-accessing
-startTime
-
-	^ result startTime

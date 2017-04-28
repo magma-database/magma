@@ -1,1 +1,0 @@
-Perform #selector in the TestCase subclass instance of a remote test-player image.

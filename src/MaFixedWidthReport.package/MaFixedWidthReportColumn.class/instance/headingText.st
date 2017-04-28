@@ -1,3 +1,0 @@
-private
-headingText
-	^ headingText

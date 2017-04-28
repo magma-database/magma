@@ -1,3 +1,0 @@
-accessing
-setRealObjectTo: anObject
-	self subclassResponsibility

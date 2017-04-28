@@ -1,3 +1,0 @@
-framework
-includesVersionNamed: aMCVersionName
-	^ self ensureConnectedSession mcModel includesVersionNamed: aMCVersionName asMCVersionName

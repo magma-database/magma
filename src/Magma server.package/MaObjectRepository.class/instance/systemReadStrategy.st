@@ -1,4 +1,0 @@
-read strategies
-systemReadStrategy
-
-	^systemReadStrategy

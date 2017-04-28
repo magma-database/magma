@@ -1,4 +1,0 @@
-copying
-postTrimmedCopy
-
-	serverNotifications := nil

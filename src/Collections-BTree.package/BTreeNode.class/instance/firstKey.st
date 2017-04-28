@@ -1,3 +1,0 @@
-accessing
-firstKey
-	^ keys first

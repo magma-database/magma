@@ -1,1 +1,0 @@
-An abstract superclass for all requests in the "Ma client server" framework.  This superclass knows the #clientConnection, a MaClientConnection, which may be useful to the application server program.

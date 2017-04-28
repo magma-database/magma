@@ -1,4 +1,0 @@
-accessing
-className
-
-	^self globalName

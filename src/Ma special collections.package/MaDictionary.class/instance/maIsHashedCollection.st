@@ -1,4 +1,0 @@
-testing
-maIsHashedCollection
-
-	^true

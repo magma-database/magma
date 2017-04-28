@@ -1,1 +1,0 @@
-This little tool helps you build non-wimpy message strings.

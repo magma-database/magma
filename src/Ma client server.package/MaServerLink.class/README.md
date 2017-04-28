@@ -1,1 +1,0 @@
-Abstract superclass representing a clients link to a server.  A client uses this link to submit request objects via #submit:.

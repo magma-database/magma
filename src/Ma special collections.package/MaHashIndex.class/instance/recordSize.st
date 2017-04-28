@@ -1,4 +1,0 @@
-private
-recordSize
-
-	^record bufferSize

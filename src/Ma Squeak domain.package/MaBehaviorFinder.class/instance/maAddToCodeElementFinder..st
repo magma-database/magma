@@ -1,3 +1,0 @@
-private
-maAddToCodeElementFinder: aMaCodeElementFinder 
-	aMaCodeElementFinder addMethods: self methods

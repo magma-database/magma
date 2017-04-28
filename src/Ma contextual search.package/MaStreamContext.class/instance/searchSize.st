@@ -1,3 +1,0 @@
-accessing
-searchSize
-	^ stream size

@@ -1,3 +1,0 @@
-private
-server
-	^ serverSocket server

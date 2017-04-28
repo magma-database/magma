@@ -1,1 +1,0 @@
-Subclass from this abstract class to inherit an attribute Dictionary.

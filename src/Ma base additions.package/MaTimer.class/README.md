@@ -1,1 +1,0 @@
-A very simple class to perform a Block after a specified amount of time.  #cancel will stop the countdown.  #expired answers true if the timer expired and the do Block executed.

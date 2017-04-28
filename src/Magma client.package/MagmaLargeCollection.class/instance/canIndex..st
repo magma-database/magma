@@ -1,4 +1,0 @@
-testing
-canIndex: anObject
-
-	^ false

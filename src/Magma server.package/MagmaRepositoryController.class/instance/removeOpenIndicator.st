@@ -1,3 +1,0 @@
-private
-removeOpenIndicator
-	self directory deleteFileNamed: self class openIndicatorFilename

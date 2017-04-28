@@ -1,3 +1,0 @@
-private
-controlEntryOffset
-	^ 0

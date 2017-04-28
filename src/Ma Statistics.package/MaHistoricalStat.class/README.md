@@ -1,1 +1,0 @@
-A MaHistoricalStat adds contextual information for easy rendering in user-interfaces.  It is used by MaStatHistory's.

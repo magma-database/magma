@@ -1,4 +1,0 @@
-private accessing
-index
-
-	^index

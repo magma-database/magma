@@ -1,3 +1,0 @@
-accessing
-bufferType
-	^ 4

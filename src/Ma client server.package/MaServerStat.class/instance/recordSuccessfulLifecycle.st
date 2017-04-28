@@ -1,3 +1,0 @@
-recording
-recordSuccessfulLifecycle
-	self clientTimeoutsHistory addValue: 0

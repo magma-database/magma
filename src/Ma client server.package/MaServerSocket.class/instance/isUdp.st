@@ -1,3 +1,0 @@
-testing
-isUdp
-	^ networkProtocol == #udp

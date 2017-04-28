@@ -1,3 +1,0 @@
-configuration
-isCaseSensitive
-	^ self caseSensitive

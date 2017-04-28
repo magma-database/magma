@@ -1,1 +1,0 @@
-Abstract class whose subclass instances handle the server portion of the client-server activity.  The processor should be an object that responds to #value:.  The argument is the actual request object and it should answer the result object.  Requests and responses can be arbitrary objects, not just byte-objects like Strings and ByteArrays, although you must set up your #protocol.

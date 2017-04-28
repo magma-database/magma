@@ -1,3 +1,0 @@
-testing
-canGrow
-	^ keys canGrow

@@ -1,3 +1,0 @@
-actions
-newAdminSession
-	^ self newSession

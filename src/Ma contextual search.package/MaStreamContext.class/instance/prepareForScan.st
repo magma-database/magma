@@ -1,3 +1,0 @@
-private
-prepareForScan
-	stream maReset

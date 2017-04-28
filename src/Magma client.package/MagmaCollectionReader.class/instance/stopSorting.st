@@ -1,3 +1,0 @@
-sort
-stopSorting
-	collection stopLoading

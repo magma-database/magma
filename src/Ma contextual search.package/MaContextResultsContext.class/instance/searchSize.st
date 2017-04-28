@@ -1,3 +1,0 @@
-accessing
-searchSize
-	^ source size

@@ -1,4 +1,0 @@
-building
-decrementNumberOfChildrenAtKey: keyInteger
-
-	self decrementNumberOfChildrenAtByteArrayIndex: (self highestByteArrayIndexFor: keyInteger)

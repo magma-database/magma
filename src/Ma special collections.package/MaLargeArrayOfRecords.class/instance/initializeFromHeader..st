@@ -1,4 +1,0 @@
-subclass responsibility
-initializeFromHeader: aByteArray
-
-	self subclassResponsibility

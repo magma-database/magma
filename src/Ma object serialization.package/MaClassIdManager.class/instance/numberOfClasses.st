@@ -1,4 +1,0 @@
-accessing
-numberOfClasses
-
-	^ classDefinitionsById size

@@ -1,4 +1,0 @@
-initialize-release
-noteMaterialized: aMagmaMaterializationEvent
-
-	aMagmaMaterializationEvent object materializedFromMagma: aMagmaMaterializationEvent

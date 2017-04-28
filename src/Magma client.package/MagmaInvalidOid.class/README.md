@@ -1,1 +1,0 @@
-Signaled when the server is asked for an object at a particular oid but no object is present at that oid.

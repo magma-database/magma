@@ -1,4 +1,0 @@
-override
-nextRecordNumber
-
-	self subclassResponsibility 

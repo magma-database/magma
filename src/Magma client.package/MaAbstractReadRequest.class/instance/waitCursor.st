@@ -1,3 +1,0 @@
-accessing
-waitCursor
-	^ MagmaPreferences readCursor

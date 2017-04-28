@@ -1,3 +1,0 @@
-accessing
-realObjectIfMutatingProxy
-	self subclassResponsibility

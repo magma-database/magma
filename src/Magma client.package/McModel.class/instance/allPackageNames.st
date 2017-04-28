@@ -1,3 +1,0 @@
-packages
-allPackageNames
-	^ packages keys

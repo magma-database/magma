@@ -1,4 +1,0 @@
-actions
-rehashOids
-
-	oids rehash

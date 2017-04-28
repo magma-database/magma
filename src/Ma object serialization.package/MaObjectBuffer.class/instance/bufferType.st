@@ -1,4 +1,0 @@
-private
-bufferType
-
-	self subclassResponsibility

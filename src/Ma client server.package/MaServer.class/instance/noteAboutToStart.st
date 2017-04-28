@@ -1,3 +1,0 @@
-notifications
-noteAboutToStart
-	console noteAboutToStart

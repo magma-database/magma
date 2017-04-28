@@ -1,3 +1,0 @@
-private
-isMutable
-	^ mutable

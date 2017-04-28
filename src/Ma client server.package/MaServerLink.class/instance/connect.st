@@ -1,3 +1,0 @@
-actions
-connect
-	stat transition

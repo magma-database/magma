@@ -1,4 +1,0 @@
-private
-atEnd
-
-	^stream atEnd

@@ -1,3 +1,0 @@
-initializing
-searchSize
-	^ stream size

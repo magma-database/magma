@@ -1,3 +1,0 @@
-building
-alignLeft
-	justification := #left

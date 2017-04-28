@@ -1,3 +1,0 @@
-testing
-maRealObjectIsReified
-	^ realObject ~~ nil

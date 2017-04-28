@@ -1,3 +1,0 @@
-identification
-remoteAddress
-	^ remoteAddress

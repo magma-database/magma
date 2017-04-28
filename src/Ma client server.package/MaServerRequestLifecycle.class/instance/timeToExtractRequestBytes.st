@@ -1,3 +1,0 @@
-accessing
-timeToExtractRequestBytes
-	^timeToExtractRequestBytes

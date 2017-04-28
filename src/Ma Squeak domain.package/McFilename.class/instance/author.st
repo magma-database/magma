@@ -1,3 +1,0 @@
-access
-author
-	^ author

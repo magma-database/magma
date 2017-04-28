@@ -1,3 +1,0 @@
-private
-enumerationPageSize
-	^ 50

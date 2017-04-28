@@ -1,4 +1,0 @@
-accessing
-filename
-
-	^memberIndex filename

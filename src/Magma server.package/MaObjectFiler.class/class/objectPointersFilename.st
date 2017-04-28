@@ -1,4 +1,0 @@
-accessing
-objectPointersFilename
-
-	^ 'objects.idx'

@@ -1,3 +1,0 @@
-required overrides
-suiteName
-	^ 'macs'

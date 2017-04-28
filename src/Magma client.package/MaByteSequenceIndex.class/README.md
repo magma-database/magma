@@ -1,1 +1,0 @@
-I represent an index that is based on a sequence of bytes to calculate the index-hash value.  I know the number of meaningful characters I can be searched by based on my bit-size.

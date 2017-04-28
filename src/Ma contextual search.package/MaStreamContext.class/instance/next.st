@@ -1,4 +1,0 @@
-private
-next
-
-	^stream next

@@ -1,4 +1,0 @@
-special
-firstCharacterOid
-
-	^ 4

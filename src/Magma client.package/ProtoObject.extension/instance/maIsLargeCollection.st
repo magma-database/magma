@@ -1,4 +1,0 @@
-*magma client
-maIsLargeCollection 
-
-	^ false

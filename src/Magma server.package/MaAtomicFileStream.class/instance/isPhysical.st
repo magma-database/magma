@@ -1,3 +1,0 @@
-testing
-isPhysical
-	^ fileStreams notEmpty

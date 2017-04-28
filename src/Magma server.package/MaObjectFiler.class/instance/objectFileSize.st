@@ -1,4 +1,0 @@
-accessing
-objectFileSize
-
-	^file size

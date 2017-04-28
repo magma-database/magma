@@ -1,1 +1,0 @@
-This is your clients interface to the server when the server is running locally (e.g., with MaLocalRequestServer).

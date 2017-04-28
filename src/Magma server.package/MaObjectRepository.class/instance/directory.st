@@ -1,4 +1,0 @@
-accessing
-directory
-
-	^ filer directory

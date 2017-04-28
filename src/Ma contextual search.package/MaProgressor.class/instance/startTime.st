@@ -1,3 +1,0 @@
-accessing
-startTime
-	^ stopwatch start

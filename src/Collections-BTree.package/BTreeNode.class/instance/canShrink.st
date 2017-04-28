@@ -1,3 +1,0 @@
-testing
-canShrink
-	^ keys canShrink

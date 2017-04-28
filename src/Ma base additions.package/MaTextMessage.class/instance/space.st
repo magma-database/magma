@@ -1,3 +1,0 @@
-building
-space
-	self append: ' '

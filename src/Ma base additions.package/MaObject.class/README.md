@@ -1,1 +1,0 @@
-I provide automatic initialization (which was later added to Squeak 3.7), and the notion of a verbose (standard printOn:) and concise (maPrintAbbreviatedOn:) forms for brevity in collections.

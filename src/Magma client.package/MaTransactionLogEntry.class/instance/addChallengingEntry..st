@@ -1,4 +1,0 @@
-building
-addChallengingEntry: aMaCommitLogEntry
-
-	challengingEntries add: aMaCommitLogEntry

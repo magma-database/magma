@@ -1,3 +1,0 @@
-transactions
-transactionLevel
-	^ transactionLevel

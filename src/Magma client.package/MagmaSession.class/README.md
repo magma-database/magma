@@ -1,1 +1,0 @@
-This is a clients primary interface to a Magma repository.

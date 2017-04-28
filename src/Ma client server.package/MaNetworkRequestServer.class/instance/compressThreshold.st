@@ -1,3 +1,0 @@
-accessing
-compressThreshold
-	^ socket compressThreshold

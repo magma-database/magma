@@ -1,3 +1,0 @@
-notifications
-noteRequestProcessed: yourRequestObject
-	"optional subclass responsibility"

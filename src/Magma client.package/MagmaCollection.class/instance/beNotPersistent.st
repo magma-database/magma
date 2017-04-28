@@ -1,3 +1,0 @@
-private
-beNotPersistent
-	changes beNotPersistent 

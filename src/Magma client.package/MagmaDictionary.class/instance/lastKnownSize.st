@@ -1,3 +1,0 @@
-access
-lastKnownSize
-	^ self size

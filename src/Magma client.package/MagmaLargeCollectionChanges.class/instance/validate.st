@@ -1,3 +1,0 @@
-testing
-validate
-	self subclassResponsibility

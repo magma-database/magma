@@ -1,4 +1,0 @@
-subclass responsibility
-overridee
-
-	self subclassResponsibility

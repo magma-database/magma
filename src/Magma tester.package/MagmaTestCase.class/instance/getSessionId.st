@@ -1,3 +1,0 @@
-private
-getSessionId
-	^ clientSession id

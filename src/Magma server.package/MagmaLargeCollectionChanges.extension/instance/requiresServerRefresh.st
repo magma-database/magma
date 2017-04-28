@@ -1,3 +1,0 @@
-*magma server
-requiresServerRefresh
-	^ false

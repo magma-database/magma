@@ -1,3 +1,0 @@
-accessing
-refresh
-	segment := nil

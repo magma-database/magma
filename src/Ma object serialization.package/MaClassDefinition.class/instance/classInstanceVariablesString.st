@@ -1,3 +1,0 @@
-private
-classInstanceVariablesString
-	^ self stringForVariables: classInstVarNames

@@ -1,3 +1,0 @@
-testing
-isConnected
-	^ socket isConnected

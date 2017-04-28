@@ -1,1 +1,0 @@
-Use this server as a stub when you are running your object-request server locally within the same image.

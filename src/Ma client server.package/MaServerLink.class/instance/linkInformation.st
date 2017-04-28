@@ -1,4 +1,0 @@
-override
-linkInformation
-
-	self subclassResponsibility

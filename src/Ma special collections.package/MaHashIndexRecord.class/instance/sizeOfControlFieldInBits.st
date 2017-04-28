@@ -1,3 +1,0 @@
-private
-sizeOfControlFieldInBits
-	^ 8

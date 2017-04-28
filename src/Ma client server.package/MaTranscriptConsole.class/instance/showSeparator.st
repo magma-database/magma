@@ -1,4 +1,0 @@
-output
-showSeparator
-
-	Transcript show: ' - '

@@ -1,4 +1,0 @@
-performance
-cachedObjectCountByClass
-
-	^serializer cachedObjectCountByClass

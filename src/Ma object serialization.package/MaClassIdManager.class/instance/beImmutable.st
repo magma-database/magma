@@ -1,3 +1,0 @@
-building
-beImmutable
-	mutable := false

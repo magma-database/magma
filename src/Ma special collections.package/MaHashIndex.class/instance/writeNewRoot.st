@@ -1,4 +1,0 @@
-private
-writeNewRoot
-
-	self writeRecord

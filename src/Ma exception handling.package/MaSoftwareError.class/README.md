@@ -1,1 +1,0 @@
-A software error is a bug in the software.  Signal them when you have to code for something that "should never happen."  For example, if, based on your program logic, there should be an entry in a Dictionary, but it is not there, you would signal a software error.

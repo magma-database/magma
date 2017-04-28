@@ -1,1 +1,0 @@
-I'm a request to a Magma server for a bunch of needed object buffers, due to proxy materialization or whatever.

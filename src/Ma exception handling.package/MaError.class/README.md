@@ -1,1 +1,0 @@
-Base abstraction for errors that occur in Ma code.

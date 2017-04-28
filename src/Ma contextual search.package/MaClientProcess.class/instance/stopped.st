@@ -1,3 +1,0 @@
-testing
-stopped
-	^ self shouldStop

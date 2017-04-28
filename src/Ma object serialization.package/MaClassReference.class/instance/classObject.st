@@ -1,4 +1,0 @@
-accessing
-classObject
-
-	^self globalObject

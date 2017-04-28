@@ -1,3 +1,0 @@
-private
-sizeOfControlFieldInBytes
-	^ 1

@@ -1,3 +1,0 @@
-special collections
-weakIdentityKeyDictionaryClass: aClass
-	WeakIdentityKeyDictionaryClass := aClass

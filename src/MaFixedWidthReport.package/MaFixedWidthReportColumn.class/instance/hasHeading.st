@@ -1,3 +1,0 @@
-testing
-hasHeading
-	^ headingText notNil

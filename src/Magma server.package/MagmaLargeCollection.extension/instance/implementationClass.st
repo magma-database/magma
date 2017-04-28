@@ -1,3 +1,0 @@
-*magma server
-implementationClass
-	self subclassResponsibility

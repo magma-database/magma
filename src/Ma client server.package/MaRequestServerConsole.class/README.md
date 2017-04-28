@@ -1,1 +1,0 @@
-I am used to receive messages from the server.

@@ -1,4 +1,0 @@
-access
-protocol
-
-	^ testCase playerProtocol

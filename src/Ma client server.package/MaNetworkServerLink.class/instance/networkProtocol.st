@@ -1,3 +1,0 @@
-accessing
-networkProtocol
-	^ socket networkProtocol

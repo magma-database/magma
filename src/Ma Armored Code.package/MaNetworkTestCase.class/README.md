@@ -1,1 +1,0 @@
-My subclasses are intended to test network programs.  I provide methods for communicating with other images and tunnelling requests to them.

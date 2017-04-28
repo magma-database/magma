@@ -1,3 +1,0 @@
-private
-postIgnitionSequence
-	self ensureCorrectNodeConfiguration

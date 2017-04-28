@@ -1,4 +1,0 @@
-copying
-copyWithSameBuffer
-
-	^ self copy

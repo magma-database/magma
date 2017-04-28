@@ -1,3 +1,0 @@
-test backup/restore
-calculateTimeToVerifyRestore
-	^ self requiredPrereqsToVerifyRestore = VerifyRestorePreqreqsCompleted

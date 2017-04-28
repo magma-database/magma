@@ -1,1 +1,0 @@
-Because removeKey: is so slow in Squeak, I keep track of which ones are newObjects.  That way, when we return from a commit, replacement of temp to permanent oids is much faster.

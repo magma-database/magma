@@ -1,4 +1,0 @@
-private
-repository
-
-	^repositoryController repository

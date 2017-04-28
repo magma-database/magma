@@ -1,1 +1,0 @@
-I am the class which manages the underlying Squeak socket that listens for connecting client sockets.  I receive and process requests in the order received in the background and send responses off in their own background process as well.

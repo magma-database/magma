@@ -1,3 +1,0 @@
-accessing
-addLargeCollectionChanges: aMagmaLargeCollectionChanges
-	^ self allLargeCollectionChanges add: aMagmaLargeCollectionChanges

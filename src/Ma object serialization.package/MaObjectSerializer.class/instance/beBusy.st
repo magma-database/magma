@@ -1,4 +1,0 @@
-private
-beBusy
-
-	amBusy := true

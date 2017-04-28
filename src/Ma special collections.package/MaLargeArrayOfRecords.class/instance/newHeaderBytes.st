@@ -1,4 +1,0 @@
-subclass responsibility
-newHeaderBytes
-
-	self subclassResponsibility

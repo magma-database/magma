@@ -1,3 +1,0 @@
-historys
-timeToLoadBuffersHistory
-	^timeToLoadBuffersHistory

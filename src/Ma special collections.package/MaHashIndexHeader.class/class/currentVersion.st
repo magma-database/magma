@@ -1,3 +1,0 @@
-accessing
-currentVersion
-	^ 2

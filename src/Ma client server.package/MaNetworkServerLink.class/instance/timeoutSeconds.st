@@ -1,4 +1,0 @@
-accessing
-timeoutSeconds
-
-	^socket timeoutSeconds

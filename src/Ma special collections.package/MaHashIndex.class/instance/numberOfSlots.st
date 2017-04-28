@@ -1,4 +1,0 @@
-private
-numberOfSlots
-
-	^ record numberOfSlots

@@ -1,3 +1,0 @@
-preMadeRecords
-preMadeNewFileRecord
-	^ preMadeRecords at: MaNewFileRecord assignedRecordType

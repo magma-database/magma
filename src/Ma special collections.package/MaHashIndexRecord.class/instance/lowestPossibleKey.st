@@ -1,3 +1,0 @@
-accessing
-lowestPossibleKey
-	^ 0

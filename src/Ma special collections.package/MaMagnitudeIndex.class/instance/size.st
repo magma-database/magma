@@ -1,4 +1,0 @@
-framework
-size
-
-	self subclassResponsibility

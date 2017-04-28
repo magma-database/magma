@@ -1,4 +1,0 @@
-private
-systemSessionUserId
-
-	^'__system'

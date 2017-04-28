@@ -1,1 +1,0 @@
-I provide a way to efficiently store and access date intervals. I am capable of answering the question, "What events lie within a given date range." 

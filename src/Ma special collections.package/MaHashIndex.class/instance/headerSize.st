@@ -1,3 +1,0 @@
-private
-headerSize
-	^ MaHashIndexHeader headerSize

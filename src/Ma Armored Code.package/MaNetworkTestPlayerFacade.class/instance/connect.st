@@ -1,4 +1,0 @@
-initializing
-connect
-
-	link connect

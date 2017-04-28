@@ -1,1 +1,0 @@
-An easy-to-use class to send ByteArray or String requests to a socket listening on the network.  The other socket is listening using MaServerSocket.

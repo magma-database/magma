@@ -1,3 +1,0 @@
-as yet unclassified
-initializeNewOids
-	newOids := MaObjectSerializerPreferences newWeakIdentityKeyDictionary

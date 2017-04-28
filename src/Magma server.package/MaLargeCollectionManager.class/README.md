@@ -1,1 +1,0 @@
-I perform server-side operations for MagmaLargeCollections.  Adding, removing and accessing.

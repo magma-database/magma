@@ -1,3 +1,0 @@
-private
-bufferType
-	^ 7

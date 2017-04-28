@@ -1,1 +1,0 @@
-The purpose of this class is to keep track of which classes are persistent.

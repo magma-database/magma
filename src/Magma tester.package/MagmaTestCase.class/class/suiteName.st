@@ -1,3 +1,0 @@
-framework
-suiteName
-	^ 'magma'

@@ -1,3 +1,0 @@
-private
-ensureInRestoreMode
-	self serverPerform: #ensureInRestoreMode

@@ -1,1 +1,0 @@
-I encapsulate objects that represented as a series of words (2-byte numbers).  These types are useful for multimedia like sounds.

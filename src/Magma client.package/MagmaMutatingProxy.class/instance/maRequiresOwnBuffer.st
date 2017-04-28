@@ -1,3 +1,0 @@
-testing
-maRequiresOwnBuffer
-	^ self maRealObjectIsReified

@@ -1,4 +1,0 @@
-overriding
-size
-
-	^ self nextRecordNumber

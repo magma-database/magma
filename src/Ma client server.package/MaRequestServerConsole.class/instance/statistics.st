@@ -1,3 +1,0 @@
-access
-statistics
-	^ statistics 

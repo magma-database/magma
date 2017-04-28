@@ -1,3 +1,0 @@
-*magma tester
-simulateOutage
-	^ SimulateOutage

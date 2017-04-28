@@ -1,3 +1,0 @@
-access
-commitNumber
-	^ session remoteCommitNumber

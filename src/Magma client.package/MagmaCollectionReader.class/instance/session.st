@@ -1,4 +1,0 @@
-private
-session
-
-	^collection session

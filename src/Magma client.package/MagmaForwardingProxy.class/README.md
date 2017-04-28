@@ -1,1 +1,0 @@
-I refer to an object in the repository indicated by my 'magmaId'.  You send me a message and I'll signal my session to try to connect if necessary and forward the message on to the real object in that repository.

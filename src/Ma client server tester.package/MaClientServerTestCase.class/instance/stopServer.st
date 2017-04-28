@@ -1,3 +1,0 @@
-shared
-stopServer
-	server shutdown

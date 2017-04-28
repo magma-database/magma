@@ -1,1 +1,0 @@
-I represent a context for objects in the image.

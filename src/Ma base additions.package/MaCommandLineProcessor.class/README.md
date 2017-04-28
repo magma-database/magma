@@ -1,1 +1,0 @@
-MaCommandLineProcessor is a place for Smalltalk scripts to be called via command-line.

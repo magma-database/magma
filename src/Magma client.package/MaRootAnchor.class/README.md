@@ -1,1 +1,0 @@
-This class represents the real root of every repository.  The #root is the user-application domain root, the definition is a meta-object describing this repository itself.

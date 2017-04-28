@@ -1,1 +1,0 @@
-I am the main superclass for objects with a minimal api.  I am meant to have just enough api to be able to develop and debug.

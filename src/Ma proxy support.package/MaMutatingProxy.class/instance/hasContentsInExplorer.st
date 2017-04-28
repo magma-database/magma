@@ -1,4 +1,0 @@
-ide support
-hasContentsInExplorer
-
-	^true

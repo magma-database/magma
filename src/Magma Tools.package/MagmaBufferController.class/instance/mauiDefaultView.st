@@ -1,3 +1,0 @@
-maui
-mauiDefaultView
-	^ 'Access'

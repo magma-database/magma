@@ -1,1 +1,0 @@
-Signalled by MagmaSet if a duplicate object is added to the collection.

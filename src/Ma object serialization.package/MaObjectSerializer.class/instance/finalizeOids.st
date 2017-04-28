@@ -1,4 +1,0 @@
-actions
-finalizeOids
-
-	oidManager finalizeOids

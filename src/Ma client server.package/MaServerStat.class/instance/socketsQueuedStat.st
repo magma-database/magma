@@ -1,3 +1,0 @@
-accessing
-socketsQueuedStat
-	^ socketsQueuedHistory active

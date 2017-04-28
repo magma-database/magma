@@ -1,3 +1,0 @@
-*ma squeak domain
-maAddToCodeElementFinder: aMaCodeElementFinder
-	aMaCodeElementFinder addCommonBehaviorForClass: self maOriginalClass

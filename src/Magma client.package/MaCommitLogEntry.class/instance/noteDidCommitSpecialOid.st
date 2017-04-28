@@ -1,4 +1,0 @@
-building
-noteDidCommitSpecialOid
-
-	didCommitSpecialOid := true

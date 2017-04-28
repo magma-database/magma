@@ -1,1 +1,0 @@
-The server to use when you want to allow requests and responses to be any object and run on a remote server.

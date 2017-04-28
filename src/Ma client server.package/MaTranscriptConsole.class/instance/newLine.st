@@ -1,4 +1,0 @@
-output
-newLine
-
-	Transcript cr

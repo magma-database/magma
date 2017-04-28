@@ -1,4 +1,0 @@
-actions
-rehashOids
-
-	oidManager rehashOids

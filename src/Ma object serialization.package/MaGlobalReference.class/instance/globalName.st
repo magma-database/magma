@@ -1,4 +1,0 @@
-private
-globalName
-
-	^globalName

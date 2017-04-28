@@ -1,3 +1,0 @@
-accessing
-commitNumber
-	^ filer commitNumber

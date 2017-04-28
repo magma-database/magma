@@ -1,3 +1,0 @@
-copying
-postCopyForIndependentSearch
-	self initializeKeywords

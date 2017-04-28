@@ -1,1 +1,0 @@
-My 'descriptions', are a parallel OrderedCollection of MagmaIndexDescriptions to the indexes.  This is provided for the server so it doesn't have to have the MagmaCollectionIndex hierarchy loaded.  The server is concerned only with the Magma domain, not user-domain classes.
