@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 2/1/2005 15:32",
+	"super" : "MaServerLink",
+	"category" : "Ma client server-Client API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"localRequestServer"
+	],
+	"name" : "MaLocalServerLink",
+	"type" : "normal"
+}

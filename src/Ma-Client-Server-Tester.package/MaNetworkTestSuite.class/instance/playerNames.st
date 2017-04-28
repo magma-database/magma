@@ -1,0 +1,3 @@
+players
+playerNames
+	self subclassResponsibility

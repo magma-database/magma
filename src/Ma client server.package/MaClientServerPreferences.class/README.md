@@ -1,0 +1,1 @@
+Control your Ma client server preferences with this class.

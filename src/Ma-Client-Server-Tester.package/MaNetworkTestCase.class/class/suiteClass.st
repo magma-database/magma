@@ -1,0 +1,3 @@
+overriding
+suiteClass
+	^ MaClientServerTestSuite

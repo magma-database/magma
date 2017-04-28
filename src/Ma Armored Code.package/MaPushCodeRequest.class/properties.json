@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaNetworkTestPlayerRequest",
+	"category" : "Ma Armored Code-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream"
+	],
+	"name" : "MaPushCodeRequest",
+	"type" : "normal"
+}

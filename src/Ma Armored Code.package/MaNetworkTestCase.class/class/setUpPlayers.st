@@ -1,0 +1,3 @@
+framework
+setUpPlayers
+	self subclassResponsibility 

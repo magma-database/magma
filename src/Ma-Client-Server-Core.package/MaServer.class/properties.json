@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 2/1/2005 15:35",
+	"super" : "MaObject",
+	"category" : "Ma-Client-Server-Core-Server API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"console"
+	],
+	"name" : "MaServer",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+testing
+isConnected
+	^ socket isConnected

@@ -1,0 +1,3 @@
+accessing
+compressThreshold
+	^ socket compressThreshold

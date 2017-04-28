@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma-Client-Server-Core-Server API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sounds"
+	],
+	"name" : "MacsSoundTheme",
+	"type" : "normal"
+}

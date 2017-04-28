@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaSingleton",
+	"category" : "Ma Armored Code-API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"testEnvironmentDirectory"
+	],
+	"name" : "MaArmoredCodeOptions",
+	"type" : "normal"
+}

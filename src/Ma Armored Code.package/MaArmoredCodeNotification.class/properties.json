@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaNotification",
+	"category" : "Ma Armored Code-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaArmoredCodeNotification",
+	"type" : "normal"
+}

@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "cmm 11/13/2008 15:34",
+	"super" : "MaObject",
+	"category" : "Ma-Client-Server-Core-Server API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"serverSocket",
+		"lifecycle",
+		"extractProcess",
+		"shouldContinue",
+		"info",
+		"lastAccess",
+		"priorLifecycle"
+	],
+	"name" : "MaClientConnection",
+	"type" : "normal"
+}

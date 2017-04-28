@@ -1,0 +1,24 @@
+{
+	"commentStamp" : "cmm 9/18/2013 15:22",
+	"super" : "MaObject",
+	"category" : "Ma-Client-Server-Core-Orchestra API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"players",
+		"firstPort",
+		"cores",
+		"startBlock",
+		"launchProcess",
+		"guard",
+		"imageTimestamp",
+		"prepareImageSelector",
+		"onePlayerImage",
+		"protocol",
+		"timeoutSeconds"
+	],
+	"name" : "MaNetworkOrchestra",
+	"type" : "normal"
+}

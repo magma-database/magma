@@ -1,0 +1,3 @@
+accessing
+noteTimeJustFinishedSendingResponse
+	doneSendingResponseTime := Time millisecondClockValue

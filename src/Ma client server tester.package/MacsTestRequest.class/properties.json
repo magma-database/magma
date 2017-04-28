@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MaClientServerRequest",
+	"category" : "Ma client server tester-Object Layer Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"object1",
+		"object2"
+	],
+	"name" : "MacsTestRequest",
+	"type" : "normal"
+}

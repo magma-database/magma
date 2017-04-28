@@ -1,0 +1,3 @@
+recording
+recordTimeToExtractRequestBytes: milliseconds 
+	self extractTimeHistory addValue: milliseconds

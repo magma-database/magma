@@ -1,0 +1,1 @@
+A default console that prints messages to the Transcript.

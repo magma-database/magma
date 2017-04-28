@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "cmm 2/1/2005 15:29",
+	"super" : "MaObject",
+	"category" : "Ma-Client-Server-Core-Client API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"location",
+		"socket",
+		"socketStream",
+		"byteArray",
+		"stat",
+		"preferences",
+		"networkProtocol",
+		"sequenceNumber"
+	],
+	"name" : "MaClientSocket",
+	"type" : "normal"
+}

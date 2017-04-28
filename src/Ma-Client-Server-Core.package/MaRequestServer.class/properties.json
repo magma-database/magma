@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 2/20/2005 17:15",
+	"super" : "MaServer",
+	"category" : "Ma-Client-Server-Core-Server API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"processor"
+	],
+	"name" : "MaRequestServer",
+	"type" : "normal"
+}

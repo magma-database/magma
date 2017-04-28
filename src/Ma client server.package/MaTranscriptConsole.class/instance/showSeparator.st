@@ -1,0 +1,4 @@
+output
+showSeparator
+
+	Transcript show: ' - '
