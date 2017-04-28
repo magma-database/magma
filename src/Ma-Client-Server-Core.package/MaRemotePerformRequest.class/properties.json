@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 8/18/2009 21:41",
+	"super" : "MaClientServerRequest",
+	"category" : "Ma-Client-Server-Core-Client API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"selector",
+		"arguments"
+	],
+	"name" : "MaRemotePerformRequest",
+	"type" : "normal"
+}

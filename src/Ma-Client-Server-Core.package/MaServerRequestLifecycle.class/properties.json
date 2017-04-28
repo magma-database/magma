@@ -1,0 +1,28 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma-Client-Server-Core-Server API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"socket",
+		"sequenceNumber",
+		"socketQueueTime",
+		"socketDequeueTime",
+		"requestQueueTime",
+		"requestDequeueTime",
+		"requestByteArray",
+		"requestObject",
+		"beginSendingResponseTime",
+		"doneSendingResponseTime",
+		"responseByteArray",
+		"remoteAddress",
+		"remotePort",
+		"clientConnection",
+		"guard",
+		"socketStream"
+	],
+	"name" : "MaServerRequestLifecycle",
+	"type" : "normal"
+}

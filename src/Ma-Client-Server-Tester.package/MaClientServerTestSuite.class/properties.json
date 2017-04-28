@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaNetworkTestSuite",
+	"category" : "Ma-Client-Server-Tester-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaClientServerTestSuite",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+This is your clients interface to the server when the server is running remotely (e.g., with MaTcpRequestServer).

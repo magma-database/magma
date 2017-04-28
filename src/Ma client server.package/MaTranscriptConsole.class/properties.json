@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 2/1/2005 15:41",
+	"super" : "MaServerConsole",
+	"category" : "Ma client server-Server API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaTranscriptConsole",
+	"type" : "normal"
+}

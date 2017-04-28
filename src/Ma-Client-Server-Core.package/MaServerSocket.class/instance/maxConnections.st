@@ -1,0 +1,3 @@
+private
+maxConnections
+	^ 50

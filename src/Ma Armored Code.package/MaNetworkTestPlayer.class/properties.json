@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma Armored Code-Network testing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"testCase",
+		"server"
+	],
+	"name" : "MaNetworkTestPlayer",
+	"type" : "normal"
+}

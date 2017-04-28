@@ -1,0 +1,3 @@
+private
+priorLifecycle: aMaServerRequestLifecycle
+	priorLifecycle := aMaServerRequestLifecycle

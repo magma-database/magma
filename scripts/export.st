@@ -90,5 +90,34 @@ versions do: [ :version |
 
 allVersions addAll: versionNames.
 
+packageNames := #(
+  'Ma Armored Code'
+  'Ma client server'
+  'Ma client server tester'
+  'Ma-Client-Server-Core'
+  'Ma-Client-Server-Squeak-Tester'
+  'Ma-Client-Server-Tester'
+).
+
+location := 'http://www.squeaksource.com/MaClientServer'.
+
+originalRepository := MCHttpRepository
+    location: location
+    user: ''
+    password: ''.
+
+versionNames := packageNames collect: [ :pacakgeName |
+	ScriptLoader latestVersionOf: pacakgeName location: location ].
+
+versions := versionNames collect: [ :each |
+	originalRepository loadVersionFromFileNamed: each.	].
+
+versions do: [ :version |
+	IceMetadatalessFileTreeWriter
+		fileOut: (version)
+		on: (MCFileTreeRepository new directory: exportDir asFileReference ).	].
+
+allVersions addAll: versionNames.
+
 STON put: allVersions onStreamPretty: 'versions.ston' asFileReference ensureDelete writeStream.
 

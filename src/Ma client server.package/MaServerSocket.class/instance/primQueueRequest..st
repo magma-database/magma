@@ -1,0 +1,3 @@
+private
+primQueueRequest: aMaRequestLifecycle 
+	requestQueue nextPut: aMaRequestLifecycle

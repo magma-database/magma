@@ -1,0 +1,3 @@
+framework
+suiteName
+	self subclassResponsibility 

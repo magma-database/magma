@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "MaSerializationStat",
+	"category" : "Ma-Client-Server-Core-Client API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timeToConnectSocketHistory",
+		"timeToLoadBuffersHistory",
+		"timeToSendRequestsHistory",
+		"timeWaitingForResponsesHistory",
+		"timeReceivingResponsesHistory",
+		"timeToSubmitByRequestClassHistorys"
+	],
+	"name" : "MaClientStat",
+	"type" : "normal"
+}

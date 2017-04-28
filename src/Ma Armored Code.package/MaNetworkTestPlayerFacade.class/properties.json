@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma Armored Code-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"link",
+		"name",
+		"testCaseClass"
+	],
+	"name" : "MaNetworkTestPlayerFacade",
+	"type" : "normal"
+}

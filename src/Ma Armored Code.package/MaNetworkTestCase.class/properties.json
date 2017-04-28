@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MaTestCase",
+	"category" : "Ma Armored Code-Network testing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"NextPort",
+		"PlayerLinks",
+		"TestPlayer"
+	],
+	"instvars" : [ ],
+	"name" : "MaNetworkTestCase",
+	"type" : "normal"
+}

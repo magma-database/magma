@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "cmm 2/1/2005 15:34",
+	"super" : "MaObject",
+	"category" : "Ma-Client-Server-Core-Server API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lastRequestStart",
+		"lastRequestFinish",
+		"statistics",
+		"playAuditorialization",
+		"soundTheme",
+		"soundQueue"
+	],
+	"name" : "MaServerConsole",
+	"type" : "normal"
+}

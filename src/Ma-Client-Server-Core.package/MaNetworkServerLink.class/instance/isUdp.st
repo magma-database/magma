@@ -1,0 +1,3 @@
+accessing
+isUdp
+	^ socket isUdp

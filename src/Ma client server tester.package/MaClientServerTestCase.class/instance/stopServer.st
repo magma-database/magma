@@ -1,0 +1,3 @@
+shared
+stopServer
+	server shutdown

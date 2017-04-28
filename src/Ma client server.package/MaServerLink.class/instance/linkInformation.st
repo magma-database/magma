@@ -1,0 +1,4 @@
+override
+linkInformation
+
+	self subclassResponsibility

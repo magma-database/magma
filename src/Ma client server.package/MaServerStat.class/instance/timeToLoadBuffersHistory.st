@@ -1,0 +1,3 @@
+historys
+timeToLoadBuffersHistory
+	^timeToLoadBuffersHistory

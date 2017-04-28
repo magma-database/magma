@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "MaNetworkTestCase",
+	"category" : "Ma client server tester-Test cases",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"server",
+		"busy",
+		"mergedBag",
+		"testObjects"
+	],
+	"name" : "MaClientServerTestCase",
+	"type" : "normal"
+}

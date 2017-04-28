@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "cmm 9/13/2013 12:23",
+	"super" : "MaServerLink",
+	"category" : "Ma-Client-Server-Core-Client API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"serializer",
+		"socket",
+		"submitGuard"
+	],
+	"name" : "MaNetworkServerLink",
+	"type" : "normal"
+}

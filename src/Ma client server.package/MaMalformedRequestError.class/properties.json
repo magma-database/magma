@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "cmm 2/1/2005 15:26",
+	"super" : "MaError",
+	"category" : "Ma client server-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaMalformedRequestError",
+	"type" : "normal"
+}

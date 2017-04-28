@@ -1,0 +1,1 @@
+A MaNetworkTestSuite is a suite for testing network programs.  By employing a NetworkOrchestra made up of at least one server image and two client images, a fourth "test conductor" is able to direct a test suite that exercises the network program.

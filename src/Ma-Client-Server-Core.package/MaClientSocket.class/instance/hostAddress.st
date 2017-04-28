@@ -1,0 +1,3 @@
+accessing
+hostAddress
+	^ location hostAddress

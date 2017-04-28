@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma-Client-Server-Tester-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"response1",
+		"response2"
+	],
+	"name" : "MacsTestResponse",
+	"type" : "normal"
+}

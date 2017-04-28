@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 1/4/2013 16:47",
+	"super" : "TestSuite",
+	"category" : "Ma-Client-Server-Tester-SUnit extensions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"orchestra"
+	],
+	"name" : "MaNetworkTestSuite",
+	"type" : "normal"
+}

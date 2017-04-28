@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaClientServerEnvironmentError",
+	"category" : "Ma-Client-Server-Core-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"expectedSequenceNumber"
+	],
+	"name" : "MaClientServerOutOfSequence",
+	"type" : "normal"
+}

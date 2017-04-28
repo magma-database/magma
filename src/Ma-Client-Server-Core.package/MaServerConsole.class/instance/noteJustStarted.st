@@ -1,0 +1,3 @@
+notifications
+noteJustStarted
+	statistics ensureActive

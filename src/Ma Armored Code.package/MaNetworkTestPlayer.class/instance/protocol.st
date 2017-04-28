@@ -1,0 +1,4 @@
+access
+protocol
+
+	^ testCase playerProtocol

@@ -1,0 +1,4 @@
+accessing
+environmentDirectory
+
+	^ FileDirectory default

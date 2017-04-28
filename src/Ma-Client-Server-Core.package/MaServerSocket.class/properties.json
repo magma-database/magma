@@ -1,0 +1,27 @@
+{
+	"commentStamp" : "cmm 6/6/2008 10:19",
+	"super" : "MaServer",
+	"category" : "Ma-Client-Server-Core-Server API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ActiveSockets"
+	],
+	"instvars" : [
+		"socketQueue",
+		"requestQueue",
+		"processRequestProcess",
+		"socket",
+		"doBlock",
+		"port",
+		"running",
+		"socketQueueMonitorProcess",
+		"clientConnections",
+		"clientConnectionsGuard",
+		"preferences",
+		"networkProtocol",
+		"interface"
+	],
+	"name" : "MaServerSocket",
+	"type" : "normal"
+}

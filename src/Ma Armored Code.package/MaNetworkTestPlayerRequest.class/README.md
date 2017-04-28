@@ -1,0 +1,1 @@
+An abstract class for sending requests from the test conductor to the test 'players'.

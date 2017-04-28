@@ -1,0 +1,3 @@
+recording
+recordTimeToSendResponse: anInteger 
+	self timeToSendResponsesHistory addValue: anInteger

@@ -1,0 +1,4 @@
+private
+headerSize
+
+	^4
