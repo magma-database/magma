@@ -13,3 +13,24 @@ Magma is a multi-user object database for Squeak which:
 - is written 100% in intelligible, well-factored Smalltalk.
 - includes rigorous SUnit tests that utilize multiple images to simulate testing in a multi-user environment.
 - A truly free license. No cost. No registration. Free to use for any lawful purpose.
+
+
+## Loading
+
+To load Magma into Pharo 6 use this code:
+
+```
+Metacello new
+  baseline: 'Magma';
+  repository: 'github://magma-database/magma:pharo6-dev/src';
+  load.
+```
+
+For development please use Iceberg:
+
+```
+Metacello new
+  baseline: 'Iceberg';
+  repository: 'github://pharo-vcs/iceberg:dev-0.4';
+  load.
+```
