@@ -4,8 +4,8 @@ newHashIndexWithKeySize: keySize recordSize: recordSize
 	self notify: 'creating ',
 		(filename := self
 			indexFileNameForKeySize: keySize
-			recordSize: recordSize), '..'.
-	self deleteFilesNamed: { filename }.
+			recordSize: recordSize) pathString, '..'.
+	self deleteFiles: { filename }.
 	^ MaHashIndex
 		createNamed: filename
 		keySize: keySize

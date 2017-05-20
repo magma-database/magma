@@ -1,6 +1,8 @@
 file management
 deleteFilesNamed: aCollection
 
+	self deprecated: 'rewrite to deleteFiles:'.
+
 	aCollection do:
 		[ :each |
 		StandardFileStream allInstances do:

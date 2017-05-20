@@ -1,4 +1,4 @@
 accessing
 environmentDirectory
 
-	^ FileDirectory default
+	^ FileSystem disk workingDirectory
