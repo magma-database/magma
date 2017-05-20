@@ -1,7 +1,0 @@
-icons
-fastForwardIcon2
-	^ self 
-		iconNamed: #fastForwardIcon2
-		ifAbsentPutFromString: 'iVBORw0KGgoAAAANSUhEUgAAAAwAAAALCAYAAABLcGxfAAAAPUlEQVR4XmNYu3btfwYsYC0O
-cbAENklc4nAJdElc4igSyJK4xDEkYJK4xLFK4MOU20CSH0gKJZLigZSYBgBmc9mxKTX9NwAA
-AABJRU5ErkJggg=='

@@ -1,6 +1,0 @@
-icons
-makeNormal
-	^ self 
-		iconNamed: #makeNormal
-		ifAbsentPutFromString: 'iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAAKklEQVR4XmNgYGD8D8HoACYO
-l8OnEIODrpB8RfjYOE2gXBGGjzHCA0MzAPyIHgFB9iybAAAAAElFTkSuQmCC'

@@ -33,15 +33,11 @@ cleanUp
 		copyHash: false.
 	Smalltalk garbageCollect.
 	self allSubInstances do:
-		[ : each | (PointerFinder pointersTo: each) do:
+		[ : each | ( each pointersTo) do:
 			[ : referencer | referencer class == MethodContext ifTrue: [ referencer receiver: nil ] ] ].
 	Smalltalk garbageCollect.
 	after := self allSubInstances size.
-	(after > 0 and: [ Smalltalk hasMaui ]) ifTrue:
-		[ (Smalltalk classNamed: #MauiMorph) allSubInstances do:
-			[ : each | each object isMauiPrototype ifTrue: [ each resetObject ] ].
-		Smalltalk garbageCollect.
-		after := self allSubInstances size ].
+
 	SystemNavigation default allObjectsDo:
 		[ : e | ((e class inheritsFrom: Object) and: [ e isBehindWriteBarrier ]) ifTrue:
 			[ [ e primitiveChangeClassTo: e class superclass basicNew ]

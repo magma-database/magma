@@ -1,6 +1,0 @@
-icons
-playIcon
-	^ self 
-		iconNamed: #playIcon
-		ifAbsentPutFromString: 'iVBORw0KGgoAAAANSUhEUgAAAAYAAAALCAYAAABcUvyWAAAAL0lEQVR4XmPg4OD4z4ANcAAl
-OLBJwiQwJJElUCTRJeCS2CTAkkTrIN5VWP2BzeMAeYInPbXxuu8AAAAASUVORK5CYII='

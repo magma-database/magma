@@ -1,8 +1,0 @@
-icons
-chooseDefaultFont
-	^ self 
-		iconNamed: #chooseDefaultFont
-		ifAbsentPutFromString: 'iVBORw0KGgoAAAANSUhEUgAAABIAAAANCAYAAACkTj4ZAAAAk0lEQVR4XmPABjJKOv4DKZxY
-TcvoPwM+sO30O7jilXvu/p+z7gyYDTUYDEqbZqLwsYKo1HKYQSgugxpIPADZhiaEYjBZQFJG
-ESNsfMNSSTMUFFbYwgeHa/G7GurN//3zd+NzBWGvQ70Bjj0GCsF/Y0tnygyBuoJweiEE0NMT
-UaBp4iqURAfjQ1M5aVENDYv/lCRAAHQmc7YGk7XQAAAAAElFTkSuQmCC'

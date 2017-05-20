@@ -1,7 +1,0 @@
-icons
-frameRetreatIcon2
-	^ self 
-		iconNamed: #frameRetreatIcon2
-		ifAbsentPutFromString: 'iVBORw0KGgoAAAANSUhEUgAAABIAAAALCAYAAAByF90EAAAAQElEQVR4XmPABtauXfsfnQ/D
-xIijSFJkEKkasIojC5JtELohZBmEzZCBdRFVw4iqsUbVdIQrZS9duvQ/DOMSBwATaTPkCFBt
-1gAAAABJRU5ErkJggg=='
