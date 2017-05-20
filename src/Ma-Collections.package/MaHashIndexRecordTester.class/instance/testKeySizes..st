@@ -1,10 +1,10 @@
 tests
-testAll
+testKeySizes: keySizes
 	"Test a variety of keySize and recordSize combinations.  For each pair, run only as far as it takes to get two-deep into duplicates for all originating from one entry in the root record, chosen at random."
 
 	| testCount |
 	testCount := 0.
-	#(16 24 32 40 56 64 96 128 160 192 256) "keySizes" do:
+	keySizes do:
 		[ : keySize |
 		#(2 4 8 16 32 64 128) "recordSizes" do:
 			[ : recordSize |  | startRecord  |
