@@ -1,11 +1,18 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "tlk 5/9/2006 18:43",
 	"super" : "Object",
 	"category" : "Ma-Pharo",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"classSymbol",
+		"classIsMeta",
+		"methodSymbol",
+		"stringVersion",
+		"category",
+		"environment"
+	],
 	"name" : "MethodReference",
 	"type" : "normal"
 }

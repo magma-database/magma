@@ -1,4 +1,4 @@
-private accessing
+private creation - domain objects
 collectionSamplesDo: twoArgBlock
 
 	self
