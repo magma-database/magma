@@ -1,3 +1,0 @@
-private
-depthSpecifications
-	^ depthSpecifications

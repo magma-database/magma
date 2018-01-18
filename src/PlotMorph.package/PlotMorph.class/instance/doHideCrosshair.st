@@ -1,0 +1,3 @@
+drawing
+doHideCrosshair
+	lastHandPosition := nil

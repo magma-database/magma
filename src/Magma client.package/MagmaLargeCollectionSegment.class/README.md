@@ -1,1 +1,0 @@
-I represent a "page" of objects in a MagmaCollection.

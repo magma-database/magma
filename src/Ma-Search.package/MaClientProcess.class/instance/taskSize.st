@@ -1,0 +1,3 @@
+accessing
+taskSize
+	^ progressor taskSize

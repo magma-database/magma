@@ -1,4 +1,4 @@
-private
+packages
 addConfiguration: aMCConfiguration 
 	| versionName packageName |
 	versionName := aMCConfiguration versionName.

@@ -20,7 +20,7 @@ primRepair
 					[ MagmaRepairNotification signal: 'Verifying repair before committing.'.
 					self anyDataToRepair
 						ifTrue:
-							[ MagmaRepairNotification signal: 'Still found data to repair.  Aborting.'.
+							[ MagmaRepairNotification signal: 'Found data to repair.  Aborting.'.
 							failed := true.
 							session abort ]
 						ifFalse:
@@ -39,7 +39,7 @@ primRepair
 							ifTrue: [ stream maPrint: 'Some improvement may have been committed.' ]
 							ifFalse:
 								[ failed ifFalse: [ stream maPrint: '(Perhaps the repair tried to change immutable objects?)' ].
-								stream maPrint: 'Repair failed.  Commit number prior to repair was ', commitNumberBefore ] ].
+								stream maPrint: 'Repair aborted.' ] ].
 					MagmaRepairNotification signal: errMsg.
 					MagmaRepairFailure signal: errMsg ]
 				ifFalse: [ MagmaRepairNotification signal: 'Verification complete.  Repair successful.' ] ]

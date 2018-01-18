@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaTree",
+	"category" : "Ma-Collections-Tree",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaIdentityTree",
+	"type" : "normal"
+}

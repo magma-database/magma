@@ -1,4 +1,0 @@
-accessing
-objectFileSize
-
-	^filer objectFileSize

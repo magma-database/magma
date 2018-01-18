@@ -1,3 +1,0 @@
-private
-openIndicatorFilename
-	^ '_open'

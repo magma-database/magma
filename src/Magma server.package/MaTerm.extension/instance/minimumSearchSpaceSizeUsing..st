@@ -1,3 +1,0 @@
-*magma server-private
-minimumSearchSpaceSizeUsing: aMagmaCollectionManager
-	self subclassResponsibility

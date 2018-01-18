@@ -1,0 +1,26 @@
+{
+	"commentStamp" : "",
+	"super" : "MaSerializationStat",
+	"category" : "Ma-Client-Server-Core-Server API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"requestsQueuedHistory",
+		"socketsQueuedHistory",
+		"requestSizeHistory",
+		"requestProcessingTimeHistory",
+		"requestProcessingTimeHistorys",
+		"responseSizeHistory",
+		"extractTimeHistory",
+		"timeWaitingInSocketQueueHistory",
+		"timeWaitingInRequestQueueHistory",
+		"timeToSendResponsesHistory",
+		"clientTimeoutsHistory",
+		"numberOfClientConnectionsHistory",
+		"timeToLoadBuffersHistory",
+		"idleTimeHistory"
+	],
+	"name" : "MaServerStat",
+	"type" : "normal"
+}

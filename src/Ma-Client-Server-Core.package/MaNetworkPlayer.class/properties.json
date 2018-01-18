@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "cmm 9/18/2013 20:34",
+	"super" : "MaObject",
+	"category" : "Ma-Client-Server-Core-Orchestra API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"orchestra",
+		"link",
+		"server",
+		"doBlock"
+	],
+	"name" : "MaNetworkPlayer",
+	"type" : "normal"
+}

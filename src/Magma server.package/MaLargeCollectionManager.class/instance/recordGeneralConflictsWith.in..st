@@ -1,4 +1,0 @@
-override
-recordGeneralConflictsWith: aMagmaLargeCollectionChanges in: aMaCommitLogEntry
-
-	self subclassResponsibility

@@ -1,1 +1,0 @@
-I am the first record of a group of RecoveryRecords for the same transactionId.  If a disaster happens in the middle of a commit and, during recovery, a valid BeginApply record is found in the apply file *without* a valid EndApply record, then we know the commit did not finish and all of the records must be unapplied.

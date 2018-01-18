@@ -1,3 +1,0 @@
-accessing
-serverSession
-	^ controller session 

@@ -1,0 +1,3 @@
+testing
+isUdp
+	^ networkProtocol == #udp

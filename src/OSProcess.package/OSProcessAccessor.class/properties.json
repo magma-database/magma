@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "dtl 7/7/2010 07:58",
+	"super" : "Model",
+	"category" : "OSProcess-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"EmulateWin32FileLocking",
+		"FileLockRegistry",
+		"ThisOSProcessAccessor",
+		"UseIOHandle"
+	],
+	"instvars" : [
+		"sessionIdentifier",
+		"grimReaper",
+		"canObtainSessionIdentifierFromPlugin"
+	],
+	"name" : "OSProcessAccessor",
+	"type" : "normal"
+}

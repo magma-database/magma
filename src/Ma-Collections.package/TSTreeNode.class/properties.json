@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Ma-Collections-BTree",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"key",
+		"value",
+		"low",
+		"high",
+		"equal"
+	],
+	"name" : "TSTreeNode",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+accessing
+oidCount
+
+	^oids size

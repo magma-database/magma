@@ -1,3 +1,0 @@
-preMadeRecords
-preMadeBeginApplyRecord 
-	^ preMadeRecords at: MaBeginApplyRecord assignedRecordType

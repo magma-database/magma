@@ -1,0 +1,25 @@
+icons
+elephantSilhouette
+	^ self 
+		iconNamed: #elephantSilhouette
+		ifAbsentPutFromString: 'iVBORw0KGgoAAAANSUhEUgAAAJ8AAACgCAYAAAASN76YAAAEIUlEQVR4XuXdwXKjMBAEUO//
+f3RSOexhD86CkWZa87pqji7J0gMjQMnLjx8/fvz48ePHjx8/fvz48ePHzyH58/W+utq9Wn4G
+otsFYXWbPkQf3yUEO+H5AH14byFUtOcj9OFFlR8fnw/Qj4/Pjw9vNED/YPDxHXHP0sfn42sf
+Sx+fD7B9/Hx4PsTWMfPx+eWv0n18PkAfn18+QB+eD9DH55eP0MfnA/Tx+eUD9PH5AH18fvkA
+fXw+Ph+fXy5Af5J8gD4+vzyA/uT4AH18fvn4/PIB+vj8mg/QnxAfoI/PLx+fXz5AH6BfPj6/
+fIA+Pr98fH75AH18fvkA/fLx+fj88vH55QP08fnl4/PLB+jj88vH55cP0Mfnl4/PLx+fP/B+
+9QH0B90vH59fFj5/wP1qA+gPtl8+Pr98fH755ePzy8fnlw/Qh+eXj88vH9+R8Hz4Pr6IL+NP
+cBaycfj8n3wfXxw8Hx+IL+mawZ94CN+dhisuVv2Jz1tYLMf3ifqKVZI/8Xkr2iX4npxuq5bn
+/uSj+FZD8G9w+/guTe5qCP7TlTk3kctfLui+A+5D8PG1PXbxIfj4Wp/3+Rh8fD4+/KUBDp+P
+wcfn4/Px+fj86n/TKHIPh4/Px+fj+6p9UcLH5+Pz35Yues0tDt8J+0n8n/Y1b5b7+Hx8s39y
+fXw+PB+fv2HJx3c6Pv/s5+Pz8fn4fHw+vvsbunx8Pj4f3yR8uwCmQ787Bxy+k1e86c+v786B
+j28Yvk6UPr6h+NLf6PmkPz4+BN9ugD6+wklIWtz4+Hx8LWfYBICf9iMOX9qBkPBHinx8Pr4R
++FKuR318KL6ESwIfX+HFdfdiY9e/InuT1//q57NPPn87fxv8rZL6sqqPT9raOSZP++Xjaxj8
+kyY56SD08TXgm3r2W9F2zGRXx8dXPw4+vqZBn4RvVbssvuqBT8X3Sd98fD4+H5+PL//6amXf
+Vrbn4/Px2fg64+Pz8RH4kgGOxZf4k+vj8/G1x8fXh69k/pPxnQIwaQx8fD6+Efi2frd0eD6+
+enxl383H5+NrwXcCvA58XW0mH3xjBnMivrT3+la3RcJLuODW8R01cT4+H1/bDUofXz++VftZ
+SjqfHh9fz5YCamWbdOng43v58fH1bqby8fn4Wq77/ByCb8dkVW/r9PEF3S5S8fnx8UVvaPfx
+BQLw8cH4ppz9kv+IkY8v9Ozn4/PxHd3+Cng+vkH33E7YQ+zj8/H5+PwVb//KsxOejw/Hd7cv
+K+H5+Hx8rfh8gOiK924/dsDz8eH4rvTFh+fja8G3C56P77CV5i4g/lkPw5fyqMuHB8KT8PkJ
+g9e5k60Sn59AeAn4Tji4/Pj4fHiT4HXjO2Eh5eeAC/Gkx2l+kJ/cK/3y4+PzMfh5lH/io/Pj
+x48fP378+PHjx48fNt+UOjngXjHsZgAAAABJRU5ErkJggg=='

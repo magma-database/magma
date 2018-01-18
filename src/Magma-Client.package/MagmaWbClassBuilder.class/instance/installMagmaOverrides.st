@@ -5,11 +5,6 @@ installMagmaOverrides
 'maOriginalClass
 	^ self class superclass'
 		classified: 'accessing'.
-	class
-		compileSilently:
-'xxxClass
-	^ self class superclass'
-		classified: 'accessing'.
 	class class
 		compileSilently:
 'theNonWriteBarrierClass

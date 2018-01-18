@@ -1,4 +1,0 @@
-accessing
-serverSerializer
-
-	^repositoryController serverSerializer

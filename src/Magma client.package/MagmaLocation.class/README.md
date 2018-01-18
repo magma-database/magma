@@ -1,1 +1,0 @@
-I provide an objectified link to a Magma repository, local or remote, to use when you don't want to bother with its location details.

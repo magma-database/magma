@@ -8,7 +8,6 @@ check: anObject
 		doBlock
 			cull: anObject
 			cull: self.
-		strongReferences add: anObject.
 		(self improveMode and: [ (Time millisecondsSince: lastCommit) > (80 * 1000) ]) ifTrue:
 			[ session commitAndBegin.
 			lastCommit := Time millisecondClockValue ] ]

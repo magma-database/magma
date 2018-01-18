@@ -1,3 +1,0 @@
-accessing
-filenames
-	^ localLocation fileNames

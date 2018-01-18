@@ -1,0 +1,4 @@
+accessing
+numberOfSlots
+
+	^ numberOfSlots

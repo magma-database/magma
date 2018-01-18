@@ -1,3 +1,0 @@
-mouse cursor
-showStatusViaCursor 
-	^ ShowStatusViaCursor

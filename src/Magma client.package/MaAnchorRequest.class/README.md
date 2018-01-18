@@ -1,1 +1,0 @@
-I'm the request used when you ask for the root.  The "real" root is actually an instance of MaRootAnchor, which references your root (this provides service via the standard commit mechanism).

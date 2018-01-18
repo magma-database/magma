@@ -1,3 +1,0 @@
-testing
-isLocalHost
-	^ location isLocalHost 

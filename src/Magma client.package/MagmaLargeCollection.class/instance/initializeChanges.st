@@ -1,4 +1,0 @@
-override
-initializeChanges
-
-	self subclassResponsibility

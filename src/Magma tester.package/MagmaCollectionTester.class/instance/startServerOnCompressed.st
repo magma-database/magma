@@ -1,3 +1,0 @@
-test high-availability function
-startServerOnCompressed
-	self startServer2On: self compressedRepositoryDirectory

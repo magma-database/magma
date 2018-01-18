@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "StandardFileStream",
+	"category" : "OSProcess-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"UseIOHandle"
+	],
+	"instvars" : [
+		"autoClose"
+	],
+	"name" : "AttachableFileStream",
+	"type" : "normal"
+}

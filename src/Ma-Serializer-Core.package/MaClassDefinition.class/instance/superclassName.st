@@ -1,0 +1,4 @@
+accessing
+superclassName
+
+	^ superclassDefinition className

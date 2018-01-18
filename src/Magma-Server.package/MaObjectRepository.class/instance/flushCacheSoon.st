@@ -10,5 +10,5 @@ flushCacheSoon
 		self flushCritical: 
 			[ self commitCritical: 
 				[ self flushCache.
-				applyProcess := nil ] ] ] forkAt: (Processor userInterruptPriority max: Processor activeProcess priority+1).
+				applyProcess := nil ] ] ] fork.
 		applyProcess name: 'flush Magma cache' ]

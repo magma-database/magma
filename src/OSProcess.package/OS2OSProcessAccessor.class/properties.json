@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "OSProcessAccessor",
+	"category" : "OSProcess-OS2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OS2OSProcessAccessor",
+	"type" : "normal"
+}

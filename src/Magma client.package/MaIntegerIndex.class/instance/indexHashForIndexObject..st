@@ -1,4 +1,0 @@
-overriding
-indexHashForIndexObject: anInteger
-
-	^ anInteger

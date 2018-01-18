@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Collection",
+	"category" : "Ma-Collections-BTree",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tree",
+		"sortKey",
+		"equalsKey"
+	],
+	"name" : "TreeSet",
+	"type" : "normal"
+}

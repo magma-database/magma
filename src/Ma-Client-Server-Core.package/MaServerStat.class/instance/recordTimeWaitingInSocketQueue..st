@@ -1,0 +1,3 @@
+recording
+recordTimeWaitingInSocketQueue: anInteger
+	self timeWaitingInSocketQueueHistory addValue: anInteger

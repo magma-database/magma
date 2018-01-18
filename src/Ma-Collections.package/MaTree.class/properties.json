@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma-Collections-Tree",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parents",
+		"children",
+		"sortBlock"
+	],
+	"name" : "MaTree",
+	"type" : "normal"
+}

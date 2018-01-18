@@ -1,0 +1,3 @@
+accessing
+linkInformation
+	^ socket hostAndPortString

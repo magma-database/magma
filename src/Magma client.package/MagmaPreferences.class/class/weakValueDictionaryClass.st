@@ -1,3 +1,0 @@
-special collections
-weakValueDictionaryClass
-	^ MaObjectSerializerPreferences weakValueDictionaryClass

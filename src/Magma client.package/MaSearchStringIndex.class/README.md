@@ -1,1 +1,0 @@
-I represent an index with just 64 characters of the ascii range utilized; 33 - 96, so we must do without the {, }, |, ~, and space characters.  This increases my number of meaningful characters and eliminates the need for case-sensitive matching.

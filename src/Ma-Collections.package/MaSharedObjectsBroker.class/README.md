@@ -1,0 +1,1 @@
+A MaxSharedObjectsBroker is used to canonicalize Dates, or other flyweight domain objects.  There is no reason to have multiple copies of the same date across all Securities to consume extra space redundantly in the repository, as well as in client memories.

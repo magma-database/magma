@@ -1,0 +1,1 @@
+Each Player of an Orchestra run in its own image, leveraging the multi-core CPU's.  These MaNetworkPlayer instances are objects which exist in both images images, and use client-server communication between the instance in the conductor (the client) and the instance in the corresponding player image (server) to interrogate status or send commands.

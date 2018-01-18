@@ -1,3 +1,0 @@
-configuring
-description
-	^ 'Magma'

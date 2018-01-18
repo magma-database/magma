@@ -1,0 +1,4 @@
+copying
+postCopyForIndependentSearch
+	super postCopyForIndependentSearch.
+	self resetResultsByRelevance

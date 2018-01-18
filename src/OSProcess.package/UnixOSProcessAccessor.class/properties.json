@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "OSProcessAccessor",
+	"category" : "OSProcess-Unix",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ThisProcessPid"
+	],
+	"instvars" : [
+		"sigChldSemaphore"
+	],
+	"name" : "UnixOSProcessAccessor",
+	"type" : "normal"
+}

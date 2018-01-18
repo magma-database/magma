@@ -1,1 +1,0 @@
-I am a 24-bit index useful for indexing objects by a Date.

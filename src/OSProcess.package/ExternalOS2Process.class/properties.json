@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ExternalOSProcess",
+	"category" : "OSProcess-OS2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ppid",
+		"exitStatus"
+	],
+	"name" : "ExternalOS2Process",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "dtl 3/7/2005 21:57",
+	"super" : "TestCase",
+	"category" : "OSProcess-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fileStream"
+	],
+	"name" : "UnixProcessFileLockTestCase",
+	"type" : "normal"
+}

@@ -1,4 +1,0 @@
-specifications
-resetSpecifications
-
-	depthSpecifications := nil

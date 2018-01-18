@@ -1,3 +1,0 @@
-private
-commitNumber
-	^ commitNumber 

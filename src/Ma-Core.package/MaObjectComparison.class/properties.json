@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma-Core-Utilities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"object1",
+		"object2",
+		"comparisonOperator",
+		"differences"
+	],
+	"name" : "MaObjectComparison",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SharedPool",
+	"category" : "Ma-Core-Constants",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"HasMagma"
+	],
+	"instvars" : [ ],
+	"name" : "MaCoreConstants",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 10/9/2011 16:58",
+	"super" : "MaObject",
+	"category" : "Ma-Collections-Canonicalization",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dates",
+		"literals"
+	],
+	"name" : "MaSharedObjectsBroker",
+	"type" : "normal"
+}

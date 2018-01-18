@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MaError",
+	"category" : "Ma-Core-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"page"
+	],
+	"name" : "MaUserError",
+	"type" : "normal"
+}

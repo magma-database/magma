@@ -1,0 +1,1 @@
+MaLargeArrayOfNumbers is an auto-growing, never-shrinking array of numbers.  All numbers have the same number of bits available to represent them.

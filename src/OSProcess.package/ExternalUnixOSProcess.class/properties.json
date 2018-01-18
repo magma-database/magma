@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ExternalOSProcess",
+	"category" : "OSProcess-Unix",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ppid",
+		"pwd",
+		"exitStatus",
+		"programName",
+		"arguments",
+		"initialEnvironment"
+	],
+	"name" : "ExternalUnixOSProcess",
+	"type" : "normal"
+}

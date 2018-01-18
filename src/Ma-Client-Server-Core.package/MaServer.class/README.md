@@ -1,0 +1,1 @@
+Abstract superclass for the "server engine".  I know a console which I send output to.

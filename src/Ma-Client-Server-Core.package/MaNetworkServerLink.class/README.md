@@ -1,0 +1,1 @@
+A MaNetworkServerLink handles the actual communications with a remotely-running MaRequestServer.

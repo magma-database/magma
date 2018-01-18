@@ -1,3 +1,0 @@
-creation
-source: pathStringOrMagmaLocalLocation
-	^ self new sourceLocation: pathStringOrMagmaLocalLocation asMagmaLocalLocation

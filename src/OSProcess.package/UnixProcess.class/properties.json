@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ThisOSProcess",
+	"category" : "OSProcess-Unix",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ppid",
+		"pthread",
+		"path",
+		"programName",
+		"arguments",
+		"environment"
+	],
+	"name" : "UnixProcess",
+	"type" : "normal"
+}

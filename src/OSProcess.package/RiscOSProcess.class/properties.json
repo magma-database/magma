@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ThisOSProcess",
+	"category" : "OSProcess-RiscOS",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RiscOSProcess",
+	"type" : "normal"
+}

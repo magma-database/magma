@@ -1,1 +1,0 @@
-I am the last record of a group of RecoveryRecords for the same transactionId.  If a disaster happens then, during recovery, I am looked for in the applyFile with the same transactionId as my BeginApply counterpart.  If I'm found, then no were no commits happening at the time of the failure and, thus, no backward recovery is necessary.

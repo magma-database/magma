@@ -1,3 +1,0 @@
-overriding
-maxIndex
-	^ maxIndex

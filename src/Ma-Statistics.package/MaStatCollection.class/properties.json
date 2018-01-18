@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 1/5/2014 17:35",
+	"super" : "MaObject",
+	"category" : "Ma-Statistics-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"startTime",
+		"stopTime"
+	],
+	"name" : "MaStatCollection",
+	"type" : "normal"
+}

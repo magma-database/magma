@@ -1,4 +1,0 @@
-*magma client
-maIsAssociation
-
-	^ true

@@ -1,0 +1,3 @@
+*plotmorph
+minY
+	^ self y

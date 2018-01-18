@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Collection",
+	"category" : "BrpExtensions-Collections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"collections"
+	],
+	"name" : "Medley",
+	"type" : "normal"
+}

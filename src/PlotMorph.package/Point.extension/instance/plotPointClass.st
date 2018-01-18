@@ -1,0 +1,3 @@
+*plotmorph
+plotPointClass
+	^ PlotPoint

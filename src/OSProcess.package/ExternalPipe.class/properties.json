@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "dtl 3/10/2006 11:06",
+	"super" : "Stream",
+	"category" : "OSProcess-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"writer",
+		"reader",
+		"blocking"
+	],
+	"name" : "ExternalPipe",
+	"type" : "normal"
+}

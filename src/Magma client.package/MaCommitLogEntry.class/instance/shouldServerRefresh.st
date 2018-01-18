@@ -1,4 +1,0 @@
-testing
-shouldServerRefresh
-
-	^ self didCommitSpecialOid

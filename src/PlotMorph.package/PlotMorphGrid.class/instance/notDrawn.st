@@ -1,0 +1,3 @@
+initialization
+notDrawn
+	isDrawn := false

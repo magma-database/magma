@@ -1,0 +1,3 @@
+accessing
+suiteName
+	self subclassResponsibility 

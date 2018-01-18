@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ExternalOSProcess",
+	"category" : "OSProcess-RiscOS",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ppid",
+		"exitStatus"
+	],
+	"name" : "ExternalRiscOSProcess",
+	"type" : "normal"
+}

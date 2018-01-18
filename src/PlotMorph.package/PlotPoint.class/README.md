@@ -1,0 +1,1 @@
+PlotPoint is a point that have more data used to draw in a PlotMorph

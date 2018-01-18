@@ -1,3 +1,0 @@
-serialization
-maWantsPostMaterialization 
-	^ true

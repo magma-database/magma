@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "cmm 6/10/2009 09:32",
+	"super" : "MaObject",
+	"category" : "Ma-Serializer-Core-Buffers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"SizeWarningThreshold"
+	],
+	"instvars" : [
+		"byteArray"
+	],
+	"name" : "MaSerializedGraphBuffer",
+	"type" : "normal"
+}

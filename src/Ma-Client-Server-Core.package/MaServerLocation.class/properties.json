@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 7/5/2008 13:21",
+	"super" : "MaObject",
+	"category" : "Ma-Client-Server-Core-Client API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"host",
+		"port"
+	],
+	"name" : "MaServerLocation",
+	"type" : "normal"
+}

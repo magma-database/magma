@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 2/7/2008 12:42",
+	"super" : "MaObject",
+	"category" : "Ma-Search-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"keywords"
+	],
+	"name" : "MaAbstractContext",
+	"type" : "normal"
+}

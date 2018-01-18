@@ -1,0 +1,3 @@
+*plotmorph
+labelFor: proposedString
+	^ proposedString

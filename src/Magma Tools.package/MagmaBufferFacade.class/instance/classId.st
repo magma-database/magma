@@ -1,3 +1,0 @@
-access
-classId
-	^ buffer classId

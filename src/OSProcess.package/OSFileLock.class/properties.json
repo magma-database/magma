@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "dtl 2/23/2004 19:36",
+	"super" : "Object",
+	"category" : "OSProcess-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fileStream",
+		"exclusive"
+	],
+	"name" : "OSFileLock",
+	"type" : "normal"
+}

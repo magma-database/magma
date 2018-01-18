@@ -1,3 +1,0 @@
-private
-defaultRecordSize
-	^ 8

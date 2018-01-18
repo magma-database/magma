@@ -1,0 +1,3 @@
+accessing
+ratePerMinute
+	^ progressor ratePerMinute

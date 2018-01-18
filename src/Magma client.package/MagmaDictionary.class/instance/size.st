@@ -1,3 +1,0 @@
-access
-size
-	^ table size

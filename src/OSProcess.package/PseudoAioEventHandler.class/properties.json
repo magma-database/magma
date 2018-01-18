@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "dtl 11/25/2006 10:42",
+	"super" : "Model",
+	"category" : "OSProcess-AIO",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"eventGenerator"
+	],
+	"name" : "PseudoAioEventHandler",
+	"type" : "normal"
+}

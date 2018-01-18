@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "cmm 9/20/2008 16:45",
+	"super" : "MaObject",
+	"category" : "Ma-Client-Server-Core-Client API",
+	"classinstvars" : [
+		"defaultSound"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lifecycle"
+	],
+	"name" : "MaClientServerRequest",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MaMinimalObject",
+	"category" : "Ma-Serializer-Core-Proxy",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaMutatingProxy",
+	"type" : "normal"
+}

@@ -1,4 +1,0 @@
-benchmarks-magmacollections
-magmaCollectionTests
-
-	^ #( addThousandsOfObjectsTenAtATime addThousandsOfObjectsOneHundredAtATime addThousandsOfObjectsAtOnce )

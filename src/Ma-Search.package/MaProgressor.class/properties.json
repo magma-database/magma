@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "cmm 3/26/2013 18:46",
+	"super" : "MaObject",
+	"category" : "Ma-Search-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"description",
+		"stopwatch",
+		"taskSize",
+		"unitsCompleted",
+		"unitsVerbPhrase",
+		"log",
+		"parentTask",
+		"subtask"
+	],
+	"name" : "MaProgressor",
+	"type" : "normal"
+}

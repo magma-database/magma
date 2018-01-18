@@ -5,7 +5,7 @@ freeSomeSpaceIfNecessary: sessionId
 	"Free SockeStream buffers first, then, only if enough could not be retcovered, start terminating sessions.."
 	(EmergencyMemory isEmpty or: [ self isLowOnMemory ]) ifTrue:
 		[ transactionLog entriesDo:
-			[ : each | each connection isRemote ifTrue: [ each resetSocketStreamBuffer ].
+			[ : each | each isRemote ifTrue: [ each resetSocketStreamBuffer ].
 			Smalltalk garbageCollect.
 			self isLowOnMemory ifFalse: [ ^ self ] ] ].
 	[ (EmergencyMemory isEmpty or: [ self isLowOnMemory ]) and: [ transactionLog numberOfEntries > 1 ] ] whileTrue:

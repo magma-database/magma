@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "cmm 5/31/2012 14:53",
+	"super" : "RectangleMorph",
+	"category" : "PlotMorph-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"plots",
+		"title"
+	],
+	"name" : "StackedPlotMorph",
+	"type" : "normal"
+}

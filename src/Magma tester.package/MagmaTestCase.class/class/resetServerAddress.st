@@ -1,4 +1,0 @@
-private
-resetServerAddress
-
-	MagmaServerAddress := nil

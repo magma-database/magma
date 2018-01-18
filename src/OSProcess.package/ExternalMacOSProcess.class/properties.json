@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ExternalOSProcess",
+	"category" : "OSProcess-Mac",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ppid",
+		"exitStatus"
+	],
+	"name" : "ExternalMacOSProcess",
+	"type" : "normal"
+}

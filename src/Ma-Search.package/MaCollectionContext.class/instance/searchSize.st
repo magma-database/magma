@@ -1,0 +1,3 @@
+initializing
+searchSize
+	^ stream size

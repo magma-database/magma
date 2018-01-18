@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "jf 2/22/2004 19:50",
+	"super" : "OSFileLock",
+	"category" : "OSProcess-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"interval"
+	],
+	"name" : "OSFileRegionLock",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MaRecordBroker",
+	"category" : "Ma-Collections-Records",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"records"
+	],
+	"name" : "MaInImageRecordBroker",
+	"type" : "normal"
+}

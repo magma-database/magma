@@ -1,4 +1,0 @@
-testing
-isNewCollection
-
-	^ collection isNewCollection

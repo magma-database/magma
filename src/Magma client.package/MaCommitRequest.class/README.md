@@ -1,1 +1,0 @@
-I am the request object sent to a Magma server that commits changes to the database.

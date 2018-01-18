@@ -1,4 +1,0 @@
-*magma server
-implementationClass
-
-	^ MaLargeArrayOfNumbers

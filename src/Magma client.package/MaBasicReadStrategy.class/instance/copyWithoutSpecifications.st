@@ -1,4 +1,0 @@
-copying
-copyWithoutSpecifications
-
-	^ self copy

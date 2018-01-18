@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "cmm 6/11/2004 16:53",
+	"super" : "MaObject",
+	"category" : "Ma-Serializer-Core-private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"classesById",
+		"idsByClass",
+		"nextClassId",
+		"classDefinitionsById",
+		"inImageDefinitions",
+		"minimumClasses",
+		"mutable"
+	],
+	"name" : "MaClassIdManager",
+	"type" : "normal"
+}

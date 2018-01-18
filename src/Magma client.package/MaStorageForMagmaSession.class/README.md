@@ -1,1 +1,0 @@
-I represent a reference in the database to whatever current MagmaSession materializes me.  You may not reference other MagmaSessions in your model, only the session to which the model belongs.

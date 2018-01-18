@@ -1,1 +1,0 @@
-This request supports management of headless servers.

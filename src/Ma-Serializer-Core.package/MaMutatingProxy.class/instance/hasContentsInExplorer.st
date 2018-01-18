@@ -1,0 +1,4 @@
+ide support
+hasContentsInExplorer
+
+	^true

@@ -1,4 +1,0 @@
-accessing
-hasRestoreData
-
-	^ restoreData notNil

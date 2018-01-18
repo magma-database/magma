@@ -1,0 +1,3 @@
+accessing
+minY
+	^ self y

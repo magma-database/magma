@@ -1,0 +1,3 @@
+accessing
+remainingTime
+	^ progressor remainingTime

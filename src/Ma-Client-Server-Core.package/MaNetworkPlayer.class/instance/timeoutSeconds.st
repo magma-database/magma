@@ -1,0 +1,3 @@
+access
+timeoutSeconds
+	^ link timeoutSeconds

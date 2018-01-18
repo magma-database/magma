@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 12/3/2014 10:48",
+	"super" : "MaObject",
+	"category" : "Ma-Serializer-Core-private",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MaSerializerConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaOidCalculator",
+	"type" : "normal"
+}

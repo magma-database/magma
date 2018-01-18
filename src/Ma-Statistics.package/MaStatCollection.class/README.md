@@ -1,0 +1,2 @@
+A MaStatCollection is used to capture timings for Ma software.  This is particularly useful for server monitoring where profiling isn't practical for identifying what a server is doing.
+	We want to capture the timings of the software with no impact on performance, therefore a fixed set of MaStatHistory's is accessed using directly via named inst-vars for maximum performance.

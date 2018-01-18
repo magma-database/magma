@@ -1,0 +1,4 @@
+*BrpExtensions
+leadingChar
+
+	^ 0

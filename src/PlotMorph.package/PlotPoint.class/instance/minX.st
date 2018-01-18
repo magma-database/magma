@@ -1,0 +1,3 @@
+accessing
+minX
+	^ self x

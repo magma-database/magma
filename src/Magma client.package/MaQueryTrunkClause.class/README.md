@@ -1,1 +1,0 @@
-I represent the "normalized" clauses of an expression.  Some queries may specify the same attribute more than once, sometimes even with overlapping key ranges.  In this case there is no reason to search the overlapping keyspaces more than once.

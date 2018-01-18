@@ -1,0 +1,4 @@
+private
+next
+
+	^stream next

@@ -1,0 +1,3 @@
+testing
+isUdp
+	^ socket isUdp

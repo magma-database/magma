@@ -1,4 +1,0 @@
-accessing
-sessionId
-
-	^session id

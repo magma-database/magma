@@ -1,0 +1,1 @@
+I am an abstact basic class for associations which holding either key or value weakly

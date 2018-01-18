@@ -1,3 +1,0 @@
-testing
-isForMagmaArray
-	^ false

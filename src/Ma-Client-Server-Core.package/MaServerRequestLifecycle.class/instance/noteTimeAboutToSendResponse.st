@@ -1,0 +1,3 @@
+accessing
+noteTimeAboutToSendResponse
+	beginSendingResponseTime := Time millisecondClockValue

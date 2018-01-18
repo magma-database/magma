@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "cmm 1/13/2005 23:08",
+	"super" : "MaNotification",
+	"category" : "Ma-Core-Requests",
+	"classinstvars" : [ ],
+	"pools" : [
+		"MaCoreConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"doBlock"
+	],
+	"name" : "MagmaSessionRequest",
+	"type" : "normal"
+}

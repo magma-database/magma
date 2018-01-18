@@ -1,0 +1,3 @@
+testing
+hasUnderlinedHeading
+	^ self headingUnderlineCharacter notNil

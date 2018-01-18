@@ -1,3 +1,0 @@
-*magma client
-maTransientVariables
-	^ #('frame')

@@ -1,5 +1,5 @@
 private
-prewriteAdjustmentTo: bufferToWrite from: persistentBuffer
+prewriteAdjustmentTo: bufferToWrite from: persistentBuffer 
 	bufferToWrite classId = MagmaClassIdManager magmaCounterClassId 
 		ifTrue:
 			[ | sharedValue delta |
@@ -8,12 +8,12 @@ prewriteAdjustmentTo: bufferToWrite from: persistentBuffer
 				ifNil: [ "A brand new counter" 0 ]
 				ifNotNil: [ MaOidCalculator integerFromOid: (persistentBuffer maInstVarAt: 1) ].
 			delta := MaOidCalculator integerFromOid: (bufferToWrite maInstVarAt: 2).
-			(sharedValue+delta) > 1073741823 ifTrue: [ MagmaStatOverflowCommitError signal ].
+			(sharedValue+delta) isLarge ifTrue: [ MagmaStatOverflowCommitError signal ].
 			bufferToWrite
-
+				
 				maInstVarAt: 1
 				put: (MaOidCalculator oidForInteger: sharedValue + delta) ;
-
+				
 				maInstVarAt: 2
 				put: (MaOidCalculator oidForInteger: 0) ]
 		ifFalse:

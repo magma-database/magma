@@ -1,3 +1,0 @@
-private
-serializer
-	^ session serializer

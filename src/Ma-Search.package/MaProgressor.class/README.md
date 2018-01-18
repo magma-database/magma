@@ -1,0 +1,1 @@
+A MaProgressor encapsulates the API of progress on a long-running task.  For such tasks we want to know how fast it is and when its going to be done.

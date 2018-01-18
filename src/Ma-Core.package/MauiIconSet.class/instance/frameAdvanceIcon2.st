@@ -1,0 +1,7 @@
+icons
+frameAdvanceIcon2
+	^ self 
+		iconNamed: #frameAdvanceIcon2
+		ifAbsentPutFromString: 'iVBORw0KGgoAAAANSUhEUgAAABIAAAALCAYAAAByF90EAAAARElEQVR4XmNYu3bt/7VQzIAE
+1uIRZ8AG1pJhEFbDyDUIwzBKDEKRo9QguDw1DAKrGTQuGjyxhpGOli5d+h+GiRHHlbIB9X8z
+5JE7LoUAAAAASUVORK5CYII='

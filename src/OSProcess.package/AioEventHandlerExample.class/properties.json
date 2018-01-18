@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "dtl 7/5/2003 18:38",
+	"super" : "Object",
+	"category" : "OSProcess-AIO",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"handler",
+		"ioStream"
+	],
+	"name" : "AioEventHandlerExample",
+	"type" : "normal"
+}

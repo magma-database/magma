@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MaTestCase",
+	"category" : "Ma-Client-Server-Tester-SUnit extensions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaNetworkTestCase",
+	"type" : "normal"
+}

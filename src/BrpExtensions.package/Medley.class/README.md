@@ -1,0 +1,1 @@
+A Medley is a Collection which contains individual objects or other collections.

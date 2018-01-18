@@ -1,3 +1,0 @@
-access
-oid
-	^ buffer oid

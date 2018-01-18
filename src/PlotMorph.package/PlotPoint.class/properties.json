@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "PlotMorph-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"series",
+		"point",
+		"scaledPoint",
+		"extra",
+		"color",
+		"width"
+	],
+	"name" : "PlotPoint",
+	"type" : "normal"
+}

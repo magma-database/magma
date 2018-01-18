@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "cmm 12/8/2004 23:01",
+	"super" : "MaContextForNonStreamable",
+	"category" : "Ma-Search-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"object"
+	],
+	"name" : "MaAnyObjectContext",
+	"type" : "normal"
+}

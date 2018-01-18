@@ -1,3 +1,0 @@
-accessing
-session
-	^ collection session

@@ -1,4 +1,4 @@
-private
+packages
 addVersion: aMCVersion 
 	"Reference aMCVersion by several different access keys."
 	(objects

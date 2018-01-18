@@ -1,0 +1,3 @@
+*plotmorph
+maxY
+	^ self y

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "dtl 3/8/2006 07:27",
+	"super" : "ExternalPipe",
+	"category" : "OSProcess-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nextChar"
+	],
+	"name" : "OSPipe",
+	"type" : "normal"
+}

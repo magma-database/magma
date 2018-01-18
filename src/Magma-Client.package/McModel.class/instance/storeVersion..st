@@ -1,3 +1,3 @@
-building
+versions
 storeVersion: aMCVersionOrConfiguration
 	aMCVersionOrConfiguration storeInto: self

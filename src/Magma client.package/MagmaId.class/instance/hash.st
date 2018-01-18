@@ -1,4 +1,0 @@
-testing
-hash
-
-	^ uuid hash

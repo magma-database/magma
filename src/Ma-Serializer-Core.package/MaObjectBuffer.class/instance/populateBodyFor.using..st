@@ -1,0 +1,3 @@
+private
+populateBodyFor: storageObject using: aMaObjectSerializer
+	self subclassResponsibility

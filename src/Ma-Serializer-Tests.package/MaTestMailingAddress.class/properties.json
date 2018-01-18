@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MaObject",
+	"category" : "Ma-Serializer-Tests-Test domains",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"street",
+		"zip"
+	],
+	"name" : "MaTestMailingAddress",
+	"type" : "normal"
+}

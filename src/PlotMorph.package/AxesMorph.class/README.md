@@ -1,0 +1,1 @@
+I am responsible for drawing a pair of axes, a grid, and various labels.  I am not responsible for the display of any data, or for handling user input in any special way.

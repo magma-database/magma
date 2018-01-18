@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "OSProcessAccessor",
+	"category" : "OSProcess-RiscOS",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RiscOSProcessAccessor",
+	"type" : "normal"
+}

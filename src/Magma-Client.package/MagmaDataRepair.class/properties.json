@@ -15,8 +15,7 @@
 		"repairBlock",
 		"mode",
 		"count",
-		"lastCommit",
-		"strongReferences"
+		"lastCommit"
 	],
 	"name" : "MagmaDataRepair",
 	"type" : "normal"

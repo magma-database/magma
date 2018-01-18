@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "PlotMorph-Private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"plot",
+		"drawGrid",
+		"xLabels",
+		"yLabels",
+		"isDrawn"
+	],
+	"name" : "PlotMorphGrid",
+	"type" : "normal"
+}

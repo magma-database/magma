@@ -1,0 +1,3 @@
+accessing
+rateMessage
+	^ progressor rateMessage

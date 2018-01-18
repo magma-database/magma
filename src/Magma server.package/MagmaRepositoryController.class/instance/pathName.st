@@ -1,3 +1,0 @@
-accessing
-pathName
-	^ localLocation pathName

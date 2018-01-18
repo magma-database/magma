@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ClassTestCase",
+	"category" : "BrpExtensions-Collections",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"collections",
+		"medley"
+	],
+	"name" : "MedleyTest",
+	"type" : "normal"
+}

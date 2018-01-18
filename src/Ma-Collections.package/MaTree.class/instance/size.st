@@ -1,0 +1,3 @@
+accessing
+size
+	^ parents size

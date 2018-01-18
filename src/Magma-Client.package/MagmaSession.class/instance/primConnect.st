@@ -37,6 +37,6 @@ primConnect
 	transaction registerForNotifications.
 	self initializeSystemChangeNotifications.
 	self statistics clientSideConnectionTimeHistory addValue: (Time millisecondsSince: startedClientSideConnectionProcessing).
-	self isServerSession ifFalse: [MagmaNotification signal: 'Connected to ' , self linkInformation , ' as ' , self userId , '...'].
+	MagmaNotification signal: 'Connected to ' , self linkInformation , ' as ' , self userId , '...'.
 	"We've just connected.  If this session *was* in a transaction then begin one on the server."
 	self restoreTransaction

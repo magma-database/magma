@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "cmm 2/1/2005 15:27",
+	"super" : "MaObject",
+	"category" : "Ma-Client-Server-Core-Client API",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Debug"
+	],
+	"instvars" : [
+		"timeoutSeconds",
+		"compressThreshold"
+	],
+	"name" : "MaClientServerPreferences",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "jcg 8/29/2003 23:01",
+	"super" : "RectangleMorph",
+	"category" : "PlotMorph-Domain",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"form",
+		"title",
+		"margin",
+		"font",
+		"stack"
+	],
+	"name" : "AxesMorph",
+	"type" : "normal"
+}

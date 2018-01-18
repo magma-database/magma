@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "dtl 4/30/2006 14:02",
+	"super" : "TestCase",
+	"category" : "OSProcess-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"accessor",
+		"fileStream",
+		"delay",
+		"remoteProcess",
+		"initialCompatibilitySetting"
+	],
+	"name" : "AbstractUnixProcessFileLockingTestCase",
+	"type" : "normal"
+}

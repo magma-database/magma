@@ -1,3 +1,0 @@
-accessing
-lastKnownSize
-	^ lastKnownSize

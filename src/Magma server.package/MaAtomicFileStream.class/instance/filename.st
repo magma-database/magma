@@ -1,4 +1,0 @@
-filestream api
-filename
-
-	^ filename

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "OSProcess-Win32",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"threadID",
+		"handle",
+		"runState"
+	],
+	"name" : "WindowsThread",
+	"type" : "normal"
+}
