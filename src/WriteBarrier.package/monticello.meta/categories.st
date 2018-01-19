@@ -1,3 +1,4 @@
-SystemOrganization addCategory: #'WriteBarrier-Collections'!
-SystemOrganization addCategory: #'WriteBarrier-Core'!
-SystemOrganization addCategory: #'WriteBarrier-Tests'!
+SystemOrganization addCategory: #WriteBarrier!
+SystemOrganization addCategory: 'WriteBarrier-Collections'!
+SystemOrganization addCategory: 'WriteBarrier-Core'!
+SystemOrganization addCategory: 'WriteBarrier-Tests'!

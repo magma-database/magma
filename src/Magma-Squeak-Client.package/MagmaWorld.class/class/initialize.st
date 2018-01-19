@@ -1,3 +1,3 @@
 initialize-release
 initialize
-	self registerInOpenMenu
+	"self registerInOpenMenu"

@@ -4,4 +4,4 @@ getStdErrHandle
 	OS process in which I am currently executing."
 
 	^ self primGetStdErrHandle
-		ifNotNilDo: [:handle | self ioAccessorFromSQFile: handle]
+		ifNotNil: [ :handle | self ioAccessorFromSQFile: handle ]

@@ -1,3 +1,3 @@
 overriding
 initialize
-	^ self new register
+	"^ self new register"

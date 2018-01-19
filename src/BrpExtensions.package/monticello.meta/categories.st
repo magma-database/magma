@@ -1,1 +1,2 @@
-SystemOrganization addCategory: #'BrpExtensions-Collections'!
+SystemOrganization addCategory: #BrpExtensions!
+SystemOrganization addCategory: 'BrpExtensions-Collections'!

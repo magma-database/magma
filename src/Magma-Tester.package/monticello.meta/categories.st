@@ -1,2 +1,3 @@
-SystemOrganization addCategory: #'Magma-Tester-SUnit tests'!
-SystemOrganization addCategory: #'Magma-Tester-Test domains'!
+SystemOrganization addCategory: #'Magma-Tester'!
+SystemOrganization addCategory: 'Magma-Tester-SUnit tests'!
+SystemOrganization addCategory: 'Magma-Tester-Test domains'!

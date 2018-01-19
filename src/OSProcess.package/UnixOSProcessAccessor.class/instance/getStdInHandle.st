@@ -4,4 +4,4 @@ getStdInHandle
 	OS process in which I am currently executing."
 
 	^ self primGetStdInHandle
-		ifNotNilDo: [:handle | self ioAccessorFromSQFile: handle]
+		ifNotNil: [ :handle | self ioAccessorFromSQFile: handle ]
