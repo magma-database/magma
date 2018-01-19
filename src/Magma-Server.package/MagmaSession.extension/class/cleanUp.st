@@ -33,7 +33,7 @@ cleanUp
 		copyHash: false.
 	Smalltalk garbageCollect.
 	self allSubInstances do:
-		[ : each | (PointerFinder pointersTo: each) do:
+		[ : each | (each pointersTo) do:
 			[ : referencer | referencer class == MethodContext ifTrue: [ referencer receiver: nil ] ] ].
 	Smalltalk garbageCollect.
 	after := self allSubInstances size.

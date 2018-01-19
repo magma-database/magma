@@ -1,7 +1,0 @@
-icons
-chooseSelectionFont
-	^ self 
-		iconNamed: #chooseSelectionFont
-		ifAbsentPutFromString: 'iVBORw0KGgoAAAANSUhEUgAAABIAAAALCAYAAAByF90EAAAAQUlEQVR4XmPAAf4TiQmC/zgM
-xqeGtgYxEGEQSeFBskEMHdM3YdNMyGuYlmIxiBivYYqTaRAmGFwGIRmCK7YIpmgAV3xNpMZc
-KwUAAAAASUVORK5CYII='

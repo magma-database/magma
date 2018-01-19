@@ -1,3 +1,3 @@
 private
 inspectorClass
-	^ BasicInspector
+	^ EyeBasicInspector

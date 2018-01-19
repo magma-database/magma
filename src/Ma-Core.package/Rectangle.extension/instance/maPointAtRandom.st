@@ -1,3 +1,3 @@
 *ma-core
 maPointAtRandom
-	^(self topLeft x + (self width * ThreadSafeRandom default next)) @ (self topLeft y + (self height * ThreadSafeRandom default next))
+	^(self topLeft x + (self width * SharedRandom globalGenerator next)) @ (self topLeft y + (self height * SharedRandom globalGenerator next))

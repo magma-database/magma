@@ -8,7 +8,7 @@ maMaterializeFromGraph: aByteArray using: aMaObjectSerializer
 	stream := nameAndChangeSetAssociation value.
 	^ (MaIncomingChangeSetNotification signal: 'Is it ok to file-in ', changeSetName) == true "default to false if they return with a non-boolean."
 		ifTrue:
-			[ ChangeSorter
+			[ ChangeSet
 				newChangesFromStream: stream
 				named: changeSetName ]
-		ifFalse: [ ChangeSorter existingOrNewChangeSetNamed: changeSetName ]
+		ifFalse: [ ChangeSet assuredChangeSetNamed: changeSetName ] 

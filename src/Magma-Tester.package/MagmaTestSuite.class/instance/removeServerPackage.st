@@ -1,6 +1,6 @@
 setup-teardown
 removeServerPackage
-	Utilities setAuthorInitials: self class name.
+	Author fullName: self class name.
 	MaObject class compile: self dontAcceptChangeLogging.
 	(MCPackage named: 'Magma-Server') workingCopy unload.
 	MaObject class removeSelector: #acceptsLoggingOfCompilation.
