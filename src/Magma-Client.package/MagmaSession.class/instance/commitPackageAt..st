@@ -1,4 +1,4 @@
 accessing
 commitPackageAt: commitNumber
 	"The MaCommitLogEntry that contained this buffer."
-	^ (self commitLogEntryAt: commitNumber) ifNotNilDo: [ : cle | cle commitPackage ]
+	^ (self commitLogEntryAt: commitNumber) ifNotNil: [ : cle | cle commitPackage ]

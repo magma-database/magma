@@ -1,7 +1,7 @@
 access
 buffersInCommit: commitNumber 
 	"The MaCommitLogEntry that contained this buffer."
-	^ (session commitPackageAt: commitNumber) ifNotNilDo: 
+	^ (session commitPackageAt: commitNumber) ifNotNil: 
 		[ : cp | 
 		| answer |
 		answer := OrderedCollection new.

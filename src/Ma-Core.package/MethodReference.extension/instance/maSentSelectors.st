@@ -3,4 +3,4 @@ maSentSelectors
 	^ self maActualMethod 
 		ifNil: 
 			[ #() ]
-		ifNotNilDo: [ : cm | cm messages ]
+		ifNotNil: [ : cm | cm messages ]

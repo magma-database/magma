@@ -14,7 +14,7 @@ handleFailedLink: failedMaNetworkServerLink
 			"primaryLink should be a link to the second location, so we don't have different clients with different notions about who should be the next primary.  If that is what secondaryLink already is, we don't need to re-init it."
 			primaryLink := self node nextPrimaryLocation 
 				ifNil: [ secondaryLink ]
-				ifNotNilDo: 
+				ifNotNil: 
 					[ : nextLoc | 
 					secondaryLink location = nextLoc serverLocation 
 						ifTrue: [ secondaryLink ]

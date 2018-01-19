@@ -4,5 +4,5 @@ objectEqualTo: anObject
 	^ self hasAdditions ifTrue:
 		[ (self added
 			associationAt: anObject
-			ifAbsent: [ nil ]) ifNotNilDo:
+			ifAbsent: [ nil ]) ifNotNil:
 			[ : assoc | assoc key ] ]

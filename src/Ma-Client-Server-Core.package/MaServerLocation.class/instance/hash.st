@@ -3,7 +3,7 @@ hash
 	"Local addresses may be anything that begins with 127."
 	^ self hostAddress 
 		ifNil: [ nil hash bitXor: port hash ]
-		ifNotNilDo: 
+		ifNotNil: 
 			[ : addr | 
 			| simplifiedAddress |
 			simplifiedAddress := addr maIsLocalHost 

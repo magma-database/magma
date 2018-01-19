@@ -3,7 +3,7 @@ maPrintAbbreviatedOn: aStream
 	super maPrintAbbreviatedOn: aStream.
 	self isLocal
 		ifTrue:
-			[ self location ifNotNilDo:
+			[ self location ifNotNil:
 				[ : loc | loc maPrintAbbreviatedOn: aStream ] ]
 		ifFalse:
 			[ primaryLink maPrintAbbreviatedOn: aStream.

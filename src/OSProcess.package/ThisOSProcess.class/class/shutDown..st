@@ -7,4 +7,4 @@ shutDown: quitting
 	dependency on an OSProcessAccessor."
 
 	quitting ifTrue: [OSProcess accessor
-				ifNotNilDo: [:acc | acc breakDependents]]
+				ifNotNil: [:acc | acc breakDependents]]

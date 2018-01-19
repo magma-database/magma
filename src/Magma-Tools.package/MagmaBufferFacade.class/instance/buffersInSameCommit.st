@@ -1,7 +1,7 @@
 access
 buffersInSameCommit
 	"All the buffers in my commitPackage."
-	^ self commitPackage ifNotNilDo: 
+	^ self commitPackage ifNotNil: 
 		[ : cp | 
 		| answer |
 		answer := OrderedCollection new.

@@ -4,7 +4,7 @@ ensureReferencePopulated
 		[ cachedObject magmaSession 
 			ifNil: 
 				[ MagmaUserError signal: 'Remote object must be persistent before remote reference to them can be calculated.' ]
-			ifNotNilDo: 
+			ifNotNil: 
 				[ : sess | 
 				"Copy the target object's magmaId, so we don't share instances between sessions.  MagmaCommitPackage will ensureCanonicalizedMagmaId:."
 				magmaId := sess magmaId veryDeepCopy.

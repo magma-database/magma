@@ -1,4 +1,4 @@
 access
 commitLogEntryAt: commitNumber
 	"The MaCommitLogEntry that contained this buffer."
-	^ (self commitRecordAt: commitNumber) ifNotNilDo: [ : cr | MagmaSession materializeCommitLogEntry: cr ]
+	^ (self commitRecordAt: commitNumber) ifNotNil: [ : cr | MagmaSession materializeCommitLogEntry: cr ]

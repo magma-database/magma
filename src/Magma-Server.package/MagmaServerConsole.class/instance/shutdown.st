@@ -3,7 +3,7 @@ shutdown
 	controller ifNotNil: 
 		[ controller requestCritical: 
 			[ self isSecondary ifTrue: 
-				[ self node primarySession ifNotNilDo: 
+				[ self node primarySession ifNotNil: 
 					[ : sess | 
 					[ sess removeWarmBackup: self thisLocation ] 
 						on: NetworkError
@@ -12,5 +12,5 @@ shutdown
 							"don't worry about it"
 							 ] ] ].
 			server ifNotNil: [ server shutdown ].
-			self node ifNotNilDo: [ : node | node sessions do: [ : each | each disconnect ] ].
-			self statistics ifNotNilDo: [ : stat | stat release ] ] ]
+			self node ifNotNil: [ : node | node sessions do: [ : each | each disconnect ] ].
+			self statistics ifNotNil: [ : stat | stat release ] ] ]

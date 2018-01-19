@@ -7,7 +7,7 @@ removeSessionFor: sessionId
 			[ "Perhaps the other session suddenly disconnected..?"
 			 ].
 	clientConnection ifNotNil: 
-		[ clientConnection maClientConnection ifNotNilDo: [ : cc | cc shouldContinue: false ] ].
+		[ clientConnection maClientConnection ifNotNil: [ : cc | cc shouldContinue: false ] ].
 	transactionLog 
 		removeEntryForSessionId: sessionId
 		ifAbsent: 

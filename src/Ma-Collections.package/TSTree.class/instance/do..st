@@ -1,4 +1,4 @@
 enumerating
 do: aBlock
-	emptyValue ifNotNilDo: aBlock.
+	emptyValue ifNotNil: aBlock.
 	root ifNotNil: [root do: aBlock]

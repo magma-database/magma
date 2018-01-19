@@ -10,7 +10,7 @@ deleteFileNamed: fileName
 				#delete "fallback (earlier pharo versions?)" }
 					detect: [ :e | file respondsTo: e ]
 					ifNone: [ self error: 'do not know how to ensureDelete' ] )
-				ifNotNilDo: [ :sel | file perform: sel ].
+				ifNotNil: [ :sel | file perform: sel ].
 			(file respondsTo: #ensureDelete)
 				ifTrue: [ file perform: #ensureDelete ]
 				ifFalse: [ file perform: #ensureDeleted ] ]

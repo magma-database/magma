@@ -4,7 +4,7 @@ initializeMinimumClasses
 	legacyDefinitions := OrderedCollection new.
 	(Smalltalk classNamed: #HashedCollection) 
 		ifNil: [ Array empty ]
-		ifNotNilDo: 
+		ifNotNil: 
 			[ : cls | 
 			legacyDefinitions add: ((self newDefinitionNamed: cls name)
 					id: 90 ;

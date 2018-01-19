@@ -1,3 +1,3 @@
 accessing
 clientConnection
-	^ self lifecycle ifNotNilDo: [ : lc | lc clientConnection ]
+	^ self lifecycle ifNotNil: [ : lc | lc clientConnection ]

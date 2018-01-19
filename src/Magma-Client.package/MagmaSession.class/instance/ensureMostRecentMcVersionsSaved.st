@@ -10,7 +10,7 @@ ensureMostRecentMcVersionsSaved
 						[ : eachVersionInfo | self commit:
 							[ (MCRepositoryGroup default versionWithInfo: eachVersionInfo)
 								ifNil: [ MagmaWarning signal: eachVersionInfo name , ' not found in RepositoryGroup default.' ]
-								ifNotNilDo:
+								ifNotNil:
 									[ : ver | self mcModel storeVersion: ver ] ] ] ]
 				displayingProgress:
 					[ : eachWorkingCopy | 'Saving ' , eachWorkingCopy name ] ]

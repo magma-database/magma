@@ -1,6 +1,6 @@
 plot
 plot: datasets on: aPlotMorph 
-	^ (Smalltalk classNamed: #PlotMorph) ifNotNilDo: 
+	^ (Smalltalk classNamed: #PlotMorph) ifNotNil: 
 		[ : plotMorphClass | 
 		| pm |
 		pm := plotMorphClass new

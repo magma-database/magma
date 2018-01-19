@@ -6,4 +6,4 @@ removeKey: key ifAbsent: aBlock
 
 	^ (self scanFor: key)
 		ifNil: [ aBlock value ]
-		ifNotNilDo: [ :assoc | self remove: assoc ]
+		ifNotNil: [ :assoc | self remove: assoc ]

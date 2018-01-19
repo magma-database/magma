@@ -1,3 +1,3 @@
 accessing
 magmaId
-	^ self definition ifNotNilDo: [ : definition | definition magmaId ]
+	^ self definition ifNotNil: [ : definition | definition magmaId ]

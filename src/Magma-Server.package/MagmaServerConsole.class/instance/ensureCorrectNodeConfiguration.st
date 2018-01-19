@@ -13,4 +13,4 @@ ensureCorrectNodeConfiguration
 				controller commitRestore ].	"Now the others can become warm backups."
 			self sessionsForOtherLocationsDo: [ : each | [each ensureCorrectNodeConfiguration] on: NetworkError do: [ : err | ] ] ]
 		ifFalse: 
-			[ self node primaryLocation ifNotNilDo: [ : pl | pl isLocal ifFalse: [ self beWarmBackupFor: pl ] ] ]
+			[ self node primaryLocation ifNotNil: [ : pl | pl isLocal ifFalse: [ self beWarmBackupFor: pl ] ] ]

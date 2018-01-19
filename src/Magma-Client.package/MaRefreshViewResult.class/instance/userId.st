@@ -1,3 +1,3 @@
 accessing
 userId
-	^ self connection ifNotNilDo: [ : conn | conn userId ]
+	^ self connection ifNotNil: [ : conn | conn userId ]

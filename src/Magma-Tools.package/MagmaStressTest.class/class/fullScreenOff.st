@@ -1,10 +1,10 @@
 private
 fullScreenOff
 	(Smalltalk classNamed: #ScreenController)
-		ifNotNilDo: [:sc | sc new fullScreenOff].
+		ifNotNil: [:sc | sc new fullScreenOff].
 	"Easier window management in the OS by sizing the windows down.."
 	(Smalltalk classNamed: #Display)
-		ifNotNilDo: 
+		ifNotNil: 
 			[ : disp | 
 			disp class
 				depth: Display depth
@@ -12,4 +12,4 @@ fullScreenOff
 				height: Display height * 3 // 4
 				fullscreen: false].
 	(Smalltalk classNamed: #World)
-		ifNotNilDo: [:world | world doOneCycleNow]
+		ifNotNil: [:world | world doOneCycleNow]

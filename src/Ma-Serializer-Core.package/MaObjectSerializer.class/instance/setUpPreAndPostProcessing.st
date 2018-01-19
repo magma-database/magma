@@ -68,21 +68,21 @@ preferences
 				aProject world 
 					setProperty: #optimumExtentFromAuthor
 					toValue: aProject world extent.	"As suggested by Project>>#storeOnServerAssumingNameValid"
-				(Smalltalk classNamed: #Utilities) ifNotNilDo: 
+				(Smalltalk classNamed: #Utilities) ifNotNil: 
 					[ : utilities | 
 					"The following is from Project>>#exportSegmentWithChangeSet:fileName:directory:"
 					utilities emptyScrapsBook ].
 				world currentHand pasteBuffer: nil.	"don't write the paste buffer."
 				world currentHand mouseOverHandler initialize.	"forget about any references here"
 				"Display checkCurrentHandForObjectToPaste."
-				(Smalltalk classNamed: #Command) ifNotNilDo: [ : command | command initialize ].
+				(Smalltalk classNamed: #Command) ifNotNil: [ : command | command initialize ].
 				world clearCommandHistory.
 				world
 					fullReleaseCachedState ;
 					releaseViewers.
 				world cleanseStepList.
 				world releaseSqueakPages.
-				(Smalltalk classNamed: #ScriptEditorMorph) ifNotNilDo: 
+				(Smalltalk classNamed: #ScriptEditorMorph) ifNotNil: 
 					[ : sem | 
 					sem writingUniversalTiles: (aProject 
 							projectParameterAt: #universalTiles
@@ -99,7 +99,7 @@ preferences
 				(Smalltalk classNamed: #Project) addingProject: aProject.
 				aProject restoreReferences.
 				self maMarked: 'dev'.	"need to restore dependents??"
-				(Smalltalk classNamed: #ScriptEditorMorph) ifNotNilDo: 
+				(Smalltalk classNamed: #ScriptEditorMorph) ifNotNil: 
 					[ : sem | 
 					sem writingUniversalTiles: ((aProject projectPreferenceAt: #universalTiles) ifNil: [ false ]) ].
 				thisContext home removeSelf ]

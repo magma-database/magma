@@ -1,3 +1,3 @@
 private
 uuid
-	^ self magmaId ifNotNilDo: [ : magId | magId uuid ]
+	^ self magmaId ifNotNil: [ : magId | magId uuid ]

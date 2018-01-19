@@ -1,7 +1,7 @@
 private
 loadFromIndex: indexInteger pageSize: pageSizeInteger 
 	"we can simply integrate the non-persistents all into one dedicated page at the beginning?"
-	(self segmentContaining: indexInteger) ifNotNilDo: 
+	(self segmentContaining: indexInteger) ifNotNil: 
 		[ : desiredSegment | 
 		"if swapping to a different segment, save memory by clipping its objects."
 		(segment notNil and: [ segment ~= desiredSegment ]) ifTrue: [ segment initializeObjects ].

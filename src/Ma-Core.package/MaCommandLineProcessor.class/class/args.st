@@ -9,5 +9,5 @@ self maMarked: 'delete'.
 		do:
 			[ : n | (SmalltalkImage current getSystemAttribute: n)
 				ifNil: [ ^ stream contents ]
-				ifNotNilDo:
+				ifNotNil:
 					[ : arg | stream nextPut: arg ] ]

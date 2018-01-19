@@ -2,4 +2,4 @@ setup-teardown
 findATranscript
 	(Smalltalk
 		at: #World
-		ifAbsent: [  ]) ifNotNilDo: [ : world | world findATranscript: nil ]
+		ifAbsent: [  ]) ifNotNil: [ : world | world findATranscript: nil ]

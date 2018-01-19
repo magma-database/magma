@@ -7,5 +7,5 @@ at: key put: anObject
 				(MagmaDictionaryAssociation
 					key: key
 					value: anObject) ]
-		ifNotNilDo: [ : assoc | assoc value: anObject ].
+		ifNotNil: [ : assoc | assoc value: anObject ].
 	^ anObject

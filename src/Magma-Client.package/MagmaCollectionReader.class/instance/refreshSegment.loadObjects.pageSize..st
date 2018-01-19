@@ -8,4 +8,4 @@ refreshSegment: aMagmaCollectionReaderSegment loadObjects: aBoolean pageSize: an
 			using: (self session ifNotNil: [ self session resetReadStrategy ])
 			loadObjects: aBoolean ].
 	self trunk: aMagmaCollectionReaderSegment trunk.
-	self sortIndex ifNotNilDo: [ : sortIndex | aMagmaCollectionReaderSegment sortObjects: expression ascendingSortBlock ]
+	self sortIndex ifNotNil: [ : sortIndex | aMagmaCollectionReaderSegment sortObjects: expression ascendingSortBlock ]

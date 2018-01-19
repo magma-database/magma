@@ -6,4 +6,4 @@ makePipeHandles
 	"OSProcess accessor makePipeHandles"
 
 	^self primCreatePipe
-		ifNotNilDo: [:p | ^ p collect: [:e | self ioAccessorFromSQFile: e]]
+		ifNotNil: [:p | ^ p collect: [:e | self ioAccessorFromSQFile: e]]

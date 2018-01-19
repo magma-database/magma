@@ -13,7 +13,7 @@ packages
 						self methods do: 
 							[ : each | 
 							bar value: (x:=x+1).
-							each packageInfo ifNotNilDo: [ : pkg | packages add: pkg ] ] ] ]
+							each packageInfo ifNotNil: [ : pkg | packages add: pkg ] ] ] ]
 			ifFalse: 
 				[ 'Calculating packages...' 
 					displayProgressAt: Display topCenter

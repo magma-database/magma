@@ -8,5 +8,5 @@ associationAt: key ifPresent: presentBlock ifAbsent: absentBlock
 		ifNotNil:
 			[ (bucket findKeyOrNil: key)
 				ifNil: absentBlock
-				ifNotNilDo:
+				ifNotNil:
 					[ : assoc | presentBlock value: assoc ] ]

@@ -4,4 +4,4 @@ at: key ifAbsent: aBlock
 	answer the result of evaluating aBlock."
 
 	^ (self scanFor: key)
-			ifNil: [ aBlock value ] ifNotNilDo: [ :assoc | assoc value ]
+			ifNil: [ aBlock value ] ifNotNil: [ :assoc | assoc value ]

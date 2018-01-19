@@ -1,3 +1,3 @@
 accessing
 sessionId
-	^ self connection ifNotNilDo: [ : conn | conn sessionId ]
+	^ self connection ifNotNil: [ : conn | conn sessionId ]
