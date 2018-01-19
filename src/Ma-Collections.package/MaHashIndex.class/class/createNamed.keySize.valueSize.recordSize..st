@@ -1,9 +1,11 @@
 creation
-createNamed: filenameString keySize: numberOfBitsInteger valueSize: valueSize recordSize: entriesInteger 
-	| file |
-	(StandardFileStream isAFileNamed: filenameString) ifTrue: [ MaEnvironmentError signal: filenameString , ' already exists.' ].
-	file := StandardFileStream fileNamed: filenameString.
-	(file isNil or: [ file closed ]) ifTrue: [ MaEnvironmentError signal: 'Could not create ' , filenameString ].
+createNamed: fileReference keySize: numberOfBitsInteger valueSize: valueSize recordSize: entriesInteger 
+	| fileRef file |
+	
+	fileRef := fileReference asFileReference.
+	fileRef exists ifTrue: [ MaEnvironmentError signal: fileRef pathString , ' already exists.' ].
+	file := fileRef writeStream.
+	(file isNil or: [ file closed ]) ifTrue: [ MaEnvironmentError signal: 'Could not create ' , fileRef pathString ].
 	^ self
 		create: file binary
 		keySize: numberOfBitsInteger
