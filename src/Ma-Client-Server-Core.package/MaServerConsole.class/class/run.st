@@ -5,7 +5,7 @@ run
 	[ Smalltalk run:
 			[ : portString |
 			Smalltalk mitigateIfHeadless.
-			Preferences enable: #serverMode.
+			WorldState serverMode: true.
 			(MaNetworkRequestServer new
 				console: MaRequestServerConsole new ;
 				processOn: portString asInteger ;

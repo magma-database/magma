@@ -17,7 +17,7 @@ chgrp magma model/commits
 ulimit -r 2
 exec setuidgid magma spur -vm display=none server-spur.image run.st `cat port`' ->
 		[ Smalltalk run:
-			[ : portString | Preferences setPreference: #serverMode toValue: true.
+			[ : portString | WorldState serverMode: true.
 			Smalltalk mitigateIfHeadless.
 			(MagmaServerConsole new
 				 open: 'model' ;

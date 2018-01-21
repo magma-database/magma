@@ -3,7 +3,6 @@ launch
 	"Players treat first command-line args as a port number, not a script."
 	players ifEmpty: [ MaClientServerUserError signal: 'No players.  Launching is useless.' ].
 	"Allow multiple parameters, don't assume a .st file input."
-	Preferences readDocumentAtStartup: false.
 	MCFileBasedRepository flushAllCaches.
 	Smalltalk saveAs: self conductorImageName.
 	imageTimestamp := Smalltalk imageEntry modificationTime.
