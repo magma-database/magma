@@ -34,10 +34,9 @@ baseline: spec
 				spec requires: #('Ma-Ascii-Report' 'Ma-Core' ). ];
 	
 			package: 'Ma-Squeak-Core';
-			package: 'Magma-Squeak-Client';
 
 			package: 'Magma-Client' with: [
-				spec requires: #('Ma-Squeak-Core' 'Magma-Squeak-Client' 'Ma-Ascii-Report' 'Ma-Client-Server-Core' 'Ma-Collections' 'Ma-Core' 'Ma-Serializer-Core' 'Ma-Statistics' 'SOLHashTables' 'WriteBarrier' ). ];
+				spec requires: #('Ma-Squeak-Core' 'Ma-Ascii-Report' 'Ma-Client-Server-Core' 'Ma-Collections' 'Ma-Core' 'Ma-Serializer-Core' 'Ma-Statistics' 'SOLHashTables' 'WriteBarrier' ). ];
 			package: 'Magma-Server' with: [
 				spec requires: #('Ma-Client-Server-Core' 'Ma-Collections' 'Ma-Core' 'Ma-Search' 'Ma-Serializer-Core' 'WriteBarrier' 'Magma-Client' ). ];
 			package: 'Magma-Tester' with: [
