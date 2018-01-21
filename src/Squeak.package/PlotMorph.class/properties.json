@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "dgd 10/11/2003 21:12",
+	"super" : "Object",
+	"category" : "Squeak",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PlotMorph",
+	"type" : "normal"
+}

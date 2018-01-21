@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "cmm 5/31/2012 14:53",
 	"super" : "Object",
 	"category" : "Squeak",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "FlapTab",
+	"name" : "StackedPlotMorph",
 	"type" : "normal"
 }
