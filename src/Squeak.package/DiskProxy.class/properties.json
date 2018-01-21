@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Squeak",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"globalObjectName",
+		"preSelector",
+		"constructorSelector",
+		"constructorArgs"
+	],
+	"name" : "DiskProxy",
+	"type" : "normal"
+}
