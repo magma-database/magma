@@ -1,4 +1,4 @@
-private non-collection samples
+rm
 scaledDecimalSamples
 	^ { 
 		((13 / 11) asScaledDecimal: 6).

@@ -1,4 +1,4 @@
-private non-collection samples
+rm
 blockSamples
 	| temp |
 	temp := 'hello'->'world'.

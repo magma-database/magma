@@ -1,3 +1,0 @@
-testing
-isMagmaWorld
-	^ true

@@ -1,1 +1,0 @@
-A MagmaWorld makes a good root of a Magma database. Any object can be the root of a Magma database, but by subclassing MagmaWorld for your application root, it can take advantage of the application hooks and services provided by Magma-Squeak.

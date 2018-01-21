@@ -1,4 +1,4 @@
-private non-collection samples
+rm
 metaClassSamples
 
 	^ self classSamples collect: [ : each | each class ]

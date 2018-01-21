@@ -1,4 +1,4 @@
-private non-collection samples
+rm
 classSamples
 
 	^ Collection withAllSubclasses asArray

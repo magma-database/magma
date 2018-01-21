@@ -1,4 +1,4 @@
-private non-collection samples
+rm
 soundSamples
 | classGetter |
 classGetter := [ : name |  (Smalltalk classNamed: #PluckedSound) ifNotNil: [ : theClass | theClass default ]. ].

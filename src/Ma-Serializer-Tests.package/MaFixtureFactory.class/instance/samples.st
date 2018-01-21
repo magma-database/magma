@@ -8,9 +8,9 @@ samples
 		samples
 			at: eachSelector
 			put: eachSamples ].
-	self collectionSamplesDo:
+	"self collectionSamplesDo:
 		[ : eachSelector : eachSamples |
 		samples
 			at: eachSelector
-			put: eachSamples ].
+			put: eachSamples ]."
 	^ samples

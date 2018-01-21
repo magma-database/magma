@@ -1,4 +1,4 @@
-private non-collection samples
+rm
 colorSamples
 	^ Array
 		with: Color paleBuff slightlyDarker

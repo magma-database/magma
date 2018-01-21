@@ -1,4 +1,4 @@
-private non-collection samples
+rm
 exceptionSamples
 	^ { Error new messageText: 'sample error'.
 	Warning new messageText: 'sample warning'.
