@@ -1,0 +1,4 @@
+*ma-collections
+associationClass
+
+	^Association
