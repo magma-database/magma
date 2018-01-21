@@ -33,5 +33,4 @@ legacyClassMap
 		(112 -> Collection).
 		(113 -> Symbol).
 		(114 -> String).
-		(120 -> WideString)
 	 }

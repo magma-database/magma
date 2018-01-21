@@ -6,4 +6,5 @@ minimumClasses
 	Boolean. SmallInteger. Character. Float. UndefinedObject.
 	Array. #size class. '' class. ByteArray. Set.  OrderedCollection. Dictionary.
 	"Added these at the end for backward compatibility.  Boolean was not the right one, you need the exact classes!"
-	True. False } 
+	True. False.
+	WideString } 
