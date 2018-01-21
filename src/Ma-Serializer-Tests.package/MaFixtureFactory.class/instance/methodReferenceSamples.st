@@ -1,4 +1,4 @@
-rm
+private non-collection samples
 methodReferenceSamples
-	^ {(self class compiledMethodAt: thisContext selector) methodReference.
-	(MaSingleton class compiledMethodAt: #current) methodReference }
+	^ {(self class compiledMethodAt: thisContext selector) maMethodReference.
+	(MaSingleton class compiledMethodAt: #current) maMethodReference }

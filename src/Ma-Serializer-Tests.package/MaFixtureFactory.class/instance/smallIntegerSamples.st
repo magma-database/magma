@@ -1,4 +1,4 @@
-rm
+private non-collection samples
 smallIntegerSamples
 
 	^Array

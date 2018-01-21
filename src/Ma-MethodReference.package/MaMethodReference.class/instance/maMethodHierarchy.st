@@ -6,7 +6,7 @@ maMethodHierarchy
 	superclasses := self actualClass allSuperclasses reverse.
 	superclasses do: 
 		[ : each | 
-		(each includesSelector: self selector) ifTrue: [ answer add: (each >> self selector) methodReference ] ].
+		(each includesSelector: self selector) ifTrue: [ answer add: (each >> self selector) maMethodReference ] ].
 	self actualClass 
 		allSubclassesWithLevelDo: 
 			[ : eachClass : level | 

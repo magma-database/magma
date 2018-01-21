@@ -6,4 +6,4 @@ asValid
 		ifFalse:
 			[ | cm |
 			cm := self actualClass lookupSelector: self selector.
-			cm ifNotNil: [ cm methodReference ] ]
+			cm ifNotNil: [ cm maMethodReference ] ]
