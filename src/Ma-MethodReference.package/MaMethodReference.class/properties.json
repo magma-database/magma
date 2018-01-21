@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "tlk 5/9/2006 18:43",
+	"super" : "Object",
+	"category" : "Ma-MethodReference",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"classSymbol",
+		"classIsMeta",
+		"methodSymbol",
+		"stringVersion",
+		"category",
+		"environment"
+	],
+	"name" : "MaMethodReference",
+	"type" : "normal"
+}

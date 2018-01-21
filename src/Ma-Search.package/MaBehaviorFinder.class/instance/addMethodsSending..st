@@ -12,6 +12,6 @@ addMethodsSending: selectorString
 			[ : eachCm | 
 			(eachCm sendsSelector: selectorSymbol) ifTrue: 
 				[ self addMethod: 
-					(MethodReference 
+					(MaMethodReference 
 						class: eachClass
 						selector: eachCm selector) ] ] ]

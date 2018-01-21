@@ -7,6 +7,6 @@ addMethodsNamed: aSymbol
 			[ : eachSelector | 
 			(eachSelector = aSymbol) ifTrue: 
 				[ self addMethod: 
-					(MethodReference 
+					(MaMethodReference 
 						class: eachClass
 						selector: eachSelector) ] ] ]

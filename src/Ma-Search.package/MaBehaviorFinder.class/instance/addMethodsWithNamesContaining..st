@@ -9,6 +9,6 @@ addMethodsWithNamesContaining: aString
 				includesSubstring: aString
 				caseSensitive: self isCaseSensitive) ifTrue: 
 				[ self addMethod:
-					(MethodReference 
+					(MaMethodReference 
 						class: eachClass
 						selector: eachSelector) ] ] ]

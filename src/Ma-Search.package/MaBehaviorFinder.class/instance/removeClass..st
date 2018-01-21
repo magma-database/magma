@@ -4,6 +4,6 @@ removeClass: aClass
 	aClass selectorsDo: 
 		[ : each | 
 		self removeMethod: 
-			(MethodReference 
+			(MaMethodReference 
 				class: aClass
 				selector: each) ]

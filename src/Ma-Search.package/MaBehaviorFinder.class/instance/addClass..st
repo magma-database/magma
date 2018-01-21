@@ -4,4 +4,4 @@ addClass: aClass
 
 	aClass selectorsDo:
 		[ : each | 
-		self addMethod: (MethodReference class: aClass selector: each) ]
+		self addMethod: (MaMethodReference class: aClass selector: each) ]

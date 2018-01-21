@@ -7,4 +7,4 @@ maAllMethodReferencesDo: aBlock
 				[ : class |
 				class selectorsDo:
 					[ : sel | 
-					aBlock value: (MethodReference class: class selector: sel) ] ] ]
+					aBlock value: (MaMethodReference class: class selector: sel) ] ] ]
