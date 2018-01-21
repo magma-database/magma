@@ -12,7 +12,7 @@ headerForThisVm
 	headerVal := self longAt: self bufferPositionOfMethodHeader.
 	^ self spurHeader
 		ifTrue:
-			[ Smalltalk isRunningSpur
+			[ Smalltalk vm isSpur
 				ifTrue: [headerVal]
 				ifFalse: 
 					[ "Spur-to-Cog header conversion."

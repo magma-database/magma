@@ -1,7 +1,7 @@
 *ma-serializer-core
 maSelectPreMadeObjectBufferFrom: aMaObjectSerializer 
 	| cl |
-	self isMethodContext ifTrue: [  ^ aMaObjectSerializer preMadeMethodContextBuffer  ].
+	self isContext ifTrue: [  ^ aMaObjectSerializer preMadeMethodContextBuffer  ].
 	self isCompiledMethod ifTrue: [ ^ aMaObjectSerializer preMadeCompiledMethodBuffer ].
 	cl := self class.
 	cl isBytes ifTrue: [ ^ aMaObjectSerializer preMadeByteObjectBuffer ].
