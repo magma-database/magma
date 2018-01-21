@@ -6,6 +6,7 @@ initialize
 	Smalltalk
 		addToStartUpList: self ;
 		addToShutDownList: self.
-	Smalltalk 
+	"TODO"
+	"Smalltalk 
 		addToStartUpList: MaServerSocket
-		after: self
+		after: self"
