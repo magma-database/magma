@@ -13,6 +13,7 @@ baseline: spec
 					repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo50/main/' ].
 		spec 
 			package: 'Squeak';
+			package: 'MaMethodReference';
 			package: 'BrpExtensions';
 			package: 'Ma-Ascii-Report' with: [
 				spec requires: #('Ma-Core' ). ];
@@ -23,7 +24,7 @@ baseline: spec
 			package: 'Ma-Collections' with: [
 				spec requires: #('Ma-Core' ). ];
 			package: 'Ma-Core' with: [
-				spec requires: #(#'Squeak' ). ];
+				spec requires: #(#'Squeak' 'MaMethodReference' ). ];
 			package: 'Ma-Search' with: [
 				spec requires: #('Ma-Core' ). ];
 			package: 'Ma-Serializer-Core' with: [
