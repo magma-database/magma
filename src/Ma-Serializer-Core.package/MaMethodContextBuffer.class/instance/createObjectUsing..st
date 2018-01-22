@@ -1,6 +1,6 @@
 creation
 createObjectUsing: aMaObjectSerializer 
-	^ MethodContext basicNew:
+	^ MethodContext newFromFrameSize:
 		(self largeFrame
 			ifTrue: [ CompiledMethod fullFrameSize ]
 			ifFalse: [ CompiledMethod smallFrameSize ])

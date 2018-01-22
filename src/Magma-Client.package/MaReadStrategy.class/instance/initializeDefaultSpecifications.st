@@ -47,7 +47,7 @@ initializeDefaultSpecifications
 		forVariableNamed: 'arguments'
 		onAny: MessageSend
 		readToDepth: 1.
-	{MethodContext. 
+	{Context. 
 	BlockContext. 
 	BlockClosure} do:
 		[ : each | self

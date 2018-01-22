@@ -6,7 +6,7 @@ referencesDo: aBlock
 			[ : path : parent : index | | cl |
 			cl := path last class.
 			cl = self class or:
-				[ cl = MethodContext or:
-					[ parent class = MethodContext and: [ index >= 6 "only traverse the receiver and indexed inst-vars" ] ] ] ]
+				[ cl = Context or:
+					[ parent class = Context and: [ index >= 6 "only traverse the receiver and indexed inst-vars" ] ] ] ]
 		do:
 			[ : path : parent : index | path last == self ifFalse: [ aBlock value: path last ] ]

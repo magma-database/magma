@@ -52,9 +52,9 @@ preferences
 	preferences
 		beforeSerializingAny: #CompiledMethod
 			do: [ : aCompiledMethod | aCompiledMethod fixForWriteBarrier ] ;
-		beforeSerializingAny: #MethodContext
+		beforeSerializingAny: #Context
 			do:
 				[ : aMethodContext | aMethodContext removeSelf.
 				1 to: aMethodContext numArgs do: [ : n | aMethodContext tempAt: n put: nil ] ] ;
-		afterMaterializingAny: #MethodContext
+		afterMaterializingAny: #Context
 			do: [ : aMethodContext | aMethodContext privRefresh ].

@@ -34,7 +34,7 @@ cleanUp
 	Smalltalk garbageCollect.
 	self allSubInstances do:
 		[ : each | (each pointersTo) do:
-			[ : referencer | referencer class == MethodContext ifTrue: [ referencer receiver: nil ] ] ].
+			[ : referencer | referencer class == Context ifTrue: [ referencer receiver: nil ] ] ].
 	Smalltalk garbageCollect.
 	after := self allSubInstances size.
 	(after > 0 and: [ Smalltalk hasMaui ]) ifTrue:
