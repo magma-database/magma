@@ -1,5 +1,4 @@
 private
 conductorImageEntry
-	^ FileDirectory default
-		entryAt: self conductorImageName
-		ifAbsent: [  ]
+	^ FileLocator imageDirectory / self conductorImageName
+		
